@@ -346,11 +346,6 @@ redis.conf 配置解析
     aof rewrite 过程中，是否采取增量文件同步策略，默认为“yes”。 rewrite 过程中,每32M数据进行一次文件同步，这样可以减少 aof 大文件写入对磁盘的操作次数。
     aof-rewrite-incremental-fsync yes
     
-    作者：晏子小七
-    链接：https://www.jianshu.com/p/f5c9a9738bc2
-    來源：简书
-    简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。   
-   
     
 ### 4. redis 分布式集群部署
 >  1. 部署原理：
