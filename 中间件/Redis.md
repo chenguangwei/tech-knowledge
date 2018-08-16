@@ -371,6 +371,9 @@ redis.conf 配置解析
 
 - [Redis3.0.7集群部署](https://www.jianshu.com/p/7cfcee0f0980)
 - [Redis笔记整理（二）：Java API使用与Redis分布式集群环境搭建](http://blog.51cto.com/xpleaf/2091534)
+- [分布式缓存利器之Redis集群安装与配置](https://www.jianshu.com/p/3fcb8777cb42)
+- [史上最全 Redis 高可用技术解决方案大全](https://segmentfault.com/a/1190000014374473)
+- [分布式缓存 Redis 使用心得](https://juejin.im/entry/56baa0cfc4c97100522945d3)
 ### 5. redis 分布式锁
 1. 实现方案：
 
@@ -420,6 +423,13 @@ redis.conf 配置解析
 
 - [Redis笔记整理（三）：进阶操作与高级部分](http://blog.51cto.com/xpleaf/2091636)
 ### 8. redis 秒杀
+
+
+- [java 用redis如何处理电商平台，秒杀、抢购超卖](https://blog.csdn.net/u012116196/article/details/51782934)
+- [京东抢购服务高并发实践](http://www.uml.org.cn/qiyezjjs/201608174.asp)
+- [网站大规模并发处理方案：电商秒杀与抢购](https://www.awaimai.com/348.html)
+- [Redis分布式锁解决抢购问题](https://segmentfault.com/a/1190000011421467)
+- [Redis实现高并发下的抢购、秒杀功能](https://www.jianshu.com/p/80b99583b293)
 
 ### 9. redis FAQ
 
