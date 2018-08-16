@@ -1,17 +1,34 @@
 redis
 =============
 
+相关技术网站：<br>
+   - [史上最全 50 道 Redis 面试题及答案](https://juejin.im/post/5b7151e951882561392806e0)
+
+    1. 基础知识
+    2. redis 的应用场景 
+    3. redis 安装和部署（操作命令和步骤）
+    4. redis分布式集群部署（操作命令和步骤）
+    5. redis 分布式锁实现（包含代码实现）
+    6. redis 分布式事务（包含代码实现） 
+    7. redis 实现消息队列（包含代码实现）
+    8. redis 实现秒杀（包含代码实现）
+    9. redis FAQ
+    10. redis 工作中常见问题和解决方案
+    11. redis 大数据下实践
+    12. redis 源码分析
+
 #### 1. 基础知识
  redis是用C语言开发的一个开源的高性能键值对（key-value）数据库。它通过提供多种键值数据类型来适应不同场景下的存储需求，目前为止redis支持的键值数据类型如下
 字符串、列表（lists）、集合（sets）、有序集合（sorts sets）、哈希表（hashs）
 #### 2. redis的应用场景
  缓存（数据查询、短连接、新闻内容、商品内容等等）。（最多使用）
- 分布式集群架构中的session分离。
+ 分布式集群架构中的session分离(会话缓存)。
  聊天室的在线好友列表。
  任务队列。（秒杀、抢购、12306等等）
  应用排行榜。
  网站访问统计。
  数据过期处理（可以精确到毫秒）
+ 存储时间戳（类似排行榜，使用redis的zset用于存储时间戳，时间会不断变化。例如，按照用户关注用户的最新动态列表。）
 
 
 ### 3. redis 安装和部署
@@ -359,4 +376,65 @@ redis.conf 配置解析
 > 1. 实现方案：
 > 2. 实践
 
-### 7. redis 源码分析
+### 7. redis 消息队列
+
+### 8. redis 秒杀
+
+### 9. redis FAQ
+
+
+    1、 问：为什么说Redis是单线程的以及Redis为什么这么快
+        答： 1、完全基于内存，
+            2、数据结构简单，
+            3、采用单线程，避免了不必要的上下文切换和竞争条件，不用去考虑各种锁的问题，不存在加锁释放锁操作，没有因为可能出现死锁而导致的性能消耗
+            4、使用多路I/O复用模型，非阻塞IO；
+            5、使用底层模型不同，它们之间底层实现方式以及与客户端之间通信的应用协议不一样，Redis直接自己构建了VM 机制 ，
+        参考：见下面参考链接
+        
+    2、问：redis是单线程的 如何提高多核cpu的利用率
+       答：CPU不太可能是Redis的瓶颈，一般内存和网络才有可能是。 例如使用Redis的管道（pipelining）在liunx系统上运行可以达到500K的RPS(requests per second) ，因此，如果您的应用程序主要使用O(N) 或者O(log(N)) 的 命令，他们几乎不需要使用什么CPU。
+         然而，为了最大限度的使用CPU，可以在同一个服务器部署多个Redis的实例，并把他们当作不同的服务器来使用，在某些时候，无论如何一个服务器是不够的，
+         所以，如果你想使用多个CPU，你可以考虑一下分片（shard） 。。
+         在Redis的客户端类库里面，比如RB（Ruby的客户端）和Predis（最常用的PHP客户端之一），能够使用一致性哈希（consistent hashing）来处理多个Redis实例。
+       参考：见下面参考链接   
+    3、问： mySQL里有2000w数据，redis中只存20w的数据，如何保证redis中的数据都是热点数据   
+       答：
+         相关知识：redis 内存数据集大小上升到一定大小的时候，就会施行数据淘汰策略。redis 提供 6种数据淘汰策略：
+         voltile-lru：从已设置过期时间的数据集（server.db[i].expires）中挑选最近最少使用的数据淘汰
+         volatile-ttl：从已设置过期时间的数据集（server.db[i].expires）中挑选将要过期的数据淘汰
+         volatile-random：从已设置过期时间的数据集（server.db[i].expires）中任意选择数据淘汰
+         allkeys-lru：从数据集（server.db[i].dict）中挑选最近最少使用的数据淘汰
+         allkeys-random：从数据集（server.db[i].dict）中任意选择数据淘汰
+         noenviction（驱逐）：禁止驱逐数据
+         redis 确定驱逐某个键值对后，会删除这个数据并，并将这个数据变更消息发布到本地（AOF 持久化）和从机（主从连接）
+         详情（配置）可看下面的参考（深入理解Redis数据淘汰策略） 链接：https://blog.csdn.net/wtyvhreal/article/details/46390065
+         
+    4、问：Redis 常见的性能问题都有哪些？如何解决？
+       答：
+       Master写内存快照，save命令调度rdbSave函数，会阻塞主线程的工作，当快照比较大时对性能影响是非常大的，会间断性暂停服务，所以Master最好不要写内存快照。
+       Master
+       AOF持久化，如果不重写AOF文件，这个持久化方式对性能的影响是最小的，但是AOF文件会不断增大，AOF文件过大会影响Master重启的恢复速度。Master最好不要做任何持久化工作，包括内存快照和AOF日志文件，特别是不要启用内存快照做持久化,如果数据比较关键，某个Slave开启AOF备份数据，策略为每秒同步一次。
+       Master调用BGREWRITEAOF重写AOF文件，AOF在重写的时候会占大量的CPU和内存资源，导致服务load过高，出现短暂服务暂停现象。
+       Redis主从复制的性能问题，为了主从复制的速度和连接的稳定性，Slave和Master最好在同一个局域网内
+       
+参考: <br>
+
+- [为什么说Redis是单线程的以及Redis为什么这么快](https://zhuanlan.zhihu.com/p/34438275)
+- [Redis FAQ](http://www.redis.cn/topics/faq.html)
+- [Redis 常见问题 ](https://www.jianshu.com/p/b8b6b7063cf0)
+- [深入理解Redis数据淘汰策略](https://blog.csdn.net/wtyvhreal/article/details/46390065)
+- [关于Redis的一些思考和总结](https://www.jianshu.com/p/b8880db58241)
+- [史上最全 50 道 Redis 面试题及答案](https://juejin.im/post/5b7151e951882561392806e0)
+- [从头到尾解析Hash表算法](https://blog.csdn.net/v_JULY_v/article/details/6256463)
+- [Redis持久化详解（RDB、AOF）](https://www.jianshu.com/p/5ce3c0cb66e4)
+- [Redis持久化----RDB和AOF 的区别](https://blog.csdn.net/ljheee/article/details/76284082)
+-[redis持久化RDB和AOF](https://my.oschina.net/davehe/blog/174662)
+### 10. redis 工作中常见问题和解决方案
+        1. 问：如何做到redis和数据库同步
+        
+        2. 问：redis是如何实现主备方案的
+
+- [redis实现主从复制和高可用(主从切换)](https://my.oschina.net/manmao/blog/550428)
+        
+### 11. redis 大数据下实践
+### 12. redis 源码分析
