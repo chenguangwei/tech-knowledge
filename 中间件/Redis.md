@@ -429,7 +429,6 @@ redis.conf 配置解析
 - [京东抢购服务高并发实践](http://www.uml.org.cn/qiyezjjs/201608174.asp)
 - [网站大规模并发处理方案：电商秒杀与抢购](https://www.awaimai.com/348.html)
 - [Redis分布式锁解决抢购问题](https://segmentfault.com/a/1190000011421467)
-- [Redis实现高并发下的抢购、秒杀功能](https://www.jianshu.com/p/80b99583b293)
 
 ### 9. redis FAQ
 
@@ -468,6 +467,23 @@ redis.conf 配置解析
        Master调用BGREWRITEAOF重写AOF文件，AOF在重写的时候会占大量的CPU和内存资源，导致服务load过高，出现短暂服务暂停现象。
        Redis主从复制的性能问题，为了主从复制的速度和连接的稳定性，Slave和Master最好在同一个局域网内
        
+     5、问：redis与Mysql的如何保持数据一致性
+        答：解决方法是 2PC或是Paxos协议，代价较大。
+          所以我们采用的方式是：
+          写数据只写db
+          更新数据先更新db，再失效cache
+          读数据，先读cache，未命中读db，写入cache
+     6、问：Redis如何做到主从同步的，如果同步时候出现网络异常怎么办
+        答：
+        当Slave需要和Master进行数据同步时：
+        1)     Salve会发送sync命令到Master
+        2)     Master启动一个后台进程，将Redis中的数据快照保存到文件中
+        3)     启动后台进程的同时，Master会将保存数据快照期间接收到的写命令缓存起来
+        4)     Master完成写文件操作后，将该文件发送给Salve
+        5)     Salve将文件保存到磁盘上，然后加载文件到内存恢复数据快照到Salve的Redis上
+        6)     当Salve完成数据快照的恢复后，Master将这期间收集的写命令发送给Salve端
+        7)     后续Master收集到的写命令都会通过之前建立的连接，增量发送给salve端
+        总结一下，主从刚刚连接的时候，进行全量同步；全同步结束后，进行增量同步。当然，如果有需要，slave 在任何时候都可以发起全量同步
 参考: <br>
 
 - [为什么说Redis是单线程的以及Redis为什么这么快](https://zhuanlan.zhihu.com/p/34438275)
@@ -479,7 +495,10 @@ redis.conf 配置解析
 - [从头到尾解析Hash表算法](https://blog.csdn.net/v_JULY_v/article/details/6256463)
 - [Redis持久化详解（RDB、AOF）](https://www.jianshu.com/p/5ce3c0cb66e4)
 - [Redis持久化----RDB和AOF 的区别](https://blog.csdn.net/ljheee/article/details/76284082)
--[redis持久化RDB和AOF](https://my.oschina.net/davehe/blog/174662)
+- [Redis持久化RDB和AOF](https://my.oschina.net/davehe/blog/174662)
+- [Redis与Mysql的数据一致性](https://cdn2.jianshu.io/p/23abe7620096?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation)
+- [Redis主从同步：全量同步 增量同步](https://blog.csdn.net/u012538947/article/details/80601356)
+- [Redis主从同步原理-PSYNC](https://blog.csdn.net/sk199048/article/details/77922589)
 ### 10. redis 工作中常见问题和解决方案
         1. 问：如何做到redis和数据库同步
         
