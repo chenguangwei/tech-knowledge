@@ -25,6 +25,12 @@
 
     推荐指数：:star::star::star::star:
 
+-  学习如何设计大型系统
+
+    https://github.com/donnemartin/system-design-primer/blob/master/README-zh-Hans.md
+
+    推荐指数：:star::star::star::star:
+    
 - 程序猿成长计划
 
     https://github.com/mylxsw/growing-up
@@ -42,3 +48,5 @@
     https://github.com/zhisheng17/AlgorithmCode
 
     推荐指数：:star::star::star::star:
+    
+    
