@@ -241,6 +241,7 @@ redis.conf 配置解析
 - [Redis主从同步原理-PSYNC](https://blog.csdn.net/sk199048/article/details/77922589)
 - [解析配置文件 redis.conf、Redis持久化RDB、Redis的主从复制](https://www.jianshu.com/p/fc87cedce780)
 - [构建高性能数据库缓存之redis主从复制](http://blog.51cto.com/cfwlxf/1433637)
+- [redis的相关操作以及相关环境的搭建与连接（哨兵环境、cluster环境等](https://github.com/youzhibing/redis)
 ### 10. redis 工作中常见问题和解决方案
         1. 问：如何做到redis和数据库同步
 
