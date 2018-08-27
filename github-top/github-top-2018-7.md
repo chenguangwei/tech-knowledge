@@ -22,6 +22,8 @@ https://github.com/donnemartin/system-design-primer
 速度快，通常在 100 毫秒以内就可以返回答案；
 可以直接在代码编辑器中使用，无需打开浏览器。
 
+https://github.com/chubin/cheat.sh
+
 3.Interview Map（Star 6237）
 
 这是一个最佳的面试地图，目前的内容包括 JS、网络、浏览器相关、性能优化、安全性、框架、Git、数据结构、算法等。该图谱涉及的知识点有基础、有深入、也有源码解析，能够在平时的学习中查漏补缺。
