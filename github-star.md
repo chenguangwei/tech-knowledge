@@ -48,5 +48,24 @@
     https://github.com/zhisheng17/AlgorithmCode
 
     推荐指数：:star::star::star::star:
+
+- X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统。基于Redis的Master-Slave复制协议，实现低延时、高可用的Redis多数据中心复制，并且提供一键机房切换，复制监控、异常报警等功能。
+
+    https://github.com/ctripcorp/x-pipe
+    
+- 16年阿里中间件性能挑战赛初赛题，RocketMQ+JStorm+Tair实时统计双11交易金额
+
+    https://github.com/yuyang733/alibaba-middleware-race-preliminary
+    
+- 一个 QQ 聊天机器人，她的名字叫做小薇~
+
+    https://github.com/b3log/xiaov    
+    
+- 多年积累的基础算法等，使用java实现，包括：基础算法，大数据算法，JVM特性等示例程序集合，适合面试官选取面试题或者面试者准备面试阅读
+    https://github.com/cloudatee/java-pearl
     
     
+-互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构
+
+    https://github.com/davideuler/architecture.of.internet-product
+ 
