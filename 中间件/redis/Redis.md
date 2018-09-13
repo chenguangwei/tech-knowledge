@@ -17,6 +17,9 @@ redis
 #### 1. 基础知识
  redis是用C语言开发的一个开源的高性能键值对（key-value）数据库。它通过提供多种键值数据类型来适应不同场景下的存储需求，目前为止redis支持的键值数据类型如下
 字符串、列表（lists）、集合（sets）、有序集合（sorts sets）、哈希表（hashs）
+
+- [通俗易懂的 Redis 的 5 种数据结构基础教程](https://mp.weixin.qq.com/s/Ts2EPyUsHP83TSJF-H28kw)
+
 #### 2. redis的应用场景
  缓存（数据查询、短连接、新闻内容、商品内容等等）。（最多使用）
  分布式集群架构中的session分离(会话缓存)。
@@ -217,7 +220,7 @@ redis.conf 配置解析
      6、问：Redis如何做到主从同步的，如果同步时候出现网络异常怎么办
         答：
         当Slave需要和Master进行数据同步时：
-        1)     Salve会发送sync命令到Master
+        1)     Slave会发送sync命令到Master
         2)     Master启动一个后台进程，将Redis中的数据快照保存到文件中
         3)     启动后台进程的同时，Master会将保存数据快照期间接收到的写命令缓存起来
         4)     Master完成写文件操作后，将该文件发送给Salve
