@@ -113,11 +113,15 @@ redis.conf 配置解析
 >  1. 部署原理：
 >  2. 实践
 
+- [Redis Cluster深入与实践](http://blueskykong.com/2017/09/29/rediscluster/)
 - [Redis3.0.7集群部署](https://www.jianshu.com/p/7cfcee0f0980)
 - [Redis笔记整理（二）：Java API使用与Redis分布式集群环境搭建](http://blog.51cto.com/xpleaf/2091534)
 - [分布式缓存利器之Redis集群安装与配置](https://www.jianshu.com/p/3fcb8777cb42)
 - [史上最全 Redis 高可用技术解决方案大全](https://segmentfault.com/a/1190000014374473)
 - [分布式缓存 Redis 使用心得](https://juejin.im/entry/56baa0cfc4c97100522945d3)
+- [构建高性能数据库缓存之redis主从复制](http://blog.51cto.com/cfwlxf/1433637)
+- [redis的相关操作以及相关环境的搭建与连接（哨兵环境、cluster环境等](https://github.com/youzhibing/redis)
+- [redis cluster管理工具redis-trib.rb详解](http://weizijun.cn/2016/01/08/redis%20cluster%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7redis-trib-rb%E8%AF%A6%E8%A7%A3/)
 ### 5. redis 分布式锁
 1. 实现方案：
 
@@ -243,8 +247,6 @@ redis.conf 配置解析
 - [Redis主从同步：全量同步 增量同步](https://blog.csdn.net/u012538947/article/details/80601356)
 - [Redis主从同步原理-PSYNC](https://blog.csdn.net/sk199048/article/details/77922589)
 - [解析配置文件 redis.conf、Redis持久化RDB、Redis的主从复制](https://www.jianshu.com/p/fc87cedce780)
-- [构建高性能数据库缓存之redis主从复制](http://blog.51cto.com/cfwlxf/1433637)
-- [redis的相关操作以及相关环境的搭建与连接（哨兵环境、cluster环境等](https://github.com/youzhibing/redis)
 ### 10. redis 工作中常见问题和解决方案
         1. 问：如何做到redis和数据库同步
 
@@ -257,3 +259,6 @@ redis.conf 配置解析
 ### 11. redis 大数据下实践
 
 ### 12. redis 源码分析
+
+### 13.面试
+- [互联网公司面试必问的Redis题目](https://juejin.im/post/5b99d4bce51d450e7a24b66e)

@@ -13,7 +13,7 @@ dubbo
 > dubbo和JDK版本要对应
 
 > dubbo 解析
-> - [dubbo解析文档](https://dubbo.gitbooks.io/dubbo-user-book/preface/background.html)
+> - [dubbo用户解析文档](https://dubbo.gitbooks.io/dubbo-user-book/preface/background.html)
 
 
 > dubbo FAQ

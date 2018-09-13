@@ -58,6 +58,11 @@ Spring
 - [Spring 注解大全与详解](https://blog.csdn.net/weixin_37490221/article/details/78406810)
 - [Spring常用注解介绍](https://blog.csdn.net/u010648555/article/details/76299467)
 
+#### spring cache
+
+- [spring cache的使用](https://www.jianshu.com/p/49fc4065201a)
+- [Spring Cache抽象详解](http://jinnianshilongnian.iteye.com/blog/2001040/)
+
 #### spring 源码分析
 
 1. 书籍《Spring 源码深度解析》
