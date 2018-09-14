@@ -113,15 +113,22 @@ redis.conf 配置解析
 >  1. 部署原理：
 >  2. 实践
 
+推荐指数：****
+- [Redis Cluster深入与实践（续](https://juejin.im/entry/5a54a9cbf265da3e38495e7b)
 - [Redis Cluster深入与实践](http://blueskykong.com/2017/09/29/rediscluster/)
 - [Redis3.0.7集群部署](https://www.jianshu.com/p/7cfcee0f0980)
-- [Redis笔记整理（二）：Java API使用与Redis分布式集群环境搭建](http://blog.51cto.com/xpleaf/2091534)
 - [分布式缓存利器之Redis集群安装与配置](https://www.jianshu.com/p/3fcb8777cb42)
-- [史上最全 Redis 高可用技术解决方案大全](https://segmentfault.com/a/1190000014374473)
-- [分布式缓存 Redis 使用心得](https://juejin.im/entry/56baa0cfc4c97100522945d3)
-- [构建高性能数据库缓存之redis主从复制](http://blog.51cto.com/cfwlxf/1433637)
 - [redis的相关操作以及相关环境的搭建与连接（哨兵环境、cluster环境等](https://github.com/youzhibing/redis)
 - [redis cluster管理工具redis-trib.rb详解](http://weizijun.cn/2016/01/08/redis%20cluster%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7redis-trib-rb%E8%AF%A6%E8%A7%A3/)
+
+推荐指数：***、
+- [分布式缓存 Redis 使用心得](https://juejin.im/entry/56baa0cfc4c97100522945d3)
+- [构建高性能数据库缓存之redis主从复制](http://blog.51cto.com/cfwlxf/1433637)
+
+> 3.redis-哈希槽
+
+- [Redis-哈希槽](https://blog.csdn.net/z15732621582/article/details/79121213)
+
 ### 5. redis 分布式锁
 1. 实现方案：
 
