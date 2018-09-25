@@ -128,6 +128,7 @@ redis.conf 配置解析
 > 3.redis-哈希槽
 
 - [Redis-哈希槽](https://blog.csdn.net/z15732621582/article/details/79121213)
+- [why redis-cluster use 16384 slots](https://github.com/antirez/redis/issues/2576)
 
 ### 5. redis 分布式锁
 1. 实现方案：

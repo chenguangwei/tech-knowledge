@@ -25,6 +25,8 @@ LongAdder
 
 - [Java8内存模型—永久代(PermGen)和元空间(Metaspace)](https://www.cnblogs.com/paddix/p/5309550.html)
 - [JDK8 的FullGC 之 metaspace](https://www.jianshu.com/p/1a0b4bf8d498)
+- [JVM(二)Java8内存划分](https://blog.csdn.net/yjp198713/article/details/78759933)
+
 
 3、Supplier 接口
 
