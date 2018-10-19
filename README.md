@@ -9,7 +9,7 @@
 技术栈
 
 - [coderxing从部落到帝国 - 后端技术栈的演进及开源实践](https://coderxing.gitbooks.io/architecture-evolution/chapter1.html)
-
+- [一个收集一些内容的github](https://github.com/mylxsw/growing-up/tree/master/doc)
 
 优秀技术博客
 
