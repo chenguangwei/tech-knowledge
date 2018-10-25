@@ -11,13 +11,14 @@ nginx.conf 配置
 
 root 指令
 
-location /dir/ 
-root root_path ->  http://host/dir/file.txt  -> root_path/dir/file.txt
+    location /dir/ 
+    root root_path ->  http://host/dir/file.txt  -> root_path/dir/file.txt
+
 alias 指令
 
-location /dir
-alias alias_path ->  http://host /dir /file.txt  -> alias_path/file.txt
-
-location /dir/ 
-alias alias_path/ ->  http://host /dir/ file.txt  -> alias_path/file.txt
+    location /dir
+    alias alias_path ->  http://host /dir /file.txt  -> alias_path/file.txt
+    
+    location /dir/ 
+    alias alias_path/ ->  http://host /dir/ file.txt  -> alias_path/file.txt
 
