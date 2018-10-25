@@ -10,3 +10,7 @@ FAQ
 
 - [快速定位Java服务线上“系统性”故障](https://www.jianshu.com/p/bfaf385520c5)
 - [用“逐步排除”的方法定位Java服务线上“系统性”故障](http://techblog.youdao.com/?p=961)
+
+
+- [JVM内存溢出与排错](https://blog.csdn.net/jiangtongcn/article/details/8222685)
+- [Java内存溢出(OOM)异常排查指南](https://blog.csdn.net/pbuzhidaol/article/details/72871898?utm_source=blogxgwz4)
