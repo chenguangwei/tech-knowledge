@@ -1,5 +1,6 @@
 zuul
 ==========
+- [zuul入门（1）zuul 的概念和原理](https://www.cnblogs.com/lexiaofei/p/7080257.html)
 - [Spring Cloud Zuul网关 Filter、熔断、重试、高可用的使用方式。](https://www.cnblogs.com/ityouknow/p/8391593.html)
 - [zuul源码解析](http://www.iocoder.cn/categories/Zuul/)
 - [ fnet / Spring Cloud基于Zuul的统一授权认证](https://gitee.com/fnet/Spring-CloudJiYuZuulDeTongYiShouQuanRenZheng)
