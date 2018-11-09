@@ -19,7 +19,7 @@ redis
 字符串、列表（lists）、集合（sets）、有序集合（sorts sets）、哈希表（hashs）
 
 - [通俗易懂的 Redis 的 5 种数据结构基础教程](https://mp.weixin.qq.com/s/Ts2EPyUsHP83TSJF-H28kw)
-
+- [redis 实战](https://www.kancloud.cn/digest/redis330/162449)
 #### 2. redis的应用场景
  缓存（数据查询、短连接、新闻内容、商品内容等等）。（最多使用）
  分布式集群架构中的session分离(会话缓存)。
