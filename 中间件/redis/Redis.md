@@ -270,3 +270,8 @@ redis.conf 配置解析
 
 ### 13.面试
 - [互联网公司面试必问的Redis题目](https://juejin.im/post/5b99d4bce51d450e7a24b66e)
+
+### 14.redis实战
+
+- [springboot系列文章之 集成redis 服务 (Lettuce & Jedis)](https://juejin.im/post/5ba0a098f265da0adb30c684)
+- [spring-boot | 整合Redis缓存数据](https://www.jianshu.com/p/a8694d97caaa)
