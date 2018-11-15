@@ -1,6 +1,9 @@
 elasticsearch
 =========
 
+- [《Elasticsearch 权威指南》中文版](https://www.elastic.co/guide/cn/elasticsearch/guide/current/getting-started.html)
+- [全文搜索引擎 Elasticsearch 入门教程](http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html)
+
 数据同步到elasticsearch
 - [同步 MySQL 数据到 Elasticsearch](https://www.jianshu.com/p/96c7858b580f)
 - [elasticsearch-jdbc实现MySQL同步到ElasticSearch深入详解](https://blog.csdn.net/laoyang360/article/details/51694519)
