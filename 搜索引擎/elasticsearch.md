@@ -23,3 +23,4 @@ elasticsearch
 - [ElasticSearch优化系列七：优化建议](https://www.jianshu.com/p/29ffce0850af)
 - [elasticsearch 官方重要配置的修改](https://www.elastic.co/guide/cn/elasticsearch/guide/current/important-configuration-changes.html)
 - [亿级规模的Elasticsearch优化实战](http://itindex.net/detail/54168-elasticsearch-%E4%BC%98%E5%8C%96)
+- [elasticsearch性能调优](https://www.cnblogs.com/hseagle/p/6015245.html)
