@@ -16,3 +16,10 @@ elasticsearch
 去重
 - [Elasticsearch6.X 去重详解](https://blog.csdn.net/laoyang360/article/details/79905676)
 - [利用redis实现elasticsearch入库去重](https://yuerblog.cc/2018/05/25/%E5%88%A9%E7%94%A8redis%E5%AE%9E%E7%8E%B0elasticsearch%E5%85%A5%E5%BA%93%E5%8E%BB%E9%87%8D/)
+
+
+配置优化
+
+- [ElasticSearch优化系列七：优化建议](https://www.jianshu.com/p/29ffce0850af)
+- [elasticsearch 官方重要配置的修改](https://www.elastic.co/guide/cn/elasticsearch/guide/current/important-configuration-changes.html)
+- [亿级规模的Elasticsearch优化实战](http://itindex.net/detail/54168-elasticsearch-%E4%BC%98%E5%8C%96)
