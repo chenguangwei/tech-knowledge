@@ -130,3 +130,9 @@ the space 69632K,   4% used [0x227d0000, 0x22aeb958, 0x22aeba00, 0x26bd0000)
 
 
 - [JVM(二)Java8内存划分](https://blog.csdn.net/yjp198713/article/details/78759933)
+
+- [JVM系列四:生产环境参数实例及分析【生产环境实例增加中】](https://www.cnblogs.com/redcreen/archive/2011/05/05/2038331.html)
+- [jvm参数陷阱](https://segmentfault.com/a/1190000005036183)
+- [JVM调优-学习篇](https://juejin.im/post/59bf5da85188257e70532430)
+- [线上某应用的FULLGC分析](http://jm.taobao.org/2016/03/23/3782/)
+- [一个有意思的CMS问题](https://www.jianshu.com/p/a322309b1d90)
