@@ -136,3 +136,19 @@ the space 69632K,   4% used [0x227d0000, 0x22aeb958, 0x22aeba00, 0x26bd0000)
 - [JVM调优-学习篇](https://juejin.im/post/59bf5da85188257e70532430)
 - [线上某应用的FULLGC分析](http://jm.taobao.org/2016/03/23/3782/)
 - [一个有意思的CMS问题](https://www.jianshu.com/p/a322309b1d90)
+
+
+
+
+- [Java内存溢出(OOM)异常完全指南](https://www.jianshu.com/p/2fdee831ed03)
+- [java.lang.OutOfMemoryError:PermGen space异常解决方法整理总结](https://blog.yoodb.com/yoodb/article/detail/1343)
+- [OutOfMemoryError系列（3）: Permgen space](https://blog.csdn.net/renfufei/article/details/77994177)
+- [java 大数据处理之内存溢出解决办法（一）](https://blog.csdn.net/houbin0912/article/details/65633769)
+- [java 各种内存溢出情况与配置解决方法](https://blog.csdn.net/hpp1314520/article/details/72723813?utm_source=blogxgwz5)
+
+- [聊聊jvm的PermGen与Metaspace](https://segmentfault.com/a/1190000012577387)
+
+
+jvm 工具
+
+- [JVM性能监控工具](https://www.jianshu.com/p/25e94a1399a0)
