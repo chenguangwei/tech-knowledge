@@ -17,7 +17,12 @@ elasticsearch
 - [Elasticsearch6.X 去重详解](https://blog.csdn.net/laoyang360/article/details/79905676)
 - [利用redis实现elasticsearch入库去重](https://yuerblog.cc/2018/05/25/%E5%88%A9%E7%94%A8redis%E5%AE%9E%E7%8E%B0elasticsearch%E5%85%A5%E5%BA%93%E5%8E%BB%E9%87%8D/)
 
+原理
 
+- [Elasticsearch－基础介绍及索引原理分析](https://www.cnblogs.com/dreamroute/p/8484457.html)
+- [Elasticsearch架构原理](https://www.jianshu.com/p/5b88e95a9e80)
+
+- [时间序列数据库的秘密 (2)——索引](https://www.infoq.cn/article/database-timestamp-02?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)  *****
 配置优化
 
 - [ElasticSearch优化系列七：优化建议](https://www.jianshu.com/p/29ffce0850af)

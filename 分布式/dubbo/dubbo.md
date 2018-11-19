@@ -25,3 +25,8 @@ dubbo
 dubbo常见问题和解决方案
 
 - [使用dubbo过程中遇到的问题](https://blog.csdn.net/u012100371/article/details/78849813)
+
+dubbo异常处理/传递原理
+
+- [基于dubbo的分布式应用中的统一异常处理](http://xurui.pro/2018/05/29/%E5%9F%BA%E4%BA%8Edubbo%E7%9A%84%E5%88%86%E5%B8%83%E5%BC%8F%E5%BA%94%E7%94%A8%E4%B8%AD%E7%9A%84%E7%BB%9F%E4%B8%80%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86/)
+- [dubbo(四)异常处理](https://blog.csdn.net/qq315737546/article/details/53915067)
