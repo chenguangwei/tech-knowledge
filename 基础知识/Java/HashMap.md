@@ -10,3 +10,5 @@ entrySet() 方法解析
 - [HashMap 在高并发下引起的死循环](https://www.jianshu.com/p/619a8efcf589)
 - [并发的HashMap为什么会引起死循环？](https://blog.csdn.net/zhuqiuhui/article/details/51849692)
 - [HashMap 多线程下死循环分析及JDK8修复](https://my.oschina.net/alexqdjay/blog/1377268)
+
+- [关于HashMap初始化容量问题](https://blog.csdn.net/qq_34569497/article/details/79665327)
