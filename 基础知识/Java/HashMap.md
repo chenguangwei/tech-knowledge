@@ -3,6 +3,10 @@ HashMap
 
 entrySet() 方法解析
 
+- [HashMap defaultLoadFactor = 0.75和泊松分布没有关系](https://blog.csdn.net/reliveIT/article/details/82960063)
+- [HashMap 底层分析](https://github.com/summaryNZH/Java/blob/master/baseinfo/collection/HashMap.md)
+- [计算一个数与2的n次方取模](https://www.jianshu.com/p/e910ff6a5579)
+
 - [Java HashMap entrySet（）方法分析](https://zhuanlan.zhihu.com/p/25108871)
 - [浅谈HashMap的数据结构](https://www.jianshu.com/p/56296c51b309)
 - [源码分析之 HashMap](https://juejin.im/post/58f2f47061ff4b0058f4b7cc)
@@ -12,3 +16,4 @@ entrySet() 方法解析
 - [HashMap 多线程下死循环分析及JDK8修复](https://my.oschina.net/alexqdjay/blog/1377268)
 
 - [关于HashMap初始化容量问题](https://blog.csdn.net/qq_34569497/article/details/79665327)
+
