@@ -17,9 +17,10 @@ GC日志
 #### G1
 
 - [Garbage First G1收集器 理解和原理分析](https://liuzhengyang.github.io/2017/06/07/garbage-first-collector/)
+ - [G1垃圾回收器详解](https://www.jianshu.com/p/aef0f4765098)
 
 - [JVM原理及调优（6）——G1收集器及G1日志分析](https://blog.csdn.net/weitry/article/details/53170138)
 - [HotSpot的G1收集器（日志分析）](http://moguhu.com/article/detail?articleId=57)
- - [G1垃圾回收器详解](https://www.jianshu.com/p/aef0f4765098)
+
 - [Java Hotspot G1 GC的一些关键技术](https://tech.meituan.com/g1.html)
 
