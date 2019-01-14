@@ -16,6 +16,7 @@ elasticsearch
 去重
 - [Elasticsearch6.X 去重详解](https://blog.csdn.net/laoyang360/article/details/79905676)
 - [利用redis实现elasticsearch入库去重](https://yuerblog.cc/2018/05/25/%E5%88%A9%E7%94%A8redis%E5%AE%9E%E7%8E%B0elasticsearch%E5%85%A5%E5%BA%93%E5%8E%BB%E9%87%8D/)
+- [统计去重后的数量](https://www.elastic.co/guide/cn/elasticsearch/guide/cn/cardinality.html)
 
 原理
 
@@ -29,3 +30,15 @@ elasticsearch
 - [elasticsearch 官方重要配置的修改](https://www.elastic.co/guide/cn/elasticsearch/guide/current/important-configuration-changes.html)
 - [亿级规模的Elasticsearch优化实战](http://itindex.net/detail/54168-elasticsearch-%E4%BC%98%E5%8C%96)
 - [elasticsearch性能调优](https://www.cnblogs.com/hseagle/p/6015245.html)
+
+
+- [Elasticsearch中数据是如何存储的](https://elasticsearch.cn/article/6178)
+
+- [聊聊MySQL、HBase、ES的特点和区别](https://www.jianshu.com/p/4e412f48e820)
+
+scroll api
+
+
+- [Elasticsearch实践(3)-api分页查询](https://wonderomg.github.io/2018/05/17/Elasticsearch%E5%AE%9E%E8%B7%B5api%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/)
+- [elasticsearch 的滚动（scroll](https://www.jianshu.com/p/14aa8b09c789)
+- [Elasticsearch - Scroll](https://www.cnblogs.com/WessonStar/p/8360659.html)
