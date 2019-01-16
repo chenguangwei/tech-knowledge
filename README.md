@@ -26,6 +26,11 @@
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
 
 
+优秀博客
+
+- [HollisChuang's Blog](https://www.hollischuang.com/archives/category/java)
+
+
 github 排行榜
 
 - [寻找最好的Github项目](https://github-trending.com/)

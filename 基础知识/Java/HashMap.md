@@ -2,6 +2,9 @@ HashMap
 
 
 entrySet() 方法解析
+- [Map实现之HashMap（性能及算法）](https://286.iteye.com/blog/2189266)
+- [关于HashMap容量的初始化，还有这么多学问](https://mp.weixin.qq.com/s?__biz=MzI3NzE0NjcwMg==&mid=2650121359&idx=1&sn=c63d62be1a36db675c62e341044f10e0&chksm=f36bb9aec41c30b8b369428db1286d3de9bc04675057cde49632f3ba50db2d0a69451d6ec080&mpshare=1&scene=1&srcid=0529kU8fMyKTUrpKDwaLMJc6#rd)
+- [由阿里巴巴Java开发规约HashMap条目引发的故事](https://zhuanlan.zhihu.com/p/30360734)
 
 - [HashMap defaultLoadFactor = 0.75和泊松分布没有关系](https://blog.csdn.net/reliveIT/article/details/82960063)
 - [HashMap 底层分析](https://github.com/summaryNZH/Java/blob/master/baseinfo/collection/HashMap.md)

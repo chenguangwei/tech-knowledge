@@ -28,7 +28,10 @@ springboot 事务
 
 - [深入理解 Spring 之 SpringBoot 事务原理](https://blog.csdn.net/qq_38182963/article/details/78891044)
 
+springboot shiro 前后端分离
 
+- [Spring Boot 集成Shiro，前后端分离权限校验，自定义返回信息](https://www.jianshu.com/p/7467b92ed35a)
+- [在前后端分离的SpringBoot项目中集成Shiro权限框架](https://blog.csdn.net/u013615903/article/details/78781166)
 
 spring 资料收集网站：
 
