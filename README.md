@@ -7,7 +7,7 @@
 
 
 技术栈
-
+- [程序员导航网站](http://tooool.org/)
 - [coderxing从部落到帝国 - 后端技术栈的演进及开源实践](https://coderxing.gitbooks.io/architecture-evolution/chapter1.html)
 - [一个收集一些内容的github](https://github.com/mylxsw/growing-up/tree/master/doc)
 - [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes)
@@ -32,9 +32,11 @@
 - [Hollis 公众号](https://mp.weixin.qq.com/s/XCzNMcWFg3pskPxZCJSi4Q)
 - [JVM相关-你假笨](http://lovestblog.cn/blog/archives/)
 
-github 排行榜
+github  优秀项目
 
 - [寻找最好的Github项目](https://github-trending.com/)
 - [分享优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
 
 - [汇总java生态圈常用技术框架](https://github.com/aalansehaiyang/technology-talk)
+
+- [收集各种awesome项目](https://github.com/ityouknow/awesome-list)

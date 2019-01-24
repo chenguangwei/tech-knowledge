@@ -228,3 +228,4 @@ jvm 工具
 
 - [JVM性能监控工具](https://www.jianshu.com/p/25e94a1399a0)
 - [jvm优化必知系列——监控工具 ](https://juejin.im/post/59e6c1f26fb9a0451c397a8c)
+- [shell脚本排查java进程cpu消耗过高问题](https://www.jianshu.com/p/66dc90af04c9)

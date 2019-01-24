@@ -1,4 +1,4 @@
-GC日志
+GC
 ===
 - [[JVM]理解GC日志](https://www.jianshu.com/p/fd1d4f21733a) 推荐三个星
 
@@ -23,4 +23,9 @@ GC日志
 - [HotSpot的G1收集器（日志分析）](http://moguhu.com/article/detail?articleId=57)
 
 - [Java Hotspot G1 GC的一些关键技术](https://tech.meituan.com/g1.html)
+
+
+三种GC
+
+- [Minor GC、Major GC和Full GC之间的区别](https://segmentfault.com/a/1190000007723051) (https://colobu.com/2015/04/07/minor-gc-vs-major-gc-vs-full-gc/)
 

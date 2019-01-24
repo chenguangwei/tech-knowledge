@@ -12,6 +12,8 @@
 
 6、网站
 
+- [Spring Boot 中文索引](http://springboot.fun/) 五颗星
+
 springboot 启动原理：
 
 - [spring boot应用启动原理分析](https://blog.csdn.net/hengyunabc/article/details/50120001)
