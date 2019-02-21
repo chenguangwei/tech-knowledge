@@ -18,3 +18,4 @@ java 线上问题
 - [jvm调优工具分析指南](https://juejin.im/entry/59cd9a446fb9a00a4843c588)
 - [VIsualVM与MemoryAnalyzer分析堆内存过程](https://donald-draper.iteye.com/blog/2359052)
 
+- [理解VisualVM中的保留大小(Retained Size)](https://www.jianshu.com/p/aaddf00a1d83)

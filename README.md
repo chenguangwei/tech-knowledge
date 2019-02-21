@@ -31,6 +31,7 @@
 - [HollisChuang's Blog](https://www.hollischuang.com/archives/category/java)
 - [Hollis 公众号](https://mp.weixin.qq.com/s/XCzNMcWFg3pskPxZCJSi4Q)
 - [JVM相关-你假笨](http://lovestblog.cn/blog/archives/)
+- [crossoverjie的博客](https://crossoverjie.top/)
 
 github  优秀项目
 
