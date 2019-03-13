@@ -40,3 +40,11 @@ spring 资料收集网站：
 - [Awesome Spring Boot (github)](https://github.com/ityouknow/awesome-spring-boot)
 
 - [一起学springboot/springcloud](https://blog.battcn.com/categories/SpringBoot/)
+
+
+springboot 集成：
+
+- [SpringBoot同时集成Guava和Redis作为缓存 ](https://my.oschina.net/u/3866531/blog/1840386)  
+- [Spring Boot 集成 Redis Cache 和 EhCache Cache](http://tramp.cincout.cn/2017/10/31/spring-boot-2017-10-31-spring-boot-multi-cache-manager/)  
+
+
