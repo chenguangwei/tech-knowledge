@@ -211,9 +211,13 @@ JVM提供了大量命令行参数，打印信息，供调试使用。主要有�
 - [JVM调优-学习篇](https://juejin.im/post/59bf5da85188257e70532430)
 - [线上某应用的FULLGC分析](http://jm.taobao.org/2016/03/23/3782/)
 - [一个有意思的CMS问题](https://www.jianshu.com/p/a322309b1d90)
+- [聊聊jvm的PermGen与Metaspace](https://segmentfault.com/a/1190000012577387)
 
-
-
+- [又抓了一个导致频繁GC的鬼--数组动态扩容](http://www.voidcn.com/article/p-xnwrydlv-bd.html)
+- [JVM问题排查实战系列1(记一次频繁FGC的简单排查)](https://www.jianshu.com/p/2304f0ba412d)
+- [JVM问题排查实战系列2(一次JVM GC长暂停的排查过程)](https://www.jianshu.com/p/8a4366a7f32d) 对应的解释文章 [如何避免后台IO高负载造成的长时间JVM GC停顿(转)](http://www.cnblogs.com/rainy-shurun/p/5830455.html)
+- [JVM问题排查实战系列3(如何使用MAT进行内存泄露分析)](https://www.jianshu.com/p/738b4f3bc44b)
+jvm 问题解决场景
 
 - [Java内存溢出(OOM)异常完全指南](https://www.jianshu.com/p/2fdee831ed03)
 - [java.lang.OutOfMemoryError:PermGen space异常解决方法整理总结](https://blog.yoodb.com/yoodb/article/detail/1343)
@@ -221,7 +225,8 @@ JVM提供了大量命令行参数，打印信息，供调试使用。主要有�
 - [java 大数据处理之内存溢出解决办法（一）](https://blog.csdn.net/houbin0912/article/details/65633769)
 - [java 各种内存溢出情况与配置解决方法](https://blog.csdn.net/hpp1314520/article/details/72723813?utm_source=blogxgwz5)
 
-- [聊聊jvm的PermGen与Metaspace](https://segmentfault.com/a/1190000012577387)
+-
+
 
 
 jvm 工具
