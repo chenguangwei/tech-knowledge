@@ -87,4 +87,7 @@ Spring
 - [SpringMVC源码总结（一）HandlerMapping和HandlerAdapter入门](http://lgbolgger.iteye.com/blog/2105101)
 - [Spring MVC中的HandlerMapping与HandlerAdapter的关系](https://www.cnblogs.com/ASPNET2008/p/6278206.html)
 - [Spring 5 源码解析 —— 论 Spring DispatcherServlet 的生命周期](http://www.iocoder.cn/Spring/DispatcherServlet/)
-- [springMVC源码分析--HandlerInterceptor拦截器（一）](https://blog.csdn.net/qq924862077/article/details/53524507)  
+- [springMVC源码分析--HandlerInterceptor拦截器（一）](https://blog.csdn.net/qq924862077/article/details/53524507)
+
+
+- [【Spring】浅谈spring为什么推荐使用构造器注入](http://www.cnblogs.com/joemsu/p/7688307.html)  
