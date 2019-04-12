@@ -11,10 +11,10 @@
 
 库名  |简述 |Stars |分类|备注
 --- | --- | --- | ----| ----
-[algorithms](https://github.com/jeffgerickson/algorithms) | Algorithms by Jeff Erickson 伊利诺伊大学教授 Jeff 写的《算法》一书| ![GitHub stars](https://img.shields.io/github/stars/jeffgerickson/algorithms.svg) | 算法 | 
-[linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集 |![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg) | Linux |
-[yapi](https://github.com/YMFE/yapi)| YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | ![GitHub stars](https://img.shields.io/github/stars/YMFE/yapi.svg) | 运维|运维（API平台）
-[git-tips](https://github.com/521xueweihan/git-tips)| Git的奇技淫巧 |![GitHub stars](https://img.shields.io/github/stars/521xueweihan/git-tips.svg) | 代码管理 |代码管理git知识库
+[algorithms](https://github.com/jeffgerickson/algorithms) | Algorithms by Jeff Erickson 伊利诺伊大学教授 Jeff 写的《算法》一书|  算法 | 算法书籍|![GitHub stars](https://img.shields.io/github/stars/jeffgerickson/algorithms.svg) 
+[linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  | Linux | linux 命令|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg)
+[yapi](https://github.com/YMFE/yapi)| YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | 运维|运维（API平台）|![GitHub stars](https://img.shields.io/github/stars/YMFE/yapi.svg) 
+[git-tips](https://github.com/521xueweihan/git-tips)| Git的奇技淫巧 | 代码管理 |代码管理git知识库|![GitHub stars](https://img.shields.io/github/stars/521xueweihan/git-tips.svg) 
 
 
 
