@@ -1,5 +1,18 @@
-# tech-knowledge
+##自己整理收集一些内容
 
+
+##整理自己的一些 github stars项目
+
+###目录
+
+- [Java](#java)
+
+###java
+
+库名  |简述 |Stars |分类
+--- | --- | --- | ----
+[algorithms](https://github.com/jeffgerickson/algorithms) | Algorithms by Jeff Erickson 伊利诺伊大学教授 Jeff 写的《算法》一书| ![GitHub stars] | 算法
+[linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集 |![GitHub stars] | Linux
 
 
 
