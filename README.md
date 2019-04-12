@@ -15,9 +15,21 @@
 [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  | Linux | linux 命令|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg)
 [yapi](https://github.com/YMFE/yapi)| YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | 运维|运维（API平台）|![GitHub stars](https://img.shields.io/github/stars/YMFE/yapi.svg) 
 [git-tips](https://github.com/521xueweihan/git-tips)| Git的奇技淫巧 | 代码管理 |代码管理git知识库|![GitHub stars](https://img.shields.io/github/stars/521xueweihan/git-tips.svg) 
-[tech](https://github.com/hedengcheng/tech) | 何登成（阿里）数据库分享知识 关于AliSQL MySQL |数据库|mysql数据库知识| ![GitHub stars](https://img.shields.io/github/stars/hedengcheng/tech.svg) 
+[tech](https://github.com/hedengcheng/tech) | 何登成（阿里）数据库知识分享 关于AliSQL MySQL |数据库|mysql数据库知识（3颗星）| ![GitHub stars](https://img.shields.io/github/stars/hedengcheng/tech.svg) 
 [springboot-action](https://github.com/lianggzone/springboot-action)|spring boot 实例代码|java|springboot 实例|![GitHub stars](https://img.shields.io/github/stars/lianggzone/springboot-action.svg) 
 [Lengyue-Vcode](https://github.com/leng-yue/Lengyue-Vcode)|各种滑动验证码识别| 前端| 爬虫破解验证码|![GitHub stars](https://img.shields.io/github/stars/leng-yue/Lengyue-Vcode.svg)
+[books](https://github.com/harvies/books)|IT技术书籍文字版mobi epub格式| 知识库| 书籍整理|![GitHub stars](https://img.shields.io/github/stars/harvies/books.svg)
+[blockVisualEditor](https://github.com/sww1230/blockVisualEditor)|区块可视化代码编辑器 ,通过托拉拽的方式可以生成前端vue代码|工具|前端代码生成工具|![GitHub stars](https://img.shields.io/github/stars/sww1230/blockVisualEditor.svg)
+[mybatis-plus-samples](https://github.com/baomidou/mybatis-plus-samples)|MyBatis-Plus 的官方示例|数据库|MyBatis-Plus使用例子（3颗星）|![GitHub stars](https://img.shields.io/github/stars/baomidou/mybatis-plus-samples.svg)
+[ResumeSample](https://github.com/geekcompany/ResumeSample)|各种语言程序员简历模板|面试|简历模板|![GitHub stars](https://img.shields.io/github/stars/geekcompany/ResumeSample.svg)
+[kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册|架构|Kubernetes知识库（4颗星）|![GitHub stars](https://img.shields.io/github/stars/rootsongjc/kubernetes-handbook.svg)
+[learnDoc](https://github.com/csy512889371/learnDoc)|架构师的成长之路-博客-导图|架构|架构知识库（3颗星）|![GitHub stars](https://img.shields.io/github/stars/csy512889371/learnDoc.svg)
+[mall](https://github.com/D2C-Cai/mall)|SpringCloud（Finchley.RELEASE）+SpringBoot（2.0.7）项目骨架，eureka+config+bus+feign+ribbon+hystrix+zuul等组件支持，MyBatis+Redis+MongoDB+RabbitMQ+Elasticsearch等集群配置| springclould |spirngclould项目骨架|![GitHub stars](https://img.shields.io/github/stars/D2C-Cai/mall.svg)
+[A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)|专为程序员编写的英语学习指南 v1.2|英语|英语学习|![GitHub stars](https://img.shields.io/github/stars/yujiangshui/A-Programmers-Guide-to-English.svg)
+[everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)|人人都能用英语(李笑来)|英语|英语学习|![GitHub stars](https://img.shields.io/github/stars/xiaolai/everyone-can-use-english.svg)
+[sofa-boot](https://github.com/alipay/sofa-boot)|SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户可以在 Spring Boot 中非常方便地使用 SOFA 中间件的能力|框架|蚂蚁金服基于springboot的研发框架|![GitHub stars](https://img.shields.io/github/stars/alipay/sofa-boot.svg)
+[12306](https://github.com/testerSunshine/12306)|12306 购票小助手|python|python写 订票助手| ![GitHub stars](https://img.shields.io/github/stars/testerSunshine/12306.svg)
+[joda-time](https://github.com/JodaOrg/joda-time)|高效的时间工具包|java|时间工具包|![GitHub stars](https://img.shields.io/github/stars/JodaOrg/joda-time.svg)
 
 
 
