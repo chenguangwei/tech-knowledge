@@ -103,6 +103,9 @@
 [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)|设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源|前端|设计资料|![GitHub stars](https://img.shields.io/github/stars/jobbole/awesome-design-cn.svg)
 
 - JAVA+计算机相关
+
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 [Java-Notes](https://github.com/PansonPanson/Java-Notes)|计算机科学基础知识、Java开发、后端/服务端、面试相关|知识库|Java相关计算机知识|![GitHub stars](https://img.shields.io/github/stars/PansonPanson/Java-Notes.svg)
 [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|大数据成神之路|知识库|涉及面比较全，计算机各种相关知识，推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/wangzhiwubigdata/God-Of-BigData.svg)
 
