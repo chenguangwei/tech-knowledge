@@ -7,7 +7,7 @@
 
 - [Java](#java)
 
-### java
+### java    
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
@@ -35,7 +35,6 @@
 [wepy-mall](https://github.com/dyq086/wepy-mall)|微信小程序--基于wepy 商城(微店)微信小程序 |项目实例|微信小程序|![GitHub stars](https://img.shields.io/github/stars/dyq086/wepy-mall.svg)
 [kaptcha](https://github.com/penggle/kaptcha)|验证码生成引擎|java|验证码|![GitHub stars](https://img.shields.io/github/stars/penggle/kaptcha.svg)
 [clock-shop](https://github.com/a-jie/clock-shop)|一个各种钟表的网站|前端|各种钟表样式|![GitHub stars](https://img.shields.io/github/stars/a-jie/clock-shop.svg)
-[awesome-design-cn](https://github.com/jobbole/awesome-design-cn)|设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源|前端|设计资料|![GitHub stars](https://img.shields.io/github/stars/jobbole/awesome-design-cn.svg)
 
 
 ### 基础知识
@@ -57,6 +56,13 @@
 - 设计
 
 - 前端
+
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[vue-webapp](https://github.com/vincentSea/vue-webapp)|Ego 移动端购物商城|前端|前端项目实例|![GitHub stars](https://img.shields.io/github/stars/vincentSea/vue-webapp.svg)
+[openshopping-vue](https://github.com/yrinleung/openshopping-vue)|基于Vue实现开箱即用H5移动端商城的单页应用|前端|商城单页项目实例|![GitHub stars](https://img.shields.io/github/stars/yrinleung/openshopping-vue.svg)
+[javascript.info](https://github.com/javascript-tutorial/javascript.info)|Modern JavaScript Tutorial |前端|javascript学习教程|![GitHub stars](https://img.shields.io/github/stars/javascript-tutorial/javascript.info.svg)
+
 
 ### 操作系统
 
@@ -90,6 +96,15 @@
 --- | --- | --- | ----| ----
 [springboot-action](https://github.com/lianggzone/springboot-action)|spring boot 实例代码|java|springboot 实例|![GitHub stars](https://img.shields.io/github/stars/lianggzone/springboot-action.svg) 
 
+- 前端相关
+
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[awesome-design-cn](https://github.com/jobbole/awesome-design-cn)|设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源|前端|设计资料|![GitHub stars](https://img.shields.io/github/stars/jobbole/awesome-design-cn.svg)
+
+- JAVA+计算机相关
+[Java-Notes](https://github.com/PansonPanson/Java-Notes)|计算机科学基础知识、Java开发、后端/服务端、面试相关|知识库|Java相关计算机知识|![GitHub stars](https://img.shields.io/github/stars/PansonPanson/Java-Notes.svg)
+[God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|大数据成神之路|知识库|涉及面比较全，计算机各种相关知识，推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/wangzhiwubigdata/God-Of-BigData.svg)
 
 
 - 数据库相关
@@ -100,7 +115,15 @@
 
 
 
-### 项目实例
+### 人工智能
+
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[wukong-robot](https://github.com/wzpan/wukong-robot)|wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目|人工智能|对话机器人/智能音箱项目|![GitHub stars](https://img.shields.io/github/stars/wzpan/wukong-robot.svg)
+
+
+
+
 
 
 
