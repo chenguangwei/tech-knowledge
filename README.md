@@ -38,7 +38,6 @@
 
 --------
 ### 基础知识
-=====
 
 - 算法
 
@@ -48,11 +47,16 @@
 
 - 数据结构
 
+-----
 ### java基础
 
+
+
+-----
 ### 架构
 
 
+---------
 ### WEB
 
 - 设计
@@ -66,6 +70,7 @@
 [javascript.info](https://github.com/javascript-tutorial/javascript.info)|Modern JavaScript Tutorial |前端|javascript学习教程|![GitHub stars](https://img.shields.io/github/stars/javascript-tutorial/javascript.info.svg)
 
 
+---------
 ### 操作系统
 
 - linux
@@ -75,9 +80,8 @@
 [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  | Linux | linux 命令|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg)
 
 
-
+--------
 ### 运维
-=====
 
 - API工具
 
@@ -91,8 +95,9 @@
 --- | --- | --- | ----| ----
 [git-tips](https://github.com/521xueweihan/git-tips)| Git的奇技淫巧 | 代码管理 |代码管理git知识库|![GitHub stars](https://img.shields.io/github/stars/521xueweihan/git-tips.svg) 
 
+
+---------
 ### 知识库
-=====
 
 - springboot 相关
 
