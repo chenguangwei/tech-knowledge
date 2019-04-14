@@ -95,21 +95,30 @@
 --- | --- | --- | ----| ----
 [git-tips](https://github.com/521xueweihan/git-tips)| Git的奇技淫巧 | 代码管理 |代码管理git知识库|![GitHub stars](https://img.shields.io/github/stars/521xueweihan/git-tips.svg) 
 
+- 中间件
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+- [nginx-tutorial](https://github.com/dunwu/nginx-tutorial) |这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。|运维|nginx使用知识 推荐3.5星|![GitHub stars](https://img.shields.io/github/stars/dunwu/nginx-tutorial.svg)
+
 
 ---------
 ### 知识库
 
-- springboot 相关
+- spring 相关
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [springboot-action](https://github.com/lianggzone/springboot-action)|spring boot 实例代码|java|springboot 实例|![GitHub stars](https://img.shields.io/github/stars/lianggzone/springboot-action.svg) 
+[spring-cloud](https://github.com/yinjihuan/spring-cloud)|《Spring Cloud微服务-全栈技术与案例解析》配套源码 |知识库|springcloud知识|![GitHub stars](https://img.shields.io/github/stars/yinjihuan/spring-cloud.svg)
+[springboot-cloud](https://github.com/crossoverJie/springboot-cloud)|springcloud搭建的分布式服务|知识库|springcloud搭建实例项目|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/springboot-cloud.svg)
+
 
 - 前端相关
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)|设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源|前端|设计资料|![GitHub stars](https://img.shields.io/github/stars/jobbole/awesome-design-cn.svg)
+[CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)|Build the best interview map. The current content includes JS, network, browser related|知识库|主要前端面试知识库|![GitHub stars](https://img.shields.io/github/stars/InterviewMap/CS-Interview-Knowledge-Map.svg)
 
 - JAVA+计算机相关
 
@@ -117,16 +126,20 @@
 --- | --- | --- | ----| ----
 [Java-Notes](https://github.com/PansonPanson/Java-Notes)|计算机科学基础知识、Java开发、后端/服务端、面试相关|知识库|Java相关计算机知识|![GitHub stars](https://img.shields.io/github/stars/PansonPanson/Java-Notes.svg)
 [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|大数据成神之路|知识库|涉及面比较全，计算机各种相关知识，推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/wangzhiwubigdata/God-Of-BigData.svg)
-
-
+[be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)|成为专业程序员路上用到的各种优秀资料、神器及框架|知识库|一些资料整理|![GitHub stars](https://img.shields.io/github/stars/stanzhai/be-a-professional-programmer.svg)
+[Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)|Java后端开发知识体系总结（包括Java基础、JVM、数据库、计算机网络、算法、操作系统、设计模式、系统设计、框架原理）|知识库|Java和计算机相关|![GitHub stars](https://img.shields.io/github/stars/zaiyunduan123/Java-Summarize.svg)
 - 数据库相关
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [tech](https://github.com/hedengcheng/tech) | 何登成（阿里）数据库知识分享 关于AliSQL MySQL |数据库|mysql数据库知识（3颗星）| ![GitHub stars](https://img.shields.io/github/stars/hedengcheng/tech.svg) 
 
+- 安全
 
+[Micro8](https://github.com/Micropoor/Micro8)|渗透攻击超十年,毕生所学用文字表写出来|知识库|渗透攻击知识库推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/Micropoor/Micro8.svg)
+[ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)|Tools of The Trade, from Hacker News.|安全|Tools of The Trade|![GitHub stars](https://img.shields.io/github/stars/cjbarber/ToolsOfTheTrade.svg)
 
+-------
 ### 人工智能
 
 库名  |简述 |分类 |备注 |Stars
@@ -134,7 +147,12 @@
 [wukong-robot](https://github.com/wzpan/wukong-robot)|wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目|人工智能|对话机器人/智能音箱项目|![GitHub stars](https://img.shields.io/github/stars/wzpan/wukong-robot.svg)
 
 
+------
+### 其他
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[githunt](https://github.com/kamranahmedse/githunt)|Hunt the most starred projects on any date on GitHub|其他|发现多个stars的项目在GitHub上|![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/githunt.svg)
 
 
 
