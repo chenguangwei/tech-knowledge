@@ -45,7 +45,10 @@
 --- | --- | --- | ----| ----
 [algorithms](https://github.com/jeffgerickson/algorithms) | Algorithms by Jeff Erickson 伊利诺伊大学教授 Jeff 写的《算法》一书|  算法 | 算法书籍|![GitHub stars](https://img.shields.io/github/stars/jeffgerickson/algorithms.svg)
 [Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）|算法|LeetCode 解答|![GitHub stars](https://img.shields.io/github/stars/liuyubobobo/Play-Leetcode.svg)
-
+[LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)|（用动画的形式呈现解LeetCode题目的思路）|算法|动画呈现算法|![GitHub stars](https://img.shields.io/github/stars/MisterBooo/LeetCodeAnimation.svg)
+[algo](https://github.com/wangzheng0822/algo)|数据结构和算法必知必会的50个代码实现|算法|推荐|![GitHub stars](https://img.shields.io/github/stars/wangzheng0822/algo.svg)
+[AlgorithmDiagram](https://github.com/zhanwen/AlgorithmDiagram)|算法图解的算法代码示例，用Python和Java实现，后期会加入其它语言|算法|算法图解 算法代码|![GitHub stars](https://img.shields.io/github/stars/zhanwen/AlgorithmDiagram.svg)
+[CodingInterviews](https://github.com/gatieme/CodingInterviews)|剑指Offer——名企面试官精讲典型编程题|算法|剑指Offer|![GitHub stars](https://img.shields.io/github/stars/gatieme/CodingInterviews.svg)
 
 
 -----
@@ -54,7 +57,12 @@
 --- | --- | --- | ----| ----
 [easyexcel](https://github.com/alibaba/easyexcel)|快速、简单避免OOM的java处理Excel工具|java|处理Excel工具|![GitHub stars](https://img.shields.io/github/stars//alibaba/easyexcel.svg)
 
+----
+### python
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+- [lianjia-scrawler](https://github.com/XuefengHuang/lianjia-scrawler)|链家二手房租房在线数据，存量房交易服务平台数据，详细数据分析教程|python|爬虫，数据分析|![GitHub stars](https://img.shields.io/github/stars/XuefengHuang/lianjia-scrawler.svg)
 
 -----
 ### 架构
@@ -145,6 +153,12 @@
 [advanced-java](https://github.com/doocs/advanced-java)|互联网 Java 工程师进阶知识完全扫盲|知识库|Java高级相关|![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg)
 [30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)|30 seconds of java8|知识库|JAVA8快速学习|![GitHub stars](https://img.shields.io/github/stars/biezhi/30-seconds-of-java8.svg)
 [handbook](https://github.com/jaywcjlove/handbook)|放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。|知识库|各种计算机知识，内容不错|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/handbook.svg)
+[Java](https://github.com/summaryNZH/Java)|java相关知识收集|知识库|收集的一些相关知识|![GitHub stars](https://img.shields.io/github/stars/summaryNZH/Java.svg)
+[500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)|500 line or less 少于500行完成一个功能 很棒 推荐|知识库|推荐|![GitHub stars](https://img.shields.io/github/stars/HT524/500LineorLess_CN.svg)
+[studyFiles](https://github.com/threerocks/studyFiles)|一些经典且高质量的电子书分享|知识库|电子书分享，推荐|![GitHub stars](https://img.shields.io/github/stars/threerocks/studyFiles.svg)
+[effective-resourses](https://github.com/wususu/effective-resourses)|学习资源整合|知识库|学习整理|![GitHub stars](https://img.shields.io/github/stars/wususu/effective-resourses.svg)
+[gc-handbook](https://github.com/cncounter/gc-handbook)|GC参考手册-Java版（Java垃圾收集必备手册）|知识库|GC垃圾回收 推荐|![GitHub stars](https://img.shields.io/github/stars/cncounter/gc-handbook.svg)
+
 - 数据库相关
 
 库名  |简述 |分类 |备注 |Stars
