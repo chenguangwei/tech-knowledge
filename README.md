@@ -44,11 +44,15 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [algorithms](https://github.com/jeffgerickson/algorithms) | Algorithms by Jeff Erickson 伊利诺伊大学教授 Jeff 写的《算法》一书|  算法 | 算法书籍|![GitHub stars](https://img.shields.io/github/stars/jeffgerickson/algorithms.svg)
+[Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）|算法|LeetCode 解答|![GitHub stars](https://img.shields.io/github/stars/liuyubobobo/Play-Leetcode.svg)
 
-- 数据结构
+
 
 -----
-### java基础
+### java
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[easyexcel](https://github.com/alibaba/easyexcel)|快速、简单避免OOM的java处理Excel工具|java|处理Excel工具|![GitHub stars](https://img.shields.io/github/stars//alibaba/easyexcel.svg)
 
 
 
@@ -56,19 +60,24 @@
 ### 架构
 
 
+- 项目
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[miaosha](https://github.com/qiurunze123/miaosha)|秒杀系统设计与实现.互联网工程师进阶与分析|架构|秒杀系统设计|![GitHub stars](https://img.shields.io/github/stars/qiurunze123/miaosha.svg)
+
 ---------
 ### WEB
 
 - 设计
 
 - 前端
-
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [vue-webapp](https://github.com/vincentSea/vue-webapp)|Ego 移动端购物商城|前端|前端项目实例|![GitHub stars](https://img.shields.io/github/stars/vincentSea/vue-webapp.svg)
 [openshopping-vue](https://github.com/yrinleung/openshopping-vue)|基于Vue实现开箱即用H5移动端商城的单页应用|前端|商城单页项目实例|![GitHub stars](https://img.shields.io/github/stars/yrinleung/openshopping-vue.svg)
 [javascript.info](https://github.com/javascript-tutorial/javascript.info)|Modern JavaScript Tutorial |前端|javascript学习教程|![GitHub stars](https://img.shields.io/github/stars/javascript-tutorial/javascript.info.svg)
-
+[CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|前端|CSS功能实现知识|![GitHub stars](https://img.shields.io/github/stars/chokcoco/CSS-Inspiration.svg)
+[nuxt.js](https://github.com/nuxt/nuxt.js)|The Vue.js Framework|前端|VUE框架|![GitHub stars](https://img.shields.io/github/stars/nuxt/nuxt.js.svg)
 
 ---------
 ### 操作系统
@@ -88,6 +97,8 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [yapi](https://github.com/YMFE/yapi)| YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | 运维|运维（API平台）|![GitHub stars](https://img.shields.io/github/stars/YMFE/yapi.svg) 
+[cat](https://github.com/dianping/cat)|CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等|运维|运维工具|![GitHub stars](https://img.shields.io/github/stars/dianping/cat.svg)
+[DOClever](https://github.com/sx1989827/DOClever|做最好的接口管理平台\商业化开源产品|运维|接口管理|![GitHub stars](https://img.shields.io/github/stars/sx1989827/DOClever.svg)
 
 - git相关
 
@@ -119,6 +130,9 @@
 --- | --- | --- | ----| ----
 [awesome-design-cn](https://github.com/jobbole/awesome-design-cn)|设计师资源大全由伯乐在线资源频道综合整理。目前已收录 340+ 设计类资源|前端|设计资料|![GitHub stars](https://img.shields.io/github/stars/jobbole/awesome-design-cn.svg)
 [CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)|Build the best interview map. The current content includes JS, network, browser related|知识库|主要前端面试知识库|![GitHub stars](https://img.shields.io/github/stars/InterviewMap/CS-Interview-Knowledge-Map.svg)
+[33-js-concepts](https://github.com/stephentian/33-js-concepts)|每个 JavaScript 工程师都应懂的33个概念|知识库|前端JS知识|![GitHub stars](https://img.shields.io/github/stars/stephentian/33-js-concepts.svg)
+[zaobao](https://github.com/wubaiqing/zaobao)|每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类|前端|分享技术|![GitHub stars](https://img.shields.io/github/stars/wubaiqing/zaobao.svg)
+[common-regex](https://github.com/cdoco/common-regex)|常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。|知识库|前端 正则表达式知识，有图解很棒推荐|![GitHub stars](https://img.shields.io/github/stars/cdoco/common-regex.svg)
 
 - JAVA+计算机相关
 
@@ -128,6 +142,9 @@
 [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|大数据成神之路|知识库|涉及面比较全，计算机各种相关知识，推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/wangzhiwubigdata/God-Of-BigData.svg)
 [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)|成为专业程序员路上用到的各种优秀资料、神器及框架|知识库|一些资料整理|![GitHub stars](https://img.shields.io/github/stars/stanzhai/be-a-professional-programmer.svg)
 [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)|Java后端开发知识体系总结（包括Java基础、JVM、数据库、计算机网络、算法、操作系统、设计模式、系统设计、框架原理）|知识库|Java和计算机相关|![GitHub stars](https://img.shields.io/github/stars/zaiyunduan123/Java-Summarize.svg)
+[advanced-java](https://github.com/doocs/advanced-java)|互联网 Java 工程师进阶知识完全扫盲|知识库|Java高级相关|![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg)
+[30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)|30 seconds of java8|知识库|JAVA8快速学习|![GitHub stars](https://img.shields.io/github/stars/biezhi/30-seconds-of-java8.svg)
+[handbook](https://github.com/jaywcjlove/handbook)|放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。|知识库|各种计算机知识，内容不错|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/handbook.svg)
 - 数据库相关
 
 库名  |简述 |分类 |备注 |Stars
@@ -145,15 +162,23 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [wukong-robot](https://github.com/wzpan/wukong-robot)|wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目|人工智能|对话机器人/智能音箱项目|![GitHub stars](https://img.shields.io/github/stars/wzpan/wukong-robot.svg)
-
-
+[100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|机器学习100天|人工智能|机器学习知识|![GitHub stars](https://img.shields.io/github/stars/MLEveryday/100-Days-Of-ML-Code.svg)
+[home-assistant](https://github.com/home-assistant/home-assistant)|Open source home automation that puts local control and privacy first|人工智能|家庭智能|![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg)
+[faceai](https://github.com/vipstone/faceai)|一款入门级的人脸、视频、文字检测以及识别的项目.|人工智能|智能识别类项目|![GitHub stars](https://img.shields.io/github/stars/vipstone/faceai.svg)
+[lihang-code](https://github.com/fengdu78/lihang-code)|《统计学习方法》的代码实现|人工智能|《统计学习方法》的代码实现| ![GitHub stars](https://img.shields.io/github/stars/fengdu78/lihang-code.svg)
+  
 ------
+
+### 工具
+
+[awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西|工具|各种速查表，推荐|![GitHub stars](https://img.shields.io/github/stars/skywind3000/awesome-cheatsheets.svg)
+
 ### 其他
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [githunt](https://github.com/kamranahmedse/githunt)|Hunt the most starred projects on any date on GitHub|其他|发现多个stars的项目在GitHub上|![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/githunt.svg)
-
+[GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)|GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。|其他|从中找到各种优秀GitHub项目，4颗星|![GitHub stars](https://img.shields.io/github/stars/GitHubDaily/GitHubDaily.svg)
 
 
 
