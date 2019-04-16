@@ -49,6 +49,7 @@
 [algo](https://github.com/wangzheng0822/algo)|数据结构和算法必知必会的50个代码实现|算法|推荐|![GitHub stars](https://img.shields.io/github/stars/wangzheng0822/algo.svg)
 [AlgorithmDiagram](https://github.com/zhanwen/AlgorithmDiagram)|算法图解的算法代码示例，用Python和Java实现，后期会加入其它语言|算法|算法图解 算法代码|![GitHub stars](https://img.shields.io/github/stars/zhanwen/AlgorithmDiagram.svg)
 [CodingInterviews](https://github.com/gatieme/CodingInterviews)|剑指Offer——名企面试官精讲典型编程题|算法|剑指Offer|![GitHub stars](https://img.shields.io/github/stars/gatieme/CodingInterviews.svg)
+[awesome-algorithm](https://github.com/apachecn/awesome-algorithm)|结构化算法刷题训练指南|算法|一个算法解法|![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg)
 
 
 -----
@@ -72,6 +73,12 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [miaosha](https://github.com/qiurunze123/miaosha)|秒杀系统设计与实现.互联网工程师进阶与分析|架构|秒杀系统设计|![GitHub stars](https://img.shields.io/github/stars/qiurunze123/miaosha.svg)
+[cim](https://github.com/crossoverJie/cim)|适用于开发者的即时通讯系统|项目|IM|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/cim.svg)
+[Chatroom](https://github.com/Kanarienvogels/Chatroom)|互联网实时聊天系统 (Spring + Netty + Websocket) |项目|IM|![GitHub stars](https://img.shields.io/github/stars/Kanarienvogels/Chatroom.svg)
+[spring-cloud-rest-tcc](https://github.com/prontera/spring-cloud-rest-tcc|基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例，结合Spring Cloud Sleuth进行会话追踪和Spring Boot Admin的健康监控，并辅以Hystrix Dashboard提供近实时的熔断监控|熔断监控|![GitHub stars](https://img.shields.io/github/stars/prontera/spring-cloud-rest-tcc.svg)
+[x-pipe](https://github.com/ctripcorp/x-pipe)|X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统|架构|redis多个管理中心|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/x-pipe.svg)
+
+
 
 ---------
 ### WEB
@@ -118,6 +125,7 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 - [nginx-tutorial](https://github.com/dunwu/nginx-tutorial) |这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。|运维|nginx使用知识 推荐3.5星|![GitHub stars](https://img.shields.io/github/stars/dunwu/nginx-tutorial.svg)
+- [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc)|JDBC importer for Elasticsearch|中间件|elasticsearch-jdbc|![GitHub stars](https://img.shields.io/github/stars/jprante/elasticsearch-jdbc.svg)
 
 
 ---------
@@ -130,6 +138,7 @@
 [springboot-action](https://github.com/lianggzone/springboot-action)|spring boot 实例代码|java|springboot 实例|![GitHub stars](https://img.shields.io/github/stars/lianggzone/springboot-action.svg) 
 [spring-cloud](https://github.com/yinjihuan/spring-cloud)|《Spring Cloud微服务-全栈技术与案例解析》配套源码 |知识库|springcloud知识|![GitHub stars](https://img.shields.io/github/stars/yinjihuan/spring-cloud.svg)
 [springboot-cloud](https://github.com/crossoverJie/springboot-cloud)|springcloud搭建的分布式服务|知识库|springcloud搭建实例项目|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/springboot-cloud.svg)
+[SpringAll](https://github.com/wuyouzhuguli/SpringAll)|循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security|知识库|spring实例|![GitHub stars](https://img.shields.io/github/stars/wuyouzhuguli/SpringAll.svg)
 
 
 - 前端相关
@@ -151,13 +160,20 @@
 [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)|成为专业程序员路上用到的各种优秀资料、神器及框架|知识库|一些资料整理|![GitHub stars](https://img.shields.io/github/stars/stanzhai/be-a-professional-programmer.svg)
 [Java-Summarize](https://github.com/zaiyunduan123/Java-Summarize)|Java后端开发知识体系总结（包括Java基础、JVM、数据库、计算机网络、算法、操作系统、设计模式、系统设计、框架原理）|知识库|Java和计算机相关|![GitHub stars](https://img.shields.io/github/stars/zaiyunduan123/Java-Summarize.svg)
 [advanced-java](https://github.com/doocs/advanced-java)|互联网 Java 工程师进阶知识完全扫盲|知识库|Java高级相关|![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg)
-[30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)|30 seconds of java8|知识库|JAVA8快速学习|![GitHub stars](https://img.shields.io/github/stars/biezhi/30-seconds-of-java8.svg)
+[30-seconds-of-java8](https://github.com/biezhi/30-seconds-of-java8)|30 seconds of java8|知识库|JAVA8 快速学习|![GitHub stars](https://img.shields.io/github/stars/biezhi/30-seconds-of-java8.svg)
 [handbook](https://github.com/jaywcjlove/handbook)|放置我的笔记、搜集、摘录、实践，保持好奇心。看文需谨慎，后果很严重。|知识库|各种计算机知识，内容不错|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/handbook.svg)
 [Java](https://github.com/summaryNZH/Java)|java相关知识收集|知识库|收集的一些相关知识|![GitHub stars](https://img.shields.io/github/stars/summaryNZH/Java.svg)
 [500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)|500 line or less 少于500行完成一个功能 很棒 推荐|知识库|推荐|![GitHub stars](https://img.shields.io/github/stars/HT524/500LineorLess_CN.svg)
 [studyFiles](https://github.com/threerocks/studyFiles)|一些经典且高质量的电子书分享|知识库|电子书分享，推荐|![GitHub stars](https://img.shields.io/github/stars/threerocks/studyFiles.svg)
 [effective-resourses](https://github.com/wususu/effective-resourses)|学习资源整合|知识库|学习整理|![GitHub stars](https://img.shields.io/github/stars/wususu/effective-resourses.svg)
 [gc-handbook](https://github.com/cncounter/gc-handbook)|GC参考手册-Java版（Java垃圾收集必备手册）|知识库|GC垃圾回收 推荐|![GitHub stars](https://img.shields.io/github/stars/cncounter/gc-handbook.svg)
+[books](https://github.com/yuanliangding/books)|一些书|知识库|书|![GitHub stars](https://img.shields.io/github/stars/yuanliangding/books.svg)
+[iBooks](https://github.com/woooowen/iBooks)|一些书|知识库|书|![GitHub stars](https://img.shields.io/github/stars/woooowen/iBooks.svg)
+[JavaGuide](https://github.com/Snailclimb/JavaGuide)|【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识|java|一些总结|![GitHub stars](https://img.shields.io/github/stars/Snailclimb/JavaGuide.svg)
+[netty-in-action-cn](https://github.com/ReactivePlatform/netty-in-action-cn)|Netty In Action 中文版|知识库|netty|![GitHub stars](https://img.shields.io/github/stars/ReactivePlatform/netty-in-action-cn.svg)
+[alibaba-middleware-race-preliminary](https://github.com/yuyang733/alibaba-middleware-race-preliminary)|2016年阿里中间件性能挑战赛初赛题，RocketMQ+JStorm+Tair实时统计双11交易金额|知识库|java|![GitHub stars](https://img.shields.io/github/stars/yuyang733/alibaba-middleware-race-preliminary.svg)
+
+
 
 - 数据库相关
 
@@ -180,19 +196,23 @@
 [home-assistant](https://github.com/home-assistant/home-assistant)|Open source home automation that puts local control and privacy first|人工智能|家庭智能|![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg)
 [faceai](https://github.com/vipstone/faceai)|一款入门级的人脸、视频、文字检测以及识别的项目.|人工智能|智能识别类项目|![GitHub stars](https://img.shields.io/github/stars/vipstone/faceai.svg)
 [lihang-code](https://github.com/fengdu78/lihang-code)|《统计学习方法》的代码实现|人工智能|《统计学习方法》的代码实现| ![GitHub stars](https://img.shields.io/github/stars/fengdu78/lihang-code.svg)
-  
+[DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)|深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述|人工智能|深度学习知识|  ![GitHub stars](https://img.shields.io/github/stars/scutan90/DeepLearning-500-questions.svg)
+
 ------
 
 ### 工具
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西|工具|各种速查表，推荐|![GitHub stars](https://img.shields.io/github/stars/skywind3000/awesome-cheatsheets.svg)
-
+[wrk](https://github.com/wg/wrk)|Modern HTTP benchmarking tool|工具|http 压力测试|![GitHub stars](https://img.shields.io/github/stars/wg/wrk.svg)
 ### 其他
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [githunt](https://github.com/kamranahmedse/githunt)|Hunt the most starred projects on any date on GitHub|其他|发现多个stars的项目在GitHub上|![GitHub stars](https://img.shields.io/github/stars/kamranahmedse/githunt.svg)
 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)|GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。|其他|从中找到各种优秀GitHub项目，4颗星|![GitHub stars](https://img.shields.io/github/stars/GitHubDaily/GitHubDaily.svg)
+[p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|其他|Java开发指南|![GitHub stars](https://img.shields.io/github/stars/alibaba/p3c.svg)
 
 
 
