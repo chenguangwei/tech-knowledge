@@ -77,7 +77,7 @@
 [Chatroom](https://github.com/Kanarienvogels/Chatroom)|互联网实时聊天系统 (Spring + Netty + Websocket) |项目|IM|![GitHub stars](https://img.shields.io/github/stars/Kanarienvogels/Chatroom.svg)
 [spring-cloud-rest-tcc](https://github.com/prontera/spring-cloud-rest-tcc|基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例，结合Spring Cloud Sleuth进行会话追踪和Spring Boot Admin的健康监控，并辅以Hystrix Dashboard提供近实时的熔断监控|熔断监控|![GitHub stars](https://img.shields.io/github/stars/prontera/spring-cloud-rest-tcc.svg)
 [x-pipe](https://github.com/ctripcorp/x-pipe)|X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统|架构|redis多个管理中心|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/x-pipe.svg)
-
+[j360-dubbo-app-all](https://github.com/xuminwlt/j360-dubbo-app-all)|基于dubbo的分布式工程开发规范实例工程，分布式跟踪、ID生成、分布式事务、分布式治理、分表分库、分布式锁、选举、分布式配置、API文档生成器...|架构|实例|![GitHub stars](https://img.shields.io/github/stars/xuminwlt/j360-dubbo-app-all.svg)
 
 
 ---------
@@ -235,7 +235,7 @@
 - [蒋涛](http://jinnianshilongnian.iteye.com/)
 - [java code geeks](https://www.javacodegeeks.com/courses)
 - [阮一峰的个人网站](http://www.ruanyifeng.com/home.html)
-
+- [Tinyfool的中文Blog](http://codechina.org/)
 
 优秀博客
 
