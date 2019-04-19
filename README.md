@@ -11,27 +11,9 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
-[Lengyue-Vcode](https://github.com/leng-yue/Lengyue-Vcode)|各种滑动验证码识别| 前端| 爬虫破解验证码|![GitHub stars](https://img.shields.io/github/stars/leng-yue/Lengyue-Vcode.svg)
-[books](https://github.com/harvies/books)|IT技术书籍文字版mobi epub格式| 知识库| 书籍整理|![GitHub stars](https://img.shields.io/github/stars/harvies/books.svg)
-[blockVisualEditor](https://github.com/sww1230/blockVisualEditor)|区块可视化代码编辑器 ,通过托拉拽的方式可以生成前端vue代码|工具|前端代码生成工具|![GitHub stars](https://img.shields.io/github/stars/sww1230/blockVisualEditor.svg)
-[mybatis-plus-samples](https://github.com/baomidou/mybatis-plus-samples)|MyBatis-Plus 的官方示例|数据库|MyBatis-Plus使用例子（3颗星）|![GitHub stars](https://img.shields.io/github/stars/baomidou/mybatis-plus-samples.svg)
-[ResumeSample](https://github.com/geekcompany/ResumeSample)|各种语言程序员简历模板|面试|简历模板|![GitHub stars](https://img.shields.io/github/stars/geekcompany/ResumeSample.svg)
-[kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册|架构|Kubernetes知识库（4颗星）|![GitHub stars](https://img.shields.io/github/stars/rootsongjc/kubernetes-handbook.svg)
-[learnDoc](https://github.com/csy512889371/learnDoc)|架构师的成长之路-博客-导图|架构|架构知识库（3颗星）|![GitHub stars](https://img.shields.io/github/stars/csy512889371/learnDoc.svg)
-[mall](https://github.com/D2C-Cai/mall)|SpringCloud（Finchley.RELEASE）+SpringBoot（2.0.7）项目骨架，eureka+config+bus+feign+ribbon+hystrix+zuul等组件支持，MyBatis+Redis+MongoDB+RabbitMQ+Elasticsearch等集群配置| springclould |spirngclould项目骨架|![GitHub stars](https://img.shields.io/github/stars/D2C-Cai/mall.svg)
-[A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)|专为程序员编写的英语学习指南 v1.2|英语|英语学习|![GitHub stars](https://img.shields.io/github/stars/yujiangshui/A-Programmers-Guide-to-English.svg)
-[everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)|人人都能用英语(李笑来)|英语|英语学习|![GitHub stars](https://img.shields.io/github/stars/xiaolai/everyone-can-use-english.svg)
-[sofa-boot](https://github.com/alipay/sofa-boot)|SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户可以在 Spring Boot 中非常方便地使用 SOFA 中间件的能力|框架|蚂蚁金服基于springboot的研发框架|![GitHub stars](https://img.shields.io/github/stars/alipay/sofa-boot.svg)
-[12306](https://github.com/testerSunshine/12306)|12306 购票小助手|python|python写 订票助手| ![GitHub stars](https://img.shields.io/github/stars/testerSunshine/12306.svg)
 [joda-time](https://github.com/JodaOrg/joda-time)|高效的时间工具包|java|时间工具包|![GitHub stars](https://img.shields.io/github/stars/JodaOrg/joda-time.svg)
-[springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning)|springmvc + mybatis 学习笔记|mybatis|springmvc、mybatis实例|![GitHub stars](https://img.shields.io/github/stars/brianway/springmvc-mybatis-learning.svg)
-[scribejava](https://github.com/scribejava/scribejava)|Simple OAuth library for Java|java|使用Oauth 的java库|![GitHub stars](https://img.shields.io/github/stars/scribejava/scribejava.svg)
 [maven-framework-project](https://github.com/v5developer/maven-framework-project)|一个比较全的maven framework项目(各种例子和教程)|知识库|一个知识库|![GitHub stars](https://img.shields.io/github/stars/v5developer/maven-framework-project.svg)
-[deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)|Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs| 深度学习|深度学习|![GitHub stars](https://img.shields.io/github/stars/deeplearning4j/deeplearning4j.svg)
-[hutool](https://github.com/looly/hutool)|Hutool是一个Java工具包，也只是一个工具包|java|很强大的一个Java工具包|![GitHub stars](https://img.shields.io/github/stars/looly/hutool.svg)
-[incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)|分布式数据库中间件，在sharding-jdbc基础上发展而来，sharding-jdbc是他的一部分|数据库|分布式数据库中间件|![GitHub stars](https://img.shields.io/github/stars/apache/incubator-shardingsphere.svg)
 [okio](https://github.com/square/okio)|A modern I/O API for Java IO工具包|java|IO工具包|![GitHub stars](https://img.shields.io/github/stars/square/okio.svg)
-[litemall](https://github.com/linlinjava/litemall)|又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端|项目实例|一个商城小程序实例|![GitHub stars](https://img.shields.io/github/stars/linlinjava/litemall.svg)
 [wepy-mall](https://github.com/dyq086/wepy-mall)|微信小程序--基于wepy 商城(微店)微信小程序 |项目实例|微信小程序|![GitHub stars](https://img.shields.io/github/stars/dyq086/wepy-mall.svg)
 [kaptcha](https://github.com/penggle/kaptcha)|验证码生成引擎|java|验证码|![GitHub stars](https://img.shields.io/github/stars/penggle/kaptcha.svg)
 [clock-shop](https://github.com/a-jie/clock-shop)|一个各种钟表的网站|前端|各种钟表样式|![GitHub stars](https://img.shields.io/github/stars/a-jie/clock-shop.svg)
@@ -65,10 +47,16 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
-- [lianjia-scrawler](https://github.com/XuefengHuang/lianjia-scrawler)|链家二手房租房在线数据，存量房交易服务平台数据，详细数据分析教程|python|爬虫，数据分析|![GitHub stars](https://img.shields.io/github/stars/XuefengHuang/lianjia-scrawler.svg)
-- [Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|python|python教程|![GitHub stars](https://img.shields.io/github/stars/jackfrued/Python-100-Days.svg)
-- [python-spider](https://github.com/Jack-Cherish/python-spider)|Python3网络爬虫实战|python|python爬虫实战|![GitHub stars](https://img.shields.io/github/stars/Jack-Cherish/python-spider.svg)
-- [Douyin-Bot](https://github.com/wangshub/Douyin-Bot)|Python 抖音机器人，论如何在抖音上找到漂亮小姐姐|python|python爬虫和智能识别|![GitHub stars](https://img.shields.io/github/stars/wangshub/Douyin-Bot.svg)
+[lianjia-scrawler](https://github.com/XuefengHuang/lianjia-scrawler)|链家二手房租房在线数据，存量房交易服务平台数据，详细数据分析教程|python|爬虫，数据分析|![GitHub stars](https://img.shields.io/github/stars/XuefengHuang/lianjia-scrawler.svg)
+[Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|python|python教程|![GitHub stars](https://img.shields.io/github/stars/jackfrued/Python-100-Days.svg)
+[python-spider](https://github.com/Jack-Cherish/python-spider)|Python3网络爬虫实战|python|python爬虫实战|![GitHub stars](https://img.shields.io/github/stars/Jack-Cherish/python-spider.svg)
+[Douyin-Bot](https://github.com/wangshub/Douyin-Bot)|Python 抖音机器人，论如何在抖音上找到漂亮小姐姐|python|python爬虫和智能识别|![GitHub stars](https://img.shields.io/github/stars/wangshub/Douyin-Bot.svg)
+[py12306](https://github.com/pjialin/py12306)|12306 购票助手，支持分布式，多账号，多任务购票以及 Web 页面管理|python|12306刷票工具|![GitHub stars](https://img.shields.io/github/stars/pjialin/py12306.svg)
+[12306](https://github.com/testerSunshine/12306)|12306 购票小助手|python|python写 订票助手| ![GitHub stars](https://img.shields.io/github/stars/testerSunshine/12306.svg)
+[wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn)|wtfpython的中文翻译/|python|wtfpython的中文翻译学习|![GitHub stars](https://img.shields.io/github/stars/leisurelicht/wtfpython-cn.svg)
+[awesome-python-login-model](https://github.com/CriseLYJ/awesome-python-login-model)|python模拟登陆一些大型网站，还有一些简单的爬虫|python|爬虫实例|![GitHub stars](https://img.shields.io/github/stars/CriseLYJ/awesome-python-login-model.svg)
+[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|Free software that works great, and also happens to be open-source Python|python|免费的python应用|![GitHub stars](https://img.shields.io/github/stars/mahmoud/awesome-python-applications.svg)
+
 
 
 ### Go
@@ -80,6 +68,7 @@
 ### Android
 
 - [RxTool](https://github.com/vondear/RxTool)|Android开发人员不得不收集的工具类集合 |Android|Android工具集|![GitHub stars](https://img.shields.io/github/stars/vondear/RxTool.svg)
+- [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)|今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案|android|适配方案|![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/AndroidAutoSize.svg)
 
 
 -----
@@ -94,7 +83,19 @@
 [spring-cloud-rest-tcc](https://github.com/prontera/spring-cloud-rest-tcc)|基于Spring Cloud Netflix的TCC柔性事务和EDA事件驱动示例，结合Spring Cloud Sleuth进行会话追踪和Spring Boot Admin的健康监控，并辅以Hystrix Dashboard提供近实时的熔断监控|熔断监控|![GitHub stars](https://img.shields.io/github/stars/prontera/spring-cloud-rest-tcc.svg)
 [x-pipe](https://github.com/ctripcorp/x-pipe)|X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统|架构|redis多个管理中心|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/x-pipe.svg)
 [j360-dubbo-app-all](https://github.com/xuminwlt/j360-dubbo-app-all)|基于dubbo的分布式工程开发规范实例工程，分布式跟踪、ID生成、分布式事务、分布式治理、分表分库、分布式锁、选举、分布式配置、API文档生成器...|架构|实例|![GitHub stars](https://img.shields.io/github/stars/xuminwlt/j360-dubbo-app-all.svg)
+[sofa-boot](https://github.com/alipay/sofa-boot)|SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户可以在 Spring Boot 中非常方便地使用 SOFA 中间件的能力|框架|蚂蚁金服基于springboot的研发框架|![GitHub stars](https://img.shields.io/github/stars/alipay/sofa-boot.svg)
+[litemall](https://github.com/linlinjava/litemall)|又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端|项目实例|一个商城小程序实例|![GitHub stars](https://img.shields.io/github/stars/linlinjava/litemall.svg)
+[hutool](https://github.com/looly/hutool)|Hutool是一个Java工具包，也只是一个工具包|java|很强大的一个Java工具包|![GitHub stars](https://img.shields.io/github/stars/looly/hutool.svg)
+[scribejava](https://github.com/scribejava/scribejava)|Simple OAuth library for Java|java|使用Oauth 的java库|![GitHub stars](https://img.shields.io/github/stars/scribejava/scribejava.svg)
+[mall](https://github.com/D2C-Cai/mall)|SpringCloud（Finchley.RELEASE）+SpringBoot（2.0.7）项目骨架，eureka+config+bus+feign+ribbon+hystrix+zuul等组件支持，MyBatis+Redis+MongoDB+RabbitMQ+Elasticsearch等集群配置| springclould |spirngclould项目骨架|![GitHub stars](https://img.shields.io/github/stars/D2C-Cai/mall.svg)
+[seata](https://github.com/seata/seata)|Seata is an easy-to-use, high-performance, java based, open source distributed transaction solution|架构|分布式是服务框架|![GitHub stars](https://img.shields.io/github/stars/seata/seata.svg)
 
+
+- 架构知识
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[learnDoc](https://github.com/csy512889371/learnDoc)|架构师的成长之路-博客-导图|架构|架构知识库（3颗星）|![GitHub stars](https://img.shields.io/github/stars/csy512889371/learnDoc.svg)
+[microservices](https://github.com/DocsHome/microservices)|中文版 《微服务：从设计到部署》|微服务|中文版 《微服务：从设计到部署》|![GitHub stars](https://img.shields.io/github/stars/DocsHome/microservices.svg)
 
 ---------
 ### WEB
@@ -114,12 +115,31 @@
 [flv.js](https://github.com/bilibili/flv.js)|HTML5 FLV Player|前端|FLV视频播放器|![GitHub stars](https://img.shields.io/github/stars/bilibili/flv.js.svg)
 [chameleon](https://github.com/didi/chameleon)| 一套代码运行多端，一端所见即多端所见|前端|前端框架，能够生成各种架构|![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
 [apexcharts.js](https://github.com/apexcharts/apexcharts.js)|Interactive SVG Charts|前端|强大的SVG charts|![GitHub stars](https://img.shields.io/github/stars/apexcharts/apexcharts.js.svg)
+[Lengyue-Vcode](https://github.com/leng-yue/Lengyue-Vcode)|各种滑动验证码识别| 前端| 爬虫破解验证码|![GitHub stars](https://img.shields.io/github/stars/leng-yue/Lengyue-Vcode.svg)
 
 
 - vue
-- [vuepress](https://github.com/vuejs/vuepress)|Minimalistic Vue-powered static site generator|vue|Vue 自动生成静态| ![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
+[vuepress](https://github.com/vuejs/vuepress)|Minimalistic Vue-powered static site generator|vue|Vue 自动生成静态| ![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
+
+- 小程序
+
+[awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp)|微信小程序开源项目库汇总|小程序|开源项目|![GitHub stars](https://img.shields.io/github/stars/opendigg/awesome-github-wechat-weapp.svg)
 
 
+### 数据库
+
+
+- kubernetes
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册|架构|Kubernetes知识库（4颗星）|![GitHub stars](https://img.shields.io/github/stars/rootsongjc/kubernetes-handbook.svg)
+
+
+
+- mybatis
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[mybatis-plus-samples](https://github.com/baomidou/mybatis-plus-samples)|MyBatis-Plus 的官方示例|数据库|MyBatis-Plus使用例子（3颗星）|![GitHub stars](https://img.shields.io/github/stars/baomidou/mybatis-plus-samples.svg)
 
 
 ---------
@@ -130,7 +150,7 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  | Linux | linux 命令|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg)
-
+[linux-insides-zh](https://github.com/MintCN/linux-insides-zh)|一系列关于 Linux 内核和其内在机理的帖子|linux|Linux 内核揭秘|![GitHub stars](https://img.shields.io/github/stars/MintCN/linux-insides-zh.svg)
 
 --------
 ### 运维
@@ -141,7 +161,8 @@
 --- | --- | --- | ----| ----
 [yapi](https://github.com/YMFE/yapi)| YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 | 运维|运维（API平台）|![GitHub stars](https://img.shields.io/github/stars/YMFE/yapi.svg) 
 [cat](https://github.com/dianping/cat)|CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等|运维|运维工具|![GitHub stars](https://img.shields.io/github/stars/dianping/cat.svg)
-[DOClever](https://github.com/sx1989827/DOClever|做最好的接口管理平台\商业化开源产品|运维|接口管理|![GitHub stars](https://img.shields.io/github/stars/sx1989827/DOClever.svg)
+[DOClever](https://github.com/sx1989827/DOClever)|做最好的接口管理平台\商业化开源产品|运维|接口管理|![GitHub stars](https://img.shields.io/github/stars/sx1989827/DOClever.svg)
+[greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy)|Java诊断工具|运维|诊断工具|![GitHub stars](https://img.shields.io/github/stars/oldmanpushcart/greys-anatomy.svg)
 
 - git相关
 
@@ -154,6 +175,7 @@
 --- | --- | --- | ----| ----
 - [nginx-tutorial](https://github.com/dunwu/nginx-tutorial) |这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。|运维|nginx使用知识 推荐3.5星|![GitHub stars](https://img.shields.io/github/stars/dunwu/nginx-tutorial.svg)
 - [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc)|JDBC importer for Elasticsearch|中间件|elasticsearch-jdbc|![GitHub stars](https://img.shields.io/github/stars/jprante/elasticsearch-jdbc.svg)
+- [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)|分布式数据库中间件，在sharding-jdbc基础上发展而来，sharding-jdbc是他的一部分|数据库|分布式数据库中间件|![GitHub stars](https://img.shields.io/github/stars/apache/incubator-shardingsphere.svg)
 
 - docker
 库名  |简述 |分类 |备注 |Stars
@@ -172,6 +194,7 @@
 [spring-cloud](https://github.com/yinjihuan/spring-cloud)|《Spring Cloud微服务-全栈技术与案例解析》配套源码 |知识库|springcloud知识|![GitHub stars](https://img.shields.io/github/stars/yinjihuan/spring-cloud.svg)
 [springboot-cloud](https://github.com/crossoverJie/springboot-cloud)|springcloud搭建的分布式服务|知识库|springcloud搭建实例项目|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/springboot-cloud.svg)
 [SpringAll](https://github.com/wuyouzhuguli/SpringAll)|循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Cloud和Spring Security|知识库|spring实例|![GitHub stars](https://img.shields.io/github/stars/wuyouzhuguli/SpringAll.svg)
+[springmvc-mybatis-learning](https://github.com/brianway/springmvc-mybatis-learning)|springmvc + mybatis 学习笔记|mybatis|springmvc、mybatis实例|![GitHub stars](https://img.shields.io/github/stars/brianway/springmvc-mybatis-learning.svg)
 
 
 - 前端相关
@@ -206,6 +229,7 @@
 [netty-in-action-cn](https://github.com/ReactivePlatform/netty-in-action-cn)|Netty In Action 中文版|知识库|netty|![GitHub stars](https://img.shields.io/github/stars/ReactivePlatform/netty-in-action-cn.svg)
 [alibaba-middleware-race-preliminary](https://github.com/yuyang733/alibaba-middleware-race-preliminary)|2016年阿里中间件性能挑战赛初赛题，RocketMQ+JStorm+Tair实时统计双11交易金额|知识库|java|![GitHub stars](https://img.shields.io/github/stars/yuyang733/alibaba-middleware-race-preliminary.svg)
 [USTC-Course](https://github.com/USTC-Resource/USTC-Course)| 中国科学技术大学课程资源 |计算机|教程|   ![GitHub stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg)
+[books](https://github.com/harvies/books)|IT技术书籍文字版mobi epub格式| 知识库| 书籍整理|![GitHub stars](https://img.shields.io/github/stars/harvies/books.svg)
 
 
 - 数据库相关
@@ -213,7 +237,7 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [tech](https://github.com/hedengcheng/tech) | 何登成（阿里）数据库知识分享 关于AliSQL MySQL |数据库|mysql数据库知识（3颗星）| ![GitHub stars](https://img.shields.io/github/stars/hedengcheng/tech.svg) 
-
+[yugong](https://github.com/alibaba/yugong)|阿里巴巴去Oracle数据迁移同步工具(全量+增量,目标支持MySQL/DRDS)|数据库|数据库迁移工具|![GitHub stars](https://img.shields.io/github/stars/alibaba/yugong.svg)
 - 安全
 
 [Micro8](https://github.com/Micropoor/Micro8)|渗透攻击超十年,毕生所学用文字表写出来|知识库|渗透攻击知识库推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/Micropoor/Micro8.svg)
@@ -224,6 +248,7 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
+[funNLP](https://github.com/fighting41love/funNLP)|各种词库和检测（中英文敏感词、语言检测、）|人工智能|各种词库和检测|![GitHub stars](https://img.shields.io/github/stars/fighting41love/funNLP.svg)
 [wukong-robot](https://github.com/wzpan/wukong-robot)|wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目|人工智能|对话机器人/智能音箱项目|![GitHub stars](https://img.shields.io/github/stars/wzpan/wukong-robot.svg)
 [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|机器学习100天|人工智能|机器学习知识|![GitHub stars](https://img.shields.io/github/stars/MLEveryday/100-Days-Of-ML-Code.svg)
 [home-assistant](https://github.com/home-assistant/home-assistant)|Open source home automation that puts local control and privacy first|人工智能|家庭智能|![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg)
@@ -235,6 +260,9 @@
 [TensorFlow-Course](https://github.com/machinelearningmindset/TensorFlow-Course)|Simple and ready-to-use tutorials for TensorFlow |人工智能|TensorFlow教程|![GitHub stars](https://img.shields.io/github/stars/machinelearningmindset/TensorFlow-Course.svg)
 [Chinese-Word-Vectors](https://github.com/Embedding/Chinese-Word-Vectors)|100+ Chinese Word Vectors 上百种预训练中文词向量|人工智能|中文词向量训练|![GitHub stars](https://img.shields.io/github/stars/Embedding/Chinese-Word-Vectors.svg)
 [d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》，英文版即伯克利深度学习|人工智能|深度学习教程|![GitHub stars](https://img.shields.io/github/stars/d2l-ai/d2l-zh.svg)
+[deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)|Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs| 深度学习|深度学习|![GitHub stars](https://img.shields.io/github/stars/deeplearning4j/deeplearning4j.svg)
+[Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)|2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记|人工智能|学习资料|![GitHub stars](https://img.shields.io/github/stars/imhuay/Algorithm_Interview_Notes-Chinese.svg)
+[HanLP](https://github.com/hankcs/HanLP)  |HanLP是一系列模型与算法组成的NLP工具包，由大快搜索主导并完全开源|人工智能|NLP工具包|![GitHub stars](https://img.shields.io/github/stars/hankcs/HanLP.svg)
 
 
 ------
@@ -249,6 +277,17 @@
 [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer)|视频播放器（IJKplayer、ExoPlayer、MediaPlayer）|工具|强大的视频播放器，各种支持|![GitHub stars](https://img.shields.io/github/stars/CarGuo/GSYVideoPlayer.svg)
 [Luban](https://github.com/Curzibn/Luban)|Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法|组件|图片压缩算法|![GitHub stars](https://img.shields.io/github/stars/Curzibn/Luban.svg)
 [SmartCropper](https://github.com/pqpo/SmartCropper)| 智能图片裁剪框架。自动识别边框，手动调节选区，使用透视变换裁剪并矫正选区；适用于身份证，名片，文档等照片的裁剪|组件|图片裁剪|![GitHub stars](https://img.shields.io/github/stars/pqpo/SmartCropper.svg)
+[blockVisualEditor](https://github.com/sww1230/blockVisualEditor)|区块可视化代码编辑器 ,通过托拉拽的方式可以生成前端vue代码|工具|前端代码生成工具|![GitHub stars](https://img.shields.io/github/stars/sww1230/blockVisualEditor.svg)
+[DoraemonKit](https://github.com/didi/DoraemonKit)|简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。|工具|IOS、Android工具|![GitHub stars](https://img.shields.io/github/stars/didi/DoraemonKit.svg)
+
+
+
+### 英语学习
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)|专为程序员编写的英语学习指南 v1.2|英语|英语学习|![GitHub stars](https://img.shields.io/github/stars/yujiangshui/A-Programmers-Guide-to-English.svg)
+[everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)|人人都能用英语(李笑来)|英语|英语学习|![GitHub stars](https://img.shields.io/github/stars/xiaolai/everyone-can-use-english.svg)
+
 
 ### 其他
 
@@ -259,6 +298,11 @@
 [p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|其他|Java开发指南|![GitHub stars](https://img.shields.io/github/stars/alibaba/p3c.svg)
 [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|分享 GitHub 上有趣、入门级的开源项目|其他|GitHub项目分享|![GitHub stars](https://img.shields.io/github/stars/521xueweihan/HelloGitHub.svg)
 [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)|Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书|其他|chrome各种常用插件|![GitHub stars](https://img.shields.io/github/stars/zhaoolee/ChromeAppHeroes.svg)
+[ResumeSample](https://github.com/geekcompany/ResumeSample)|各种语言程序员简历模板|面试|简历模板|![GitHub stars](https://img.shields.io/github/stars/geekcompany/ResumeSample.svg)
+[chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)|统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质|其他|中文文案排班|![GitHub stars](https://img.shields.io/github/stars/mzlogin/chinese-copywriting-guidelines.svg)
+
+
+
 
 
 技术栈
