@@ -401,6 +401,8 @@
 
 ### 其他资源整理
 
+库名  |简述 
+--- | --- 
 [github-bookmark](https://github.com/taojintianxia/github-bookmark)|收集了Github上的优秀工具,框架,知识合集 （_推荐_）
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|中国独立开发者项目列表 -- 分享大家都在做什么 （_推荐_）
 [share_ppt](https://github.com/rfyiamcool/share_ppt)|曾经做过的技术分享... http://xiaorui.cc
