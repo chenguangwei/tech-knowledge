@@ -69,14 +69,14 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN)|《The Way to Go》中文译本，中文正式名《Go 入门指南》|GO|Go入门指南书籍|![GitHub stars](https://img.shields.io/github/stars/Unknwon/the-way-to-go_ZH_CN.svg)
-
+[awesome-go](https://github.com/avelino/awesome-go)|A curated list of awesome Go frameworks, libraries and software|go|go框架和库|![GitHub stars](https://img.shields.io/github/stars/avelino/awesome-go.svg)
 ### Android
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [RxTool](https://github.com/vondear/RxTool)|Android开发人员不得不收集的工具类集合 |Android|Android工具集|![GitHub stars](https://img.shields.io/github/stars/vondear/RxTool.svg)
 [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)|今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案|android|适配方案|![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/AndroidAutoSize.svg)
-
+[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)|A curated list of awesome Android UI/UX libraries |android|android ui|![GitHub stars](https://img.shields.io/github/stars/wasabeef/awesome-android-ui.svg)
 
 -----
 ### 架构
@@ -118,6 +118,7 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
+[flutter](https://github.com/flutter/flutter)|Flutter makes it easy and fast to build beautiful mobile apps.|flutter|flutter| ![GitHub stars](https://img.shields.io/github/stars/flutter/flutter.svg)
 [apollo](https://github.com/ctripcorp/apollo)|Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置|框架|Apollo|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/apollo.svg)
 [x-pipe](https://github.com/ctripcorp/x-pipe)|X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统|架构|redis多个管理中心|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/x-pipe.svg)
 [timer](https://github.com/braveMind/timer)|分布式任务调度框架,RPC通信，心跳检测，服务注册，服务发下，自动摘除,负载均衡策略|架构|RPC实现、可以学习实现思路| ![GitHub stars](https://img.shields.io/github/stars/braveMind/timer.svg)
@@ -157,7 +158,7 @@
 [Lengyue-Vcode](https://github.com/leng-yue/Lengyue-Vcode)|各种滑动验证码识别| 前端| 爬虫破解验证码|![GitHub stars](https://img.shields.io/github/stars/leng-yue/Lengyue-Vcode.svg)
 [dayjs](https://github.com/iamkun/dayjs)|Day.js 2KB immutable date library alternative to Moment.js with the same modern API |前端|日期库|![GitHub stars](https://img.shields.io/github/stars/iamkun/dayjs.svg)
 [ReLaXed](https://github.com/RelaxedJS/ReLaXed)|使用web创建pdf|前端|PDF生成|![GitHub stars](https://img.shields.io/github/stars/RelaxedJS/ReLaXed.svg)
-
+[Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist#html)|开发人员的完美前端清单|前端|前端清单|![GitHub stars](https://img.shields.io/github/stars/thedaviddias/Front-End-Checklist#html.svg)
 
 - vue
 
@@ -318,7 +319,7 @@
 [CS-Notes](https://github.com/CyC2018/CS-Notes)|技术面试必备基础知识|计算机|计算机知识总结|![GitHub stars](https://img.shields.io/github/stars/CyC2018/CS-Notes.svg)
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x#build-your-own-docker)|Build your own (insert technology here) |计算机|创建各种应用教程|![GitHub stars](https://img.shields.io/github/stars/danistefanovic/build-your-own-x#build-your-own-docker.svg)
 [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)|本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》|计算机|编程心得|![GitHub stars](https://img.shields.io/github/stars/julycoding/The-Art-Of-Programming-By-July.svg)
-
+[interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)|Everything you need to know to get the job.|资料收集|资料|![GitHub stars](https://img.shields.io/github/stars/kdn251/interviews.svg)
 - JAVA
 
 库名  |简述 |分类 |备注 |Stars
@@ -418,6 +419,8 @@
 [chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines)|统一中文文案、排版的相关用法，降低团队成员之间的沟通成本，增强网站气质|其他|中文文案排班|![GitHub stars](https://img.shields.io/github/stars/mzlogin/chinese-copywriting-guidelines.svg)
 [awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn)|收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料|其他|区块链资料|![GitHub stars](https://img.shields.io/github/stars/chaozh/awesome-blockchain-cn.svg)
 [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader)|百度网盘不限速下载 支持Windows和Mac|其他|百度网盘|![GitHub stars](https://img.shields.io/github/stars/high-speed-downloader/high-speed-downloader.svg)
+[public-apis](https://github.com/toddmotto/public-apis)|A collective list of free APIs for use in software and web development|其他|API整理|![GitHub stars](https://img.shields.io/github/stars/toddmotto/public-apis.svg)
+[youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|其他|命令下载视频|![GitHub stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl.svg)
 
 ### 其他资源整理
 
@@ -458,12 +461,11 @@
 - [Hollis 公众号](https://mp.weixin.qq.com/s/XCzNMcWFg3pskPxZCJSi4Q)
 - [JVM相关-你假笨](http://lovestblog.cn/blog/archives/)
 - [crossoverjie的博客](https://crossoverjie.top/)
+- [占小狼](https://www.jianshu.com/nb/4893857)
 
 github  优秀项目
 
 - [寻找最好的Github项目](https://github-trending.com/)
 - [分享优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
-
 - [汇总java生态圈常用技术框架](https://github.com/aalansehaiyang/technology-talk)
-
 - [收集各种awesome项目](https://github.com/ityouknow/awesome-list)
