@@ -59,6 +59,10 @@
 [awesome-python-applications](https://github.com/mahmoud/awesome-python-applications)|Free software that works great, and also happens to be open-source Python|python|免费的python应用|![GitHub stars](https://img.shields.io/github/stars/mahmoud/awesome-python-applications.svg)
 [textfilter](https://github.com/observerss/textfilter)|敏感词过滤的几种实现+某1w词敏感词库|python|敏感词|![GitHub stars](https://img.shields.io/github/stars/observerss/textfilter.svg)
 [any-captcha](https://github.com/IMYR666/any-captcha)|generate any type of captcha with one config. 一套配置，一行代码，快速生成任意风格验证码。|python|快速生成各种验证码|![GitHub stars](https://img.shields.io/github/stars/IMYR666/any-captcha.svg)
+[awesome-spider](https://github.com/facert/awesome-spider)|收集各种爬虫 （默认爬虫语言为 python）|python|爬虫集合|![GitHub stars](https://img.shields.io/github/stars/facert/awesome-spider.svg)
+[proxy_pool](https://github.com/jhao104/proxy_pool)|Python爬虫代理IP池(proxy pool)|python|爬虫代理|![GitHub stars](https://img.shields.io/github/stars/jhao104/proxy_pool.svg)
+[show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)|Python 练习册，每天一个小程序|python|python练习|![GitHub stars](https://img.shields.io/github/stars/Yixiaohan/show-me-the-code.svg)
+
 
 ### Go
 
@@ -131,6 +135,11 @@
 
 - 设计
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[material-dashboard](https://github.com/creativetimofficial/material-dashboard)|Material Dashboard - Open Source Bootstrap 4 Material Design Admin|设计|bootstrap|![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/material-dashboard.svg)
+[css3-tutorial](https://github.com/waylau/css3-tutorial)|CSS3 Tutorial. 《CSS3 教程》|布局|css|![GitHub stars](https://img.shields.io/github/stars/waylau/css3-tutorial.svg)
+
 - 前端
 
 库名  |简述 |分类 |备注 |Stars
@@ -146,6 +155,8 @@
 [chameleon](https://github.com/didi/chameleon)| 一套代码运行多端，一端所见即多端所见|前端|前端框架，能够生成各种架构|![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
 [apexcharts.js](https://github.com/apexcharts/apexcharts.js)|Interactive SVG Charts|前端|强大的SVG charts|![GitHub stars](https://img.shields.io/github/stars/apexcharts/apexcharts.js.svg)
 [Lengyue-Vcode](https://github.com/leng-yue/Lengyue-Vcode)|各种滑动验证码识别| 前端| 爬虫破解验证码|![GitHub stars](https://img.shields.io/github/stars/leng-yue/Lengyue-Vcode.svg)
+[dayjs](https://github.com/iamkun/dayjs)|Day.js 2KB immutable date library alternative to Moment.js with the same modern API |前端|日期库|![GitHub stars](https://img.shields.io/github/stars/iamkun/dayjs.svg)
+[ReLaXed](https://github.com/RelaxedJS/ReLaXed)|使用web创建pdf|前端|PDF生成|![GitHub stars](https://img.shields.io/github/stars/RelaxedJS/ReLaXed.svg)
 
 
 - vue
@@ -153,6 +164,7 @@
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [vuepress](https://github.com/vuejs/vuepress)|Minimalistic Vue-powered static site generator|vue|Vue 自动生成静态| ![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
+[vue2-elm](https://github.com/bailicangdu/vue2-elm)|基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|vue|丰富的单页面应用|![GitHub stars](https://img.shields.io/github/stars/bailicangdu/vue2-elm.svg)
 
 - react
 
@@ -200,6 +212,7 @@
 --- | --- | --- | ----| ----
 [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  | Linux | linux 命令|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg)
 [linux-insides-zh](https://github.com/MintCN/linux-insides-zh)|一系列关于 Linux 内核和其内在机理的帖子|linux|Linux 内核揭秘|![GitHub stars](https://img.shields.io/github/stars/MintCN/linux-insides-zh.svg)
+[pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#split-a-string-on-a-delimiter)|A collection of pure bash alternatives to external processes.|linux|bash命令|![GitHub stars](https://img.shields.io/github/stars/dylanaraps/pure-bash-bible#split-a-string-on-a-delimiter.svg)
 
 ------
 ### 测试
@@ -276,6 +289,8 @@
 [33-js-concepts](https://github.com/stephentian/33-js-concepts)|每个 JavaScript 工程师都应懂的33个概念|知识库|前端JS知识|![GitHub stars](https://img.shields.io/github/stars/stephentian/33-js-concepts.svg)
 [zaobao](https://github.com/wubaiqing/zaobao)|每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类|前端|分享技术|![GitHub stars](https://img.shields.io/github/stars/wubaiqing/zaobao.svg)
 [common-regex](https://github.com/cdoco/common-regex)|常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。|知识库|前端 正则表达式知识，有图解很棒推荐|![GitHub stars](https://img.shields.io/github/stars/cdoco/common-regex.svg)
+[javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|javascript 算法和数据机构实现|JavaScript|javascript教程|![GitHub stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms.svg)
+
 
 - JAVA+计算机相关
 
@@ -300,7 +315,9 @@
 [USTC-Course](https://github.com/USTC-Resource/USTC-Course)| 中国科学技术大学课程资源 |计算机|教程|   ![GitHub stars](https://img.shields.io/github/stars/USTC-Resource/USTC-Course.svg)
 [books](https://github.com/harvies/books)|IT技术书籍文字版mobi epub格式| 知识库| 书籍整理|![GitHub stars](https://img.shields.io/github/stars/harvies/books.svg)
 [free-programming-books-zh_CN](https://github.com/lanxuezaipiao/free-programming-books-zh_CN)|免费的计算机编程类中文书籍|计算机|书籍|![GitHub stars](https://img.shields.io/github/stars/lanxuezaipiao/free-programming-books-zh_CN.svg)
-
+[CS-Notes](https://github.com/CyC2018/CS-Notes)|技术面试必备基础知识|计算机|计算机知识总结|![GitHub stars](https://img.shields.io/github/stars/CyC2018/CS-Notes.svg)
+[build-your-own-x](https://github.com/danistefanovic/build-your-own-x#build-your-own-docker)|Build your own (insert technology here) |计算机|创建各种应用教程|![GitHub stars](https://img.shields.io/github/stars/danistefanovic/build-your-own-x#build-your-own-docker.svg)
+[The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)|本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》|计算机|编程心得|![GitHub stars](https://img.shields.io/github/stars/julycoding/The-Art-Of-Programming-By-July.svg)
 
 - JAVA
 
@@ -311,6 +328,9 @@
 [advanced-java](https://github.com/doocs/advanced-java)|互联网 Java 工程师进阶知识完全扫盲|知识库|Java高级相关|![GitHub stars](https://img.shields.io/github/stars/doocs/advanced-java.svg)
 [technology-talk](https://github.com/aalansehaiyang/technology-talk)|汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识|计算机|技术框架|![GitHub stars](https://img.shields.io/github/stars/aalansehaiyang/technology-talk.svg)
 [Java-concurrency](https://github.com/CL0610/Java-concurrency)|Java并发知识点总结|java|并发编程|![GitHub stars](https://img.shields.io/github/stars/CL0610/Java-concurrency.svg)
+[architect-awesome](https://github.com/xingshaocheng/architect-awesome)|后端架构师技术图谱|java|后端架构|![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg)
+[awesome-java-books](https://github.com/sorenduan/awesome-java-books)|Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件|java|java开发收集|![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg)
+[JCSprout](https://github.com/crossoverJie/JCSprout)|java基础 并发 算法|java|Java 核心知识库。|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/JCSprout.svg)
 
 
 - 数据库相关
@@ -352,7 +372,7 @@
 [Chatbot](https://github.com/zake7749/Chatbot)|基於向量匹配的情境式聊天機器人|人工智能|机器人|![GitHub stars](https://img.shields.io/github/stars/zake7749/Chatbot.svg)
 [chatbot](https://github.com/zhaoyingjun/chatbot)|一个可以自己进行训练的中文聊天机器人， 可以用于智能客服、在线问答、智能聊天|人工智能|机器人| ![GitHub stars](https://img.shields.io/github/stars/zhaoyingjun/chatbot.svg)
 [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)|100 Days of ML Coding|人工智能|ML学习|![GitHub stars](https://img.shields.io/github/stars/Avik-Jain/100-Days-Of-ML-Code.svg)
-
+[QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem)|QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案|人工智能 |人机问答系统|![GitHub stars](https://img.shields.io/github/stars/ysc/QuestionAnsweringSystem.svg)
  
 ### GO
 
@@ -407,6 +427,9 @@
 [chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|中国独立开发者项目列表 -- 分享大家都在做什么 （_推荐_）
 [share_ppt](https://github.com/rfyiamcool/share_ppt)|曾经做过的技术分享... http://xiaorui.cc
 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)|GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。|其他|从中找到各种优秀GitHub项目，4颗星|![GitHub stars](https://img.shields.io/github/stars/GitHubDaily/GitHubDaily.svg)
+
+
+
 
 
 技术栈
