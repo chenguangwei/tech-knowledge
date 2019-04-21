@@ -41,7 +41,7 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
-[easyexcel](https://github.com/alibaba/easyexcel)|快速、简单避免OOM的java处理Excel工具|java|处理Excel工具|![GitHub stars](https://img.shields.io/github/stars//alibaba/easyexcel.svg)
+[easyexcel](https://github.com/alibaba/easyexcel)|快速、简单避免OOM的java处理Excel工具|java|处理Excel工具|![GitHub stars](https://img.shields.io/github/stars/alibaba/easyexcel.svg)
 
 ----
 ### python
