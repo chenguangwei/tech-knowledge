@@ -70,8 +70,8 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
-- [RxTool](https://github.com/vondear/RxTool)|Android开发人员不得不收集的工具类集合 |Android|Android工具集|![GitHub stars](https://img.shields.io/github/stars/vondear/RxTool.svg)
-- [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)|今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案|android|适配方案|![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/AndroidAutoSize.svg)
+[RxTool](https://github.com/vondear/RxTool)|Android开发人员不得不收集的工具类集合 |Android|Android工具集|![GitHub stars](https://img.shields.io/github/stars/vondear/RxTool.svg)
+[AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)|今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案|android|适配方案|![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/AndroidAutoSize.svg)
 
 
 -----
