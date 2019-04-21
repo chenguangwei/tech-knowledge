@@ -68,6 +68,8 @@
 
 ### Android
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 - [RxTool](https://github.com/vondear/RxTool)|Android开发人员不得不收集的工具类集合 |Android|Android工具集|![GitHub stars](https://img.shields.io/github/stars/vondear/RxTool.svg)
 - [AndroidAutoSize](https://github.com/JessYanCoding/AndroidAutoSize)|今日头条屏幕适配方案终极版，一个极低成本的 Android 屏幕适配方案|android|适配方案|![GitHub stars](https://img.shields.io/github/stars/JessYanCoding/AndroidAutoSize.svg)
 
@@ -100,6 +102,7 @@
 [favorites-web](https://github.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|开源项目|云收藏|![GitHub stars](https://img.shields.io/github/stars/cloudfavorites/favorites-web.svg)
 
 - 架构知识
+
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [learnDoc](https://github.com/csy512889371/learnDoc)|架构师的成长之路-博客-导图|架构|架构知识库（3颗星）|![GitHub stars](https://img.shields.io/github/stars/csy512889371/learnDoc.svg)
@@ -109,6 +112,8 @@
 
 - 框架
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 [apollo](https://github.com/ctripcorp/apollo)|Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置|框架|Apollo|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/apollo.svg)
 [x-pipe](https://github.com/ctripcorp/x-pipe)|X-Pipe是由携程框架部门研发的Redis多数据中心复制管理系统|架构|redis多个管理中心|![GitHub stars](https://img.shields.io/github/stars/ctripcorp/x-pipe.svg)
 [timer](https://github.com/braveMind/timer)|分布式任务调度框架,RPC通信，心跳检测，服务注册，服务发下，自动摘除,负载均衡策略|架构|RPC实现、可以学习实现思路| ![GitHub stars](https://img.shields.io/github/stars/braveMind/timer.svg)
@@ -127,6 +132,7 @@
 - 设计
 
 - 前端
+
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [vue-webapp](https://github.com/vincentSea/vue-webapp)|Ego 移动端购物商城|前端|前端项目实例|![GitHub stars](https://img.shields.io/github/stars/vincentSea/vue-webapp.svg)
@@ -143,11 +149,13 @@
 
 
 - vue
+
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [vuepress](https://github.com/vuejs/vuepress)|Minimalistic Vue-powered static site generator|vue|Vue 自动生成静态| ![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
 
 - react
+
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
 [taro](https://github.com/NervJS/taro)|多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native |react|多端框架|![GitHub stars](https://img.shields.io/github/stars//NervJS/taro.svg)
