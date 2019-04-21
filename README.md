@@ -163,6 +163,8 @@
 
 - 微信相关（公众号）、小程序
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp)|微信小程序开源项目库汇总|小程序|开源项目|![GitHub stars](https://img.shields.io/github/stars/opendigg/awesome-github-wechat-weapp.svg)
 [微信开发者联盟](https://github.com/Wechat-Group)|微信开发者联盟|微信|WxJava （微信开发 Java SDK）、推送微信模板消息、客服消息|xx
 [WxJava](https://github.com/Wechat-Group/WxJava)|WxJava （微信开发 Java SDK），支持包括微信支付、开放平台、小程序、企业微信/企业号和公众号等的后端开发|微信|微信开发|![GitHub stars](https://img.shields.io/github/stars/Wechat-Group/WxJava.svg)
