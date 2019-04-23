@@ -62,7 +62,8 @@
 [awesome-spider](https://github.com/facert/awesome-spider)|收集各种爬虫 （默认爬虫语言为 python）|python|爬虫集合|![GitHub stars](https://img.shields.io/github/stars/facert/awesome-spider.svg)
 [proxy_pool](https://github.com/jhao104/proxy_pool)|Python爬虫代理IP池(proxy pool)|python|爬虫代理|![GitHub stars](https://img.shields.io/github/stars/jhao104/proxy_pool.svg)
 [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)|Python 练习册，每天一个小程序|python|python练习|![GitHub stars](https://img.shields.io/github/stars/Yixiaohan/show-me-the-code.svg)
-
+[interesting-python](https://github.com/Alfred1984/interesting-python)|有趣的Python爬虫和Python数据分析小项目|python|python爬虫|![GitHub stars](https://img.shields.io/github/stars/Alfred1984/interesting-python.svg)
+[spug](https://github.com/openspug/spug)|开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警|python|监控|![GitHub stars](https://img.shields.io/github/stars/openspug/spug.svg)
 
 ### Go
 
@@ -70,6 +71,9 @@
 --- | --- | --- | ----| ----
 [the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN)|《The Way to Go》中文译本，中文正式名《Go 入门指南》|GO|Go入门指南书籍|![GitHub stars](https://img.shields.io/github/stars/Unknwon/the-way-to-go_ZH_CN.svg)
 [awesome-go](https://github.com/avelino/awesome-go)|A curated list of awesome Go frameworks, libraries and software|go|go框架和库|![GitHub stars](https://img.shields.io/github/stars/avelino/awesome-go.svg)
+[Go42](https://github.com/ffhelicopter/Go42)|写《Go语言四十二章经》，纯粹是因为开发过程中碰到过的一些问题，踩到过的一些坑，|go|GO学习的开发总结|![GitHub stars](https://img.shields.io/github/stars//ffhelicopter/Go42.svg)
+
+
 ### Android
 
 库名  |简述 |分类 |备注 |Stars
@@ -104,6 +108,13 @@
 [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler)|一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架|架构|java爬虫|![GitHub stars](https://img.shields.io/github/stars/zhegexiaohuozi/SeimiCrawler.svg)
 [vhr](https://github.com/lenve/vhr)|微人事是一个前后端分离的人力资源管理系统|项目|人力系统|![GitHub stars](https://img.shields.io/github/stars/lenve/vhr.svg)
 [favorites-web](https://github.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|开源项目|云收藏|![GitHub stars](https://img.shields.io/github/stars/cloudfavorites/favorites-web.svg)
+[jitsi-meet](https://github.com/jitsi/jitsi-meet)|视频会议|架构|视频会议|![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet.svg)
+[zxing](https://github.com/zxing/zxing)|用于Java，Android的条形码扫描库|java|条形码，二维码扫描库|![GitHub stars](https://img.shields.io/github/stars/zxing/zxing.svg)
+[halo](https://github.com/halo-dev/halo)|java博客系统|java|java 博客系统|![GitHub stars](https://img.shields.io/github/stars/halo-dev/halo.svg)
+[Github-Monitor](https://github.com/VKSRC/Github-Monitor)|Github信息泄漏监控系统|项目|github监控系统|![GitHub stars](https://img.shields.io/github/stars/VKSRC/Github-Monitor.svg)
+[skywalking](https://github.com/apache/skywalking)|应用程序性能监控系统|架构|监控|![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg)
+
+
 
 - 架构知识
 
@@ -243,9 +254,9 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
-- [nginx-tutorial](https://github.com/dunwu/nginx-tutorial) |这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。|运维|nginx使用知识 推荐3.5星|![GitHub stars](https://img.shields.io/github/stars/dunwu/nginx-tutorial.svg)
-- [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc)|JDBC importer for Elasticsearch|中间件|elasticsearch-jdbc|![GitHub stars](https://img.shields.io/github/stars/jprante/elasticsearch-jdbc.svg)
-- [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)|分布式数据库中间件，在sharding-jdbc基础上发展而来，sharding-jdbc是他的一部分|数据库|分布式数据库中间件|![GitHub stars](https://img.shields.io/github/stars/apache/incubator-shardingsphere.svg)
+[nginx-tutorial](https://github.com/dunwu/nginx-tutorial) |这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。|运维|nginx使用知识 推荐3.5星|![GitHub stars](https://img.shields.io/github/stars/dunwu/nginx-tutorial.svg)
+[elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc)|JDBC importer for Elasticsearch|中间件|elasticsearch-jdbc|![GitHub stars](https://img.shields.io/github/stars/jprante/elasticsearch-jdbc.svg)
+[incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)|分布式数据库中间件，在sharding-jdbc基础上发展而来，sharding-jdbc是他的一部分|数据库|分布式数据库中间件|![GitHub stars](https://img.shields.io/github/stars/apache/incubator-shardingsphere.svg)
 
 - docker
 
@@ -332,7 +343,7 @@
 [architect-awesome](https://github.com/xingshaocheng/architect-awesome)|后端架构师技术图谱|java|后端架构|![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg)
 [awesome-java-books](https://github.com/sorenduan/awesome-java-books)|Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件|java|java开发收集|![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg)
 [JCSprout](https://github.com/crossoverJie/JCSprout)|java基础 并发 算法|java|Java 核心知识库。|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/JCSprout.svg)
-
+[tutorials](https://github.com/eugenp/tutorials)|The "REST With Spring" Course: |java|rest spring|![GitHub stars](https://img.shields.io/github/stars/eugenp/tutorials.svg)
 
 - 数据库相关
 
