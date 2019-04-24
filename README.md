@@ -244,6 +244,8 @@
 ------
 ### 测试
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 [spring-test-examples](https://github.com/chanjarster/spring-test-examples)|Spring、Spring Boot和TestNG测试指南|测试|spring相关测试|![GitHub stars](https://img.shields.io/github/stars/chanjarster/spring-test-examples.svg)
 
 
@@ -289,7 +291,9 @@
 
 - 运维
 
-[op_practice_book](https://github.com/meetbill/op_practice_book\《运维实践指南》持续更新中|运维|运维指南|![GitHub stars](https://img.shields.io/github/stars/meetbill/op_practice_book.svg)
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[op_practice_book](https://github.com/meetbill/op_practice_book)《运维实践指南》持续更新中|运维|运维指南|![GitHub stars](https://img.shields.io/github/stars/meetbill/op_practice_book.svg)
 
 ---------
 ### 知识库
