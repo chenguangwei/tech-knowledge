@@ -64,6 +64,8 @@
 [show-me-the-code](https://github.com/Yixiaohan/show-me-the-code)|Python 练习册，每天一个小程序|python|python练习|![GitHub stars](https://img.shields.io/github/stars/Yixiaohan/show-me-the-code.svg)
 [interesting-python](https://github.com/Alfred1984/interesting-python)|有趣的Python爬虫和Python数据分析小项目|python|python爬虫|![GitHub stars](https://img.shields.io/github/stars/Alfred1984/interesting-python.svg)
 [spug](https://github.com/openspug/spug)|开源运维平台：帮助中小型企业完成主机、任务、发布部署、配置文件、监控、报警|python|监控|![GitHub stars](https://img.shields.io/github/stars/openspug/spug.svg)
+[weixin_crawler](https://github.com/wonderfulsuccess/weixin_crawler)|高效微信公众号历史文章和阅读数据爬虫powered by scrapy 微信公众号爬虫|python|公众号爬虫|![GitHub stars](https://img.shields.io/github/stars/wonderfulsuccess/weixin_crawler.svg)
+
 
 ### Go
 
@@ -113,8 +115,8 @@
 [halo](https://github.com/halo-dev/halo)|java博客系统|java|java 博客系统|![GitHub stars](https://img.shields.io/github/stars/halo-dev/halo.svg)
 [Github-Monitor](https://github.com/VKSRC/Github-Monitor)|Github信息泄漏监控系统|项目|github监控系统|![GitHub stars](https://img.shields.io/github/stars/VKSRC/Github-Monitor.svg)
 [skywalking](https://github.com/apache/skywalking)|应用程序性能监控系统|架构|监控|![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg)
-
-
+[weapp-library](https://github.com/imageslr/weapp-library)|“在线借书平台”小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统，里面还有Taro|架构|小程序完成版|![GitHub stars](https://img.shields.io/github/stars/imageslr/weapp-library.svg)
+[meedu](https://github.com/Qsnh/meedu)|基于Laravel开发的在线点播系统|架构|在线教育系统|![GitHub stars](https://img.shields.io/github/stars/Qsnh/meedu.svg)
 
 - 架构知识
 
@@ -152,6 +154,7 @@
 [material-dashboard](https://github.com/creativetimofficial/material-dashboard)|Material Dashboard - Open Source Bootstrap 4 Material Design Admin|设计|bootstrap|![GitHub stars](https://img.shields.io/github/stars/creativetimofficial/material-dashboard.svg)
 [css3-tutorial](https://github.com/waylau/css3-tutorial)|CSS3 Tutorial. 《CSS3 教程》|布局|css|![GitHub stars](https://img.shields.io/github/stars/waylau/css3-tutorial.svg)
 
+
 - 前端
 
 库名  |简述 |分类 |备注 |Stars
@@ -170,6 +173,9 @@
 [dayjs](https://github.com/iamkun/dayjs)|Day.js 2KB immutable date library alternative to Moment.js with the same modern API |前端|日期库|![GitHub stars](https://img.shields.io/github/stars/iamkun/dayjs.svg)
 [ReLaXed](https://github.com/RelaxedJS/ReLaXed)|使用web创建pdf|前端|PDF生成|![GitHub stars](https://img.shields.io/github/stars/RelaxedJS/ReLaXed.svg)
 [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist#html)|开发人员的完美前端清单|前端|前端清单|![GitHub stars](https://img.shields.io/github/stars/thedaviddias/Front-End-Checklist#html.svg)
+[html](https://whatwg-cn.github.io/html/)|HTML标准文档|前端|html|xxx
+[Front-End-Performance-Checklist](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)|前端性能清单，让你的网站跑的更快|前端|前端优化|![GitHub stars](https://img.shields.io/github/stars/JohnsenZhou/Front-End-Performance-Checklist.svg)
+
 
 - vue
 
@@ -199,7 +205,6 @@
 
 ### 数据库
 
-
 - kubernetes
 
 库名  |简述 |分类 |备注 |Stars
@@ -215,6 +220,10 @@
 [mybatis-plus-samples](https://github.com/baomidou/mybatis-plus-samples)|MyBatis-Plus 的官方示例|数据库|MyBatis-Plus使用例子（3颗星）|![GitHub stars](https://img.shields.io/github/stars/baomidou/mybatis-plus-samples.svg)
 
 
+- 数据库知识
+
+[soar](https://github.com/XiaoMi/soar)|SQL 自动优化和改写的工具。可以自动优化 MySQL 语法族，并且给出为什么要这样优化的理由|数据库|数据库优化|![GitHub stars](https://img.shields.io/github/stars/XiaoMi/soar.svg)
+
 ---------
 ### 操作系统
 
@@ -225,7 +234,7 @@
 [linux-command](https://github.com/jaywcjlove/linux-command) | Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集  | Linux | linux 命令|![GitHub stars](https://img.shields.io/github/stars/jaywcjlove/linux-command.svg)
 [linux-insides-zh](https://github.com/MintCN/linux-insides-zh)|一系列关于 Linux 内核和其内在机理的帖子|linux|Linux 内核揭秘|![GitHub stars](https://img.shields.io/github/stars/MintCN/linux-insides-zh.svg)
 [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible#split-a-string-on-a-delimiter)|A collection of pure bash alternatives to external processes.|linux|bash命令|![GitHub stars](https://img.shields.io/github/stars/dylanaraps/pure-bash-bible#split-a-string-on-a-delimiter.svg)
-
+[Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|linux|linux知识|![GitHub stars](https://img.shields.io/github/stars/judasn/Linux-Tutorial.svg)
 ------
 ### 测试
 
@@ -308,6 +317,7 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
+[skill-map](https://github.com/TeamStuQ/skill-map)|程序员技能图谱|计算机|技能图谱|![GitHub stars](https://img.shields.io/github/stars/TeamStuQ/skill-map.svg)
 [Java-Notes](https://github.com/PansonPanson/Java-Notes)|计算机科学基础知识、Java开发、后端/服务端、面试相关|知识库|Java相关计算机知识|![GitHub stars](https://img.shields.io/github/stars/PansonPanson/Java-Notes.svg)
 [God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|大数据成神之路|知识库|涉及面比较全，计算机各种相关知识，推荐4颗星|![GitHub stars](https://img.shields.io/github/stars/wangzhiwubigdata/God-Of-BigData.svg)
 [be-a-professional-programmer](https://github.com/stanzhai/be-a-professional-programmer)|成为专业程序员路上用到的各种优秀资料、神器及框架|知识库|一些资料整理|![GitHub stars](https://img.shields.io/github/stars/stanzhai/be-a-professional-programmer.svg)
@@ -331,6 +341,10 @@
 [build-your-own-x](https://github.com/danistefanovic/build-your-own-x#build-your-own-docker)|Build your own (insert technology here) |计算机|创建各种应用教程|![GitHub stars](https://img.shields.io/github/stars/danistefanovic/build-your-own-x#build-your-own-docker.svg)
 [The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)|本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》|计算机|编程心得|![GitHub stars](https://img.shields.io/github/stars/julycoding/The-Art-Of-Programming-By-July.svg)
 [interviews](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)|Everything you need to know to get the job.|资料收集|资料|![GitHub stars](https://img.shields.io/github/stars/kdn251/interviews.svg)
+[Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions)|后端开发面试题|计算机|这篇文章翻译自一位外国友人的关于面试后端程序员的文章|![GitHub stars](https://img.shields.io/github/stars/monklof/Back-End-Developer-Interview-Questions.svg)
+[simple_os_book](https://github.com/chyyuu/simple_os_book)|操作系统的基本原理与简单实现|计算机|操作系统的原理|![GitHub stars](https://img.shields.io/github/stars/chyyuu/simple_os_book.svg)
+[project-based-learning](https://github.com/tuvtran/project-based-learning)|基于项目的学习|学习|根据项目学习|![GitHub stars](https://img.shields.io/github/stars/tuvtran/project-based-learning.svg)
+
 - JAVA
 
 库名  |简述 |分类 |备注 |Stars
@@ -432,13 +446,14 @@
 [high-speed-downloader](https://github.com/high-speed-downloader/high-speed-downloader)|百度网盘不限速下载 支持Windows和Mac|其他|百度网盘|![GitHub stars](https://img.shields.io/github/stars/high-speed-downloader/high-speed-downloader.svg)
 [public-apis](https://github.com/toddmotto/public-apis)|A collective list of free APIs for use in software and web development|其他|API整理|![GitHub stars](https://img.shields.io/github/stars/toddmotto/public-apis.svg)
 [youtube-dl](https://github.com/ytdl-org/youtube-dl)|Command-line program to download videos from YouTube.com and other video sites|其他|命令下载视频|![GitHub stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl.svg)
+[search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization)|SEO|其他|SEO相关|![GitHub stars](https://img.shields.io/github/stars/marcobiedermann/search-engine-optimization.svg)
 
 ### 其他资源整理
 
 库名  |简述 
 --- | --- 
 [github-bookmark](https://github.com/taojintianxia/github-bookmark)|收集了Github上的优秀工具,框架,知识合集 （_推荐_）
-[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|中国独立开发者项目列表 -- 分享大家都在做什么 （_推荐_）
+[chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|中国独立开发者项目列表 -- 分享大家都在做什么，特别是创业公司 （_推荐_）
 [share_ppt](https://github.com/rfyiamcool/share_ppt)|曾经做过的技术分享... http://xiaorui.cc
 [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)|GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。|其他|从中找到各种优秀GitHub项目，4颗星|![GitHub stars](https://img.shields.io/github/stars/GitHubDaily/GitHubDaily.svg)
 
@@ -480,3 +495,4 @@ github  优秀项目
 - [分享优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
 - [汇总java生态圈常用技术框架](https://github.com/aalansehaiyang/technology-talk)
 - [收集各种awesome项目](https://github.com/ityouknow/awesome-list)
+- [分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
