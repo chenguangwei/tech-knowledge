@@ -225,6 +225,8 @@
 
 - 数据库知识
 
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
 [soar](https://github.com/XiaoMi/soar)|SQL 自动优化和改写的工具。可以自动优化 MySQL 语法族，并且给出为什么要这样优化的理由|数据库|数据库优化|![GitHub stars](https://img.shields.io/github/stars/XiaoMi/soar.svg)
 
 ---------
