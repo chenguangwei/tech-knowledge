@@ -151,7 +151,7 @@
 [myth](https://github.com/yu199195/myth)|Reliable messages resolve distributed transactions|架构|分布式事务|![GitHub stars](https://img.shields.io/github/stars/yu199195/myth.svg)
 [hmily](https://github.com/yu199195/myth)|High-Performance TCC distributed transaction framework|架构|分布式事务|![GitHub stars](https://img.shields.io/github/stars/yu199195/hmily.svg)
 [docz](https://github.com/pedronauck/docz)|It has never been so easy to document your things!|框架|文档生成框架|![GitHub stars](https://img.shields.io/github/stars/pedronauck/docz.svg)
-
+[soul](https://github.com/Dromara/soul)|java API网关|框架|web网关 有管理页面|![GitHub stars](https://img.shields.io/github/stars/Dromara/soul.svg)
 ---------
 ### WEB
 
@@ -185,6 +185,8 @@
 [Front-End-Performance-Checklist](https://github.com/JohnsenZhou/Front-End-Performance-Checklist)|前端性能清单，让你的网站跑的更快|前端|前端优化|![GitHub stars](https://img.shields.io/github/stars/JohnsenZhou/Front-End-Performance-Checklist.svg)
 [javascript-lessons](https://github.com/stone0090/javascript-lessons)|JavaScript 闯关记|javascrpit|javascript|![GitHub stars](https://img.shields.io/github/stars/stone0090/javascript-lessons.svg)
 [project-guidelines](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)|JavaScript编码规范|Javascrpit|编码规范|![GitHub stars](https://img.shields.io/github/stars/stone0090/elsewhencode/project-guidelines.svg)
+[html2canvas](https://github.com/niklasvh/html2canvas/)|Screenshots with JavaScript 截屏|前端|Google的灭霸效果就用到了这个|![GitHub stars](https://img.shields.io/github/stars/niklasvh/html2canvas.svg)
+
 - vue
 
 库名  |简述 |分类 |备注 |Stars
@@ -401,7 +403,7 @@
 [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)|Tools of The Trade, from Hacker News.|安全|Tools of The Trade|![GitHub stars](https://img.shields.io/github/stars/cjbarber/ToolsOfTheTrade.svg)
 [cobra](https://github.com/WhaleShark-Team/cobra)|Source Code Security Audit (源代码安全审计) |安全|代码安全|![GitHub stars](https://img.shields.io/github/stars/WhaleShark-Team/cobra.svg)
 [sec-chart](https://github.com/SecWiki/sec-chart)|安全思维导图集合|安全|安全思维导图|![GitHub stars](https://img.shields.io/github/stars/SecWiki/sec-chart.svg)
-
+[Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking)|Web 安全学习笔记，帮你学点内网渗透、漏洞攻击、安全防御等基础知识|安全|web安全|![GitHub stars](https://img.shields.io/github/stars/LyleMi/Learn-Web-Hacking.svg)
 -------
 ### 人工智能
 
@@ -452,7 +454,7 @@
 [blockVisualEditor](https://github.com/sww1230/blockVisualEditor)|区块可视化代码编辑器 ,通过托拉拽的方式可以生成前端vue代码|工具|前端代码生成工具|![GitHub stars](https://img.shields.io/github/stars/sww1230/blockVisualEditor.svg)
 [DoraemonKit](https://github.com/didi/DoraemonKit)|简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。|工具|IOS、Android工具|![GitHub stars](https://img.shields.io/github/stars/didi/DoraemonKit.svg)
 [vjtools](https://github.com/vipshop/vjtools)|唯品会知识分享|工具|代码规范，工具|![GitHub stars](https://img.shields.io/github/stars/vipshop/vjtools.svg)
-
+[tool](https://github.com/Louiszhai/tool)|开发效率提升：Mac生产力工具链推荐|工具|mac工具|![GitHub stars](https://img.shields.io/github/stars/Louiszhai/tool.svg)
 
 ### 英语学习
 
