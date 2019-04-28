@@ -74,6 +74,8 @@
 [500lines](https://github.com/aosabook/500lines)|500行代码学习|python|![GitHub stars](https://img.shields.io/github/stars/aosabook/500lines.svg)
 [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN)|Python最佳实践指南|python|Python最佳实践指南|![GitHub stars](https://img.shields.io/github/stars/Prodesire/Python-Guide-CN.svg)
 [python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|python|python|![GitHub stars](https://img.shields.io/github/stars/python3-cookbook.svg)
+[learn-python3](https://github.com/michaelliao/learn-python3)|Learn Python 3 Sample Code|python|python例子|![GitHub stars](https://img.shields.io/github/stars/michaelliao/learn-python3.svg)
+
 
 ### Go
 
