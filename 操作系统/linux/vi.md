@@ -1,7 +1,7 @@
 vi 操作
 
 - [玩转Linux操作系统](https://github.com/jackfrued/Python-100-Days/blob/master/Day31-35/%E7%8E%A9%E8%BD%ACLinux%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
-
+- [vm使用技巧](https://harttle.land/tags.html#Vim)
 
 ### 编辑器 - vim
 

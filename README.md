@@ -34,6 +34,9 @@
 [awesome-algorithm](https://github.com/apachecn/awesome-algorithm)|结构化算法刷题训练指南|算法|一个算法解法|![GitHub stars](https://img.shields.io/github/stars/apachecn/awesome-algorithm.svg)
 [Java](https://github.com/TheAlgorithms/Java)|All Algorithms implemented in Java|算法|java实现的算法|![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Java.svg)
 [java-pearl](https://github.com/cloudatee/java-pearl)|多年积累的基础算法等，使用java实现，包括：基础算法，大数据算法，JVM特性等示例程序集合|算法|算法实现|![GitHub stars](https://img.shields.io/github/stars/cloudatee/java-pearl.svg)
+[Algorithms(算法（第四版代码中文）)](https://github.com/jimmysuncpt/Algorithms)|The codes and my solutions to exercises from the book "Algorithms" (4th edition) by Robert Sedgewick and Kevin Wayne.|算法|算法第四版中文|xxx
+[Algorithms(算法（第四版代码原版）](https://github.com/kevin-wayne/algs4)|The codes and my solutions to exercises from the book "Algorithms" (4th edition) by Robert Sedgewick and Kevin Wayne.|算法|算法第四版原版|xxx
+[JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)|一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现|算法|经典算法在线书籍|xxx
 
 
 -----
@@ -75,7 +78,7 @@
 [Python-Guide-CN](https://github.com/Prodesire/Python-Guide-CN)|Python最佳实践指南|python|Python最佳实践指南|![GitHub stars](https://img.shields.io/github/stars/Prodesire/Python-Guide-CN.svg)
 [python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|python|python|![GitHub stars](https://img.shields.io/github/stars/python3-cookbook.svg)
 [learn-python3](https://github.com/michaelliao/learn-python3)|Learn Python 3 Sample Code|python|python例子|![GitHub stars](https://img.shields.io/github/stars/michaelliao/learn-python3.svg)
-
+[Python并行编程 中文版](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html)|python|python并发|xx
 
 ### Go
 
@@ -165,6 +168,8 @@
 [css3-tutorial](https://github.com/waylau/css3-tutorial)|CSS3 Tutorial. 《CSS3 教程》|布局|css|![GitHub stars](https://img.shields.io/github/stars/waylau/css3-tutorial.svg)
 [pure](https://github.com/pure-css/pure)|A set of small, responsive CSS modules|css|css组件|![GitHub stars](https://img.shields.io/github/stars/pure-css/pure.svg)
 [feather](https://github.com/feathericons/feather)|免费的ICONS|设计|icon|![GitHub stars](https://img.shields.io/github/stars/feathericons/feather.svg)
+[bulma](https://github.com/jgthms/bulma/)|Modern CSS framework based on Flexbox css布局框架|css|css布局|![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg)
+
 - 前端
 
 库名  |简述 |分类 |备注 |Stars
@@ -188,6 +193,10 @@
 [javascript-lessons](https://github.com/stone0090/javascript-lessons)|JavaScript 闯关记|javascrpit|javascript|![GitHub stars](https://img.shields.io/github/stars/stone0090/javascript-lessons.svg)
 [project-guidelines](https://github.com/elsewhencode/project-guidelines/blob/master/README-zh.md)|JavaScript编码规范|Javascrpit|编码规范|![GitHub stars](https://img.shields.io/github/stars/stone0090/elsewhencode/project-guidelines.svg)
 [html2canvas](https://github.com/niklasvh/html2canvas/)|Screenshots with JavaScript 截屏|前端|Google的灭霸效果就用到了这个|![GitHub stars](https://img.shields.io/github/stars/niklasvh/html2canvas.svg)
+[ECMAScript 6 入门](https://es6.ruanyifeng.com/)|ECMAScript 6 入门|前端|xx|
+[mescroll](https://github.com/mescroll/mescroll)|精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器|js|下拉刷新|![GitHub stars](https://img.shields.io/github/stars/mescroll/mescroll.svg)
+[Web](https://github.com/qianguyihao/Web)|Web前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师|前端|前端学习推荐|xxx
+[FrontEndNav](https://github.com/Hulkye/FrontEndNav)|FrontEndNav，前端网站收藏，前端网站导航，webhub, f2e , fe收藏集|前端|前端导航网站|xxx
 
 - vue
 
@@ -281,6 +290,8 @@
 [elasticsearch-jdbc](https://github.com/jprante/elasticsearch-jdbc)|JDBC importer for Elasticsearch|中间件|elasticsearch-jdbc|![GitHub stars](https://img.shields.io/github/stars/jprante/elasticsearch-jdbc.svg)
 [incubator-shardingsphere](https://github.com/apache/incubator-shardingsphere)|分布式数据库中间件，在sharding-jdbc基础上发展而来，sharding-jdbc是他的一部分|数据库|分布式数据库中间件|![GitHub stars](https://img.shields.io/github/stars/apache/incubator-shardingsphere.svg)
 [nginx-book](https://github.com/taobao/nginx-book)|Nginx开发从入门到精通|nginx|nginx|![GitHub stars](https://img.shields.io/github/stars/taobao/nginx-book.svg)
+[elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn)|Elasticsearch权威指南中文版|中间件|elasticsearch指南|![GitHub stars](https://img.shields.io/github/stars/looly/elasticsearch-definitive-guide-cn.svg)
+
 
 - docker
 
@@ -340,7 +351,11 @@
 [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)|javascript 算法和数据机构实现|JavaScript|javascript教程|![GitHub stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms.svg)
 [Web-Series](https://github.com/wx-chevalier/Web-Series)|现代 Web 开发，现代 Web 开发导论 、 基础篇 、进阶篇 、 架构优化篇 、React 篇 、Vue 篇 |前端|web|![GitHub stars](https://img.shields.io/github/stars/wx-chevalier/Web-Series.svg)
 [learn-regex](https://github.com/ziishaned/learn-regex)|正则表达式学习|正则|xx|![GitHub stars](https://img.shields.io/github/stars/ziishaned/learn-regex.svg)
-- JAVA+计算机相关
+[前端在线学习网站](https://scrimba.com/)|前端|在线学习网站|xxx|xx
+[正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm)|正则表达式学习|前端|xx|xx
+
+
+- 计算机相关(综合)
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
@@ -371,6 +386,8 @@
 [Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions)|后端开发面试题|计算机|这篇文章翻译自一位外国友人的关于面试后端程序员的文章|![GitHub stars](https://img.shields.io/github/stars/monklof/Back-End-Developer-Interview-Questions.svg)
 [simple_os_book](https://github.com/chyyuu/simple_os_book)|操作系统的基本原理与简单实现|计算机|操作系统的原理|![GitHub stars](https://img.shields.io/github/stars/chyyuu/simple_os_book.svg)
 [project-based-learning](https://github.com/tuvtran/project-based-learning)|基于项目的学习|学习|根据项目学习|![GitHub stars](https://img.shields.io/github/stars/tuvtran/project-based-learning.svg)
+[from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)|2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT|技术分享|技术分享|![GitHub stars](https://img.shields.io/github/stars/0voice/from_coder_to_expert.svg)
+[Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)|计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)|计算机相关|计算机速成课 推荐|xxxx
 
 
 - JAVA
@@ -411,7 +428,7 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
-[funNLP](https://github.com/fighting41love/funNLP)|各种词库和检测（中英文敏感词、语言检测、）|人工智能|各种词库和检测|![GitHub stars](https://img.shields.io/github/stars/fighting41love/funNLP.svg)
+[funNLP](https://github.com/fighting41love/funNLP)|各种词库和检测整理（中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术）|人工智能|各种词库和检测|![GitHub stars](https://img.shields.io/github/stars/fighting41love/funNLP.svg)
 [wukong-robot](https://github.com/wzpan/wukong-robot)|wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目|人工智能|对话机器人/智能音箱项目|![GitHub stars](https://img.shields.io/github/stars/wzpan/wukong-robot.svg)
 [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|机器学习100天|人工智能|机器学习知识|![GitHub stars](https://img.shields.io/github/stars/MLEveryday/100-Days-Of-ML-Code.svg)
 [home-assistant](https://github.com/home-assistant/home-assistant)|Open source home automation that puts local control and privacy first|人工智能|家庭智能|![GitHub stars](https://img.shields.io/github/stars/home-assistant/home-assistant.svg)
@@ -429,7 +446,10 @@
 [chatbot](https://github.com/zhaoyingjun/chatbot)|一个可以自己进行训练的中文聊天机器人， 可以用于智能客服、在线问答、智能聊天|人工智能|机器人| ![GitHub stars](https://img.shields.io/github/stars/zhaoyingjun/chatbot.svg)
 [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)|100 Days of ML Coding|人工智能|ML学习|![GitHub stars](https://img.shields.io/github/stars/Avik-Jain/100-Days-Of-ML-Code.svg)
 [QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem)|QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案|人工智能 |人机问答系统|![GitHub stars](https://img.shields.io/github/stars/ysc/QuestionAnsweringSystem.svg)
- 
+[tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)|谷歌全新开源人工智能系统TensorFlow官方文档中文版 |人工智能|tensorflow| ![GitHub stars](https://img.shields.io/github/stars/jikexueyuanwiki/tensorflow-zh.svg)
+[Chinese-Chatbot-PyTorch-Implementation](https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation)|小智，又一个中文聊天机器人|人工智能|聊天机器人|![GitHub stars](https://img.shields.io/github/stars/Doragd/Chinese-Chatbot-PyTorch-Implementation.svg)
+
+
 ### GO
 
 库名  |简述 |分类 |备注 |Stars
@@ -447,6 +467,9 @@
 
 库名  |简述 |分类 |备注 |Stars
 --- | --- | --- | ----| ----
+[在线工具网站](https://tool.lu/)|在线工具网站|xxx|xxx
+[在线工具网站2](https://miku.tools/)|在线工具网站|xxx|xxx
+[前端资源工具网站](http://nav.web-hub.cn/)|前端资源工具网站|xxx|xxx
 [awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西|工具|各种速查表，推荐|![GitHub stars](https://img.shields.io/github/stars/skywind3000/awesome-cheatsheets.svg)
 [wrk](https://github.com/wg/wrk)|Modern HTTP benchmarking tool|工具|http 压力测试|![GitHub stars](https://img.shields.io/github/stars/wg/wrk.svg)
 [etherpad-lite](https://github.com/ether/etherpad-lite)|Etherpad: Really real-time collaborative document editing|工具|优秀的一个面板、编辑器|![GitHub stars](https://img.shields.io/github/stars/ether/etherpad-lite.svg)
@@ -457,7 +480,7 @@
 [DoraemonKit](https://github.com/didi/DoraemonKit)|简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。|工具|IOS、Android工具|![GitHub stars](https://img.shields.io/github/stars/didi/DoraemonKit.svg)
 [vjtools](https://github.com/vipshop/vjtools)|唯品会知识分享|工具|代码规范，工具|![GitHub stars](https://img.shields.io/github/stars/vipshop/vjtools.svg)
 [tool](https://github.com/Louiszhai/tool)|开发效率提升：Mac生产力工具链推荐|工具|mac工具|![GitHub stars](https://img.shields.io/github/stars/Louiszhai/tool.svg)
-
+[arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |工具|Java诊断工具|![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg)
 ### 英语学习
 
 库名  |简述 |分类 |备注 |Stars
