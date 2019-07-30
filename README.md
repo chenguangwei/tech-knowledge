@@ -79,6 +79,7 @@
 [python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|python|python|![GitHub stars](https://img.shields.io/github/stars/python3-cookbook.svg)
 [learn-python3](https://github.com/michaelliao/learn-python3)|Learn Python 3 Sample Code|python|python例子|![GitHub stars](https://img.shields.io/github/stars/michaelliao/learn-python3.svg)
 [Python并行编程 中文版](https://python-parallel-programmning-cookbook.readthedocs.io/zh_CN/latest/index.html)|python|python并发|xx
+[Python 多线程和多进程编程总结](https://tracholar.github.io/wiki/python/python-multiprocessing-tutorial.html)
 
 ### Go
 
@@ -130,6 +131,7 @@
 [skywalking](https://github.com/apache/skywalking)|应用程序性能监控系统|架构|监控|![GitHub stars](https://img.shields.io/github/stars/apache/skywalking.svg)
 [weapp-library](https://github.com/imageslr/weapp-library)|“在线借书平台”小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统，里面还有Taro|架构|小程序完成版|![GitHub stars](https://img.shields.io/github/stars/imageslr/weapp-library.svg)
 [meedu](https://github.com/Qsnh/meedu)|基于Laravel开发的在线点播系统|架构|在线教育系统|![GitHub stars](https://img.shields.io/github/stars/Qsnh/meedu.svg)
+[neo4j](https://github.com/neo4j/neo4j)|Graphs for Everyone |知识图谱、网状|xx|xx
 
 - 架构知识
 
@@ -197,7 +199,8 @@
 [mescroll](https://github.com/mescroll/mescroll)|精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器|js|下拉刷新|![GitHub stars](https://img.shields.io/github/stars/mescroll/mescroll.svg)
 [Web](https://github.com/qianguyihao/Web)|Web前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师|前端|前端学习推荐|xxx
 [FrontEndNav](https://github.com/Hulkye/FrontEndNav)|FrontEndNav，前端网站收藏，前端网站导航，webhub, f2e , fe收藏集|前端|前端导航网站|xxx
-
+[realworld](https://github.com/gothinkster/realworld)|The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|js|各种前端技术组合demo|xx
+[jsPlumb中文基础教程](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
 - vue
 
 库名  |简述 |分类 |备注 |Stars
@@ -205,6 +208,12 @@
 [vuepress](https://github.com/vuejs/vuepress)|Minimalistic Vue-powered static site generator|vue|Vue 自动生成静态| ![GitHub stars](https://img.shields.io/github/stars/didi/chameleon.svg)
 [vue2-elm](https://github.com/bailicangdu/vue2-elm)|基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|vue|丰富的单页面应用|![GitHub stars](https://img.shields.io/github/stars/bailicangdu/vue2-elm.svg)
 [learnVue](https://github.com/answershuto/learnVue)|Vue.js 源码解析|vue|vue源码|![GitHub stars](https://img.shields.io/github/stars/answershuto/learnVue.svg)
+
+- flutter
+库名  |简述 |分类 |备注 |Stars
+--- | --- | --- | ----| ----
+[GSYGithubAppFlutter](https://github.com/CarGuo/GSYGithubAppFlutter)|超完整的Flutter项目，功能丰富，适合学习和日常使用|flutter|flutter学习|xxx
+
 
 - react
 
@@ -386,8 +395,9 @@
 [Back-End-Developer-Interview-Questions](https://github.com/monklof/Back-End-Developer-Interview-Questions)|后端开发面试题|计算机|这篇文章翻译自一位外国友人的关于面试后端程序员的文章|![GitHub stars](https://img.shields.io/github/stars/monklof/Back-End-Developer-Interview-Questions.svg)
 [simple_os_book](https://github.com/chyyuu/simple_os_book)|操作系统的基本原理与简单实现|计算机|操作系统的原理|![GitHub stars](https://img.shields.io/github/stars/chyyuu/simple_os_book.svg)
 [project-based-learning](https://github.com/tuvtran/project-based-learning)|基于项目的学习|学习|根据项目学习|![GitHub stars](https://img.shields.io/github/stars/tuvtran/project-based-learning.svg)
-[from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)|2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT|技术分享|技术分享|![GitHub stars](https://img.shields.io/github/stars/0voice/from_coder_to_expert.svg)
+[from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)|2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT|技术分享|技术分享（推荐）|![GitHub stars](https://img.shields.io/github/stars/0voice/from_coder_to_expert.svg) 
 [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)|计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)|计算机相关|计算机速成课 推荐|xxxx
+- [interview_internal_reference](https://github.com/0voice/interview_internal_reference)|2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。|面试|面试进阶学习|xxx
 
 
 - JAVA
@@ -481,6 +491,9 @@
 [vjtools](https://github.com/vipshop/vjtools)|唯品会知识分享|工具|代码规范，工具|![GitHub stars](https://img.shields.io/github/stars/vipshop/vjtools.svg)
 [tool](https://github.com/Louiszhai/tool)|开发效率提升：Mac生产力工具链推荐|工具|mac工具|![GitHub stars](https://img.shields.io/github/stars/Louiszhai/tool.svg)
 [arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas |工具|Java诊断工具|![GitHub stars](https://img.shields.io/github/stars/alibaba/arthas.svg)
+[astral](https://github.com/astralapp/astral)|Organize Your GitHub Stars With Ease,管理github star项目|工具|管理github star|xxx
+[the-fucking-github](https://github.com/lvxianchao/the-fucking-github)|A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github|管理github star项目|工具|管理github star|xxx
+
 ### 英语学习
 
 库名  |简述 |分类 |备注 |Stars

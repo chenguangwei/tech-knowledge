@@ -1,5 +1,8 @@
 mysql常用语句大全
 ========
+
+- [开发者必备Mysql命令](https://mp.weixin.qq.com/s/M5181QN-weZc8Z-gd9q2Sg)
+
 /**操作数据库*/  
 SHOW DATABASES;  
 CREATE DATABASE db;  
