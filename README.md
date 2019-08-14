@@ -132,6 +132,9 @@
 [weapp-library](https://github.com/imageslr/weapp-library)|“在线借书平台”小程序：连接读者与图书馆的借书平台、读者的图书资料库与书单系统，里面还有Taro|架构|小程序完成版|![GitHub stars](https://img.shields.io/github/stars/imageslr/weapp-library.svg)
 [meedu](https://github.com/Qsnh/meedu)|基于Laravel开发的在线点播系统|架构|在线教育系统|![GitHub stars](https://img.shields.io/github/stars/Qsnh/meedu.svg)
 [neo4j](https://github.com/neo4j/neo4j)|Graphs for Everyone |知识图谱、网状|xx|xx
+[ bbs](https://github.com/diyhi/bbs)|巡云轻论坛系统采用JAVA+MYSQL架构，自适应手机端和电脑端|java 做的bbs开源论坛|xxx
+[JustAuth](https://github.com/justauth/JustAuth)|史上最全的整合第三方登录的开源库。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为和企业微信等第三方平台的授权登录。|第三方登录|xxx
+[SpringCloud](https://github.com/zhoutaoo/SpringCloud)|基于SpringCloud2.0的微服务开发脚手架，整合了spring-security-oauth2、apollo、eureka、feign、hystrix、springcloud-gateway、springcloud-bus等。治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中|springcloud|spirngclould项目骨架
 
 - 架构知识
 
@@ -171,6 +174,7 @@
 [pure](https://github.com/pure-css/pure)|A set of small, responsive CSS modules|css|css组件|![GitHub stars](https://img.shields.io/github/stars/pure-css/pure.svg)
 [feather](https://github.com/feathericons/feather)|免费的ICONS|设计|icon|![GitHub stars](https://img.shields.io/github/stars/feathericons/feather.svg)
 [bulma](https://github.com/jgthms/bulma/)|Modern CSS framework based on Flexbox css布局框架|css|css布局|![GitHub stars](https://img.shields.io/github/stars/jgthms/bulma.svg)
+[style2paints](https://github.com/lllyasviel/style2paints)|sketch + style = paints
 
 - 前端
 
@@ -201,6 +205,8 @@
 [FrontEndNav](https://github.com/Hulkye/FrontEndNav)|FrontEndNav，前端网站收藏，前端网站导航，webhub, f2e , fe收藏集|前端|前端导航网站|xxx
 [realworld](https://github.com/gothinkster/realworld)|The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|js|各种前端技术组合demo|xx
 [jsPlumb中文基础教程](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
+[frontend-tech-list](https://github.com/alienzhou/frontend-tech-list#61-react)|前端技术清单|前端|前端技术清单，自学前端，还是对前端某些技术熟练掌握但某些还未涉足，我都希望这份清单能帮助你 review 一些前端的基础|xx
+
 - vue
 
 库名  |简述 |分类 |备注 |Stars
@@ -398,6 +404,7 @@
 [from_coder_to_expert](https://github.com/0voice/from_coder_to_expert)|2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT|技术分享|技术分享（推荐）|![GitHub stars](https://img.shields.io/github/stars/0voice/from_coder_to_expert.svg) 
 [Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese)|计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)|计算机相关|计算机速成课 推荐|xxxx
 - [interview_internal_reference](https://github.com/0voice/interview_internal_reference)|2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。|面试|面试进阶学习|xxx
+[fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)| fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区|全栈|xxx|xx
 
 
 - JAVA
@@ -458,7 +465,7 @@
 [QuestionAnsweringSystem](https://github.com/ysc/QuestionAnsweringSystem)|QuestionAnsweringSystem是一个Java实现的人机问答系统，能够自动分析问题并给出候选答案|人工智能 |人机问答系统|![GitHub stars](https://img.shields.io/github/stars/ysc/QuestionAnsweringSystem.svg)
 [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)|谷歌全新开源人工智能系统TensorFlow官方文档中文版 |人工智能|tensorflow| ![GitHub stars](https://img.shields.io/github/stars/jikexueyuanwiki/tensorflow-zh.svg)
 [Chinese-Chatbot-PyTorch-Implementation](https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation)|小智，又一个中文聊天机器人|人工智能|聊天机器人|![GitHub stars](https://img.shields.io/github/stars/Doragd/Chinese-Chatbot-PyTorch-Implementation.svg)
-
+[leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|机器学习|机器|xxx
 
 ### GO
 
