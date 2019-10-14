@@ -206,7 +206,7 @@
 [realworld](https://github.com/gothinkster/realworld)|The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more|js|各种前端技术组合demo|xx
 [jsPlumb中文基础教程](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
 [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list#61-react)|前端技术清单|前端|前端技术清单，自学前端，还是对前端某些技术熟练掌握但某些还未涉足，我都希望这份清单能帮助你 review 一些前端的基础|xx
-
+[Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|前端开发面试题大收集，前端面试集锦 |前端|xxx|xx
 - vue
 
 库名  |简述 |分类 |备注 |Stars
@@ -540,7 +540,7 @@
 [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs)|开发者收集非常好的 API 
 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 
 [How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)|提问的智慧
-
+[free-api](收集免费的接口服务,做一个api的搬运工)|各种第三方API
 
 技术栈
 - [程序员导航网站](http://tooool.org/)
@@ -574,6 +574,7 @@
 github  优秀项目
 
 - [寻找最好的Github项目](https://github-trending.com/)
+- [github star排名](https://gitstar-ranking.com/repositories)
 - [分享优秀的开源项目](https://github.com/GitHubDaily/GitHubDaily)
 - [汇总java生态圈常用技术框架](https://github.com/aalansehaiyang/technology-talk)
 - [收集各种awesome项目](https://github.com/ityouknow/awesome-list)
