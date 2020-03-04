@@ -207,6 +207,7 @@
 [jsPlumb中文基础教程](https://github.com/wangduanduan/jsplumb-chinese-tutorial)
 [frontend-tech-list](https://github.com/alienzhou/frontend-tech-list#61-react)|前端技术清单|前端|前端技术清单，自学前端，还是对前端某些技术熟练掌握但某些还未涉足，我都希望这份清单能帮助你 review 一些前端的基础|xx
 [Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|前端开发面试题大收集，前端面试集锦 |前端|xxx|xx
+[flutter_mall](https://github.com/youxinLu/flutter_mall)|Flutter_Mall是一款Flutter开源在线商城应用程序，是基于litemall基础上进行开发，litemall包含了Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端感兴趣的同学可以自行研究部署，Flutter_Mall基本上包含了litemall中小程序的功能。
 - vue
 
 库名  |简述 |分类 |备注 |Stars
@@ -466,6 +467,7 @@
 [tensorflow-zh](https://github.com/jikexueyuanwiki/tensorflow-zh)|谷歌全新开源人工智能系统TensorFlow官方文档中文版 |人工智能|tensorflow| ![GitHub stars](https://img.shields.io/github/stars/jikexueyuanwiki/tensorflow-zh.svg)
 [Chinese-Chatbot-PyTorch-Implementation](https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation)|小智，又一个中文聊天机器人|人工智能|聊天机器人|![GitHub stars](https://img.shields.io/github/stars/Doragd/Chinese-Chatbot-PyTorch-Implementation.svg)
 [leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|机器学习|机器|xxx
+[大佬整理的关于NLP、知识图谱、社会计算等的一些项目和总结](https://liuhuanyong.github.io/)|******
 
 ### GO
 
@@ -501,6 +503,12 @@
 [astral](https://github.com/astralapp/astral)|Organize Your GitHub Stars With Ease,管理github star项目|工具|管理github star|xxx
 [the-fucking-github](https://github.com/lvxianchao/the-fucking-github)|A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github|管理github star项目|工具|管理github star|xxx
 
+### 大数据
+
+[BigData-Notes大数据入门指南](https://github.com/heibaiying/BigData-Notes)|
+[flink-learning](https://github.com/zhisheng17/flink-learning)|含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例分享。
+[flink-recommandSystem-demo](https://github.com/CheckChe0803/flink-recommandSystem-demo)|基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表
+
 ### 英语学习
 
 库名  |简述 |分类 |备注 |Stars
@@ -526,6 +534,10 @@
 [search-engine-optimization](https://github.com/marcobiedermann/search-engine-optimization)|SEO|其他|SEO相关|![GitHub stars](https://img.shields.io/github/stars/marcobiedermann/search-engine-optimization.svg)
 [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)|桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS. (A cross-platform multilingual Mind Map Tool)
 [remote-working](https://github.com/greatghoul/remote-working)|收集整理远程工作相关的资料（推荐）|xxx|xxx|xx
+[kkFileView](https://github.com/kekingcn/kkFileView)|使用spring boot打造文件文档在线预览项目解决方案，支持doc、docx、ppt、pptx、xls、xlsx、zip、rar、mp4，mp3以及众多类文本如txt、html、xml、java、properties、sql、js、md、json、conf、ini、vue、php、py、bat、gitignore等文件在线预览
+[flutter-in-action](《Flutter实战》电子书 https://book.flutterchina.club)|《Flutter实战》电子书
+[Excel](https://support.office.com/zh-CN/excel)
+[服务端高并发分布式架构演进之路](https://segmentfault.com/a/1190000018626163)
 
 ### 其他资源整理
 
@@ -579,3 +591,5 @@ github  优秀项目
 - [汇总java生态圈常用技术框架](https://github.com/aalansehaiyang/technology-talk)
 - [收集各种awesome项目](https://github.com/ityouknow/awesome-list)
 - [分享 GitHub 上有趣、入门级的开源项目](https://hellogithub.com/)
+- [GitHub-Chinese-Top-ChartsGitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)
+-[大佬整理的关于NLP、知识图谱、社会计算等的一些项目和总结](https://liuhuanyong.github.io/)|

@@ -27,3 +27,5 @@ mybatis
 - [mybatis深入理解(一)之 # 与 $ 区别以及 sql 预编译](https://segmentfault.com/a/1190000004617028)
 
 - [MyBatis-Plus 指南](https://mp.baomidou.com/guide/faq.html)
+
+- [mybatis源码中文注释](https://github.com/tuguangquan/mybatis)
