@@ -419,7 +419,7 @@
 [Java-concurrency](https://github.com/CL0610/Java-concurrency)|Java并发知识点总结|java|并发编程|![GitHub stars](https://img.shields.io/github/stars/CL0610/Java-concurrency.svg)
 [architect-awesome](https://github.com/xingshaocheng/architect-awesome)|后端架构师技术图谱|java|后端架构|![GitHub stars](https://img.shields.io/github/stars/xingshaocheng/architect-awesome.svg)
 [awesome-java-books](https://github.com/sorenduan/awesome-java-books)|Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件|java|java开发收集|![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg)
-[JCSprout](https://github.com/crossoverJie/JCSprout)|java基础 并发 算法|java|Java 核心知识库。|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/JCSprout.svg)
+[JCSprout](https://github.com/crossoverJie/JCSprout)|java基础 并发 算法|java|Java 核心知识库。`推荐`|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/JCSprout.svg)
 [tutorials](https://github.com/eugenp/tutorials)|The "REST With Spring" Course: |java|rest spring|![GitHub stars](https://img.shields.io/github/stars/eugenp/tutorials.svg)
 
 - 数据库相关
