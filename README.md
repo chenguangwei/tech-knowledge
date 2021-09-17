@@ -5,7 +5,9 @@
 
 ### 目录
 
-- [Java](#java)
+[TOC]
+
+
 
 ### java    
 
@@ -37,6 +39,10 @@
 [Algorithms(算法（第四版代码中文）)](https://github.com/jimmysuncpt/Algorithms)|The codes and my solutions to exercises from the book "Algorithms" (4th edition) by Robert Sedgewick and Kevin Wayne.|算法|算法第四版中文|xxx
 [Algorithms(算法（第四版代码原版）](https://github.com/kevin-wayne/algs4)|The codes and my solutions to exercises from the book "Algorithms" (4th edition) by Robert Sedgewick and Kevin Wayne.|算法|算法第四版原版|xxx
 [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)|一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，使用 JavaScript & Python & Go & Java 实现|算法|经典算法在线书籍|xxx
+[algorithm-base](https://github.com/chefyuan/algorithm-base)|专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂|算法|xxx
+[fucking-algorithm](https://github.com/labuladong/fucking-algorithm)|刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.|算法|xx
+[labuladong 的算法网站](https://labuladong.gitbook.io/algo/)|算法|xxxx
+
 
 
 -----
@@ -144,6 +150,7 @@
 [microservices](https://github.com/DocsHome/microservices)|中文版 《微服务：从设计到部署》|微服务|中文版 《微服务：从设计到部署》|![GitHub stars](https://img.shields.io/github/stars/DocsHome/microservices.svg)
 [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)|互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构|架构|各大公司架构整理|![GitHub stars](https://img.shields.io/github/stars/davideuler/architecture.of.internet-product.svg)
 [system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. |架构|如何设计架构一个系统|![GitHub stars](https://img.shields.io/github/stars/donnemartin/system-design-primer.svg)
+[年薪百万互联网架构师课程文档及源码(公开部分)](https://github.com/bjmashibing/InternetArchitect)|马士兵架构师课程文档|www.mashibing.com/vip.html
 
 - 框架
 
@@ -162,6 +169,7 @@
 [hmily](https://github.com/yu199195/myth)|High-Performance TCC distributed transaction framework|架构|分布式事务|![GitHub stars](https://img.shields.io/github/stars/yu199195/hmily.svg)
 [docz](https://github.com/pedronauck/docz)|It has never been so easy to document your things!|框架|文档生成框架|![GitHub stars](https://img.shields.io/github/stars/pedronauck/docz.svg)
 [soul](https://github.com/Dromara/soul)|java API网关|框架|web网关 有管理页面|![GitHub stars](https://img.shields.io/github/stars/Dromara/soul.svg)
+[大屏数据展示模板](https://gitee.com/gwopen/DaShuJuZhiDaPingZhanShi)|大屏数据展示模板
 ---------
 ### WEB
 
@@ -351,6 +359,8 @@
 [springboot-learning-example](https://github.com/JeffLi1993/springboot-learning-example)|spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践|springboot|springboot学习实例|![GitHub stars](https://img.shields.io/github/stars/JeffLi1993/springboot-learning-example.svg)
 [spring-boot-starter-swagger](https://github.com/SpringForAll/spring-boot-starter-swagger)|自制spring boot starter for swagger 2.x，来试试吧，很好用哦~|springboot|swagger插件|![GitHub stars](https://img.shields.io/github/stars/SpringForAll/spring-boot-starter-swagger.svg)
 [SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)|Spring Boot基础教程，Spring Boot 2.x版本连载中|springboot|springboot 学习|![GitHub stars](https://img.shields.io/github/stars/dyc87112/SpringBoot-Learning.svg)
+[spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)|spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。|springboot |springboot学习实例|xxx
+[effective-java-3rd 中文版](https://github.com/sjsdfg/effective-java-3rd-chinese)|java 高效手册
 
 
 
@@ -421,6 +431,7 @@
 [awesome-java-books](https://github.com/sorenduan/awesome-java-books)|Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件|java|java开发收集|![GitHub stars](https://img.shields.io/github/stars/sorenduan/awesome-java-books.svg)
 [JCSprout](https://github.com/crossoverJie/JCSprout)|java基础 并发 算法|java|Java 核心知识库。`推荐`|![GitHub stars](https://img.shields.io/github/stars/crossoverJie/JCSprout.svg)
 [tutorials](https://github.com/eugenp/tutorials)|The "REST With Spring" Course: |java|rest spring|![GitHub stars](https://img.shields.io/github/stars/eugenp/tutorials.svg)
+[OnJava8](https://github.com/LingCoder/OnJava8)|《On Java 8》中文版，又名《Java编程思想》 第5版|java|
 
 - 数据库相关
 
@@ -468,6 +479,9 @@
 [Chinese-Chatbot-PyTorch-Implementation](https://github.com/Doragd/Chinese-Chatbot-PyTorch-Implementation)|小智，又一个中文聊天机器人|人工智能|聊天机器人|![GitHub stars](https://img.shields.io/github/stars/Doragd/Chinese-Chatbot-PyTorch-Implementation.svg)
 [leeml-notes](https://github.com/datawhalechina/leeml-notes)|李宏毅《机器学习》笔记|机器学习|机器|xxx
 [大佬整理的关于NLP、知识图谱、社会计算等的一些项目和总结](https://liuhuanyong.github.io/)|******
+[30天吃掉那只 TensorFlow2.0](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)|30天吃掉那只 TensorFlow2.0|机器学习|xxx
+[动手学深度学习](https://zh.d2l.ai/chapter_how-to-use/how-to-use.html)|深度学习在线书籍
+[eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)|tensortflow 学习
 
 ### GO
 
@@ -538,6 +552,7 @@
 [flutter-in-action](《Flutter实战》电子书 https://book.flutterchina.club)|《Flutter实战》电子书
 [Excel](https://support.office.com/zh-CN/excel)
 [服务端高并发分布式架构演进之路](https://segmentfault.com/a/1190000018626163)
+[webrtc-book-cn中文翻译](https://github.com/a-wing/webrtc-book-cn)|WEBRTC-book-cn中文翻译|xxxx
 
 ### 其他资源整理
 
@@ -553,6 +568,7 @@
 [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 
 [How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)|提问的智慧
 [free-api](收集免费的接口服务,做一个api的搬运工)|各种第三方API
+[阿里云开发社区，很多好书](https://developer.aliyun.com/topic/ebook?spm=a2c6h.12873639.0.0.1c9667c7baniME)
 
 技术栈
 - [程序员导航网站](http://tooool.org/)

@@ -4,6 +4,7 @@ java8
 - [Java 8 中的 Streams API 详解](https://www.ibm.com/developerworks/cn/java/j-lo-java8streamapi/index.html)
 - [java8——并行处理与性能](https://www.jianshu.com/p/23a013bb0d81)
 - [Java8并行流使用注意事项](https://www.cnblogs.com/gaobig/p/4874400.html)
+- [Java 8 示例](https://blog.godiscoder.cn/%E5%8F%AA%E8%B0%88%E9%A3%8E%E6%9C%88/article/5b1e6447e0cec5435c2be970)
 
 1、 并发性
 
