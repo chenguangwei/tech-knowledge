@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d8922f8-e29b-4b4f-96b1-44099bab6685" name="Default" comment="github:star: commit 加入算法内容">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8d8922f8-e29b-4b4f-96b1-44099bab6685" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +53,8 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -124,6 +126,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
@@ -320,13 +323,7 @@
       <workItem from="1631868245292" duration="146000" />
       <workItem from="1631868394606" duration="58000" />
       <workItem from="1631868456483" duration="596000" />
-    </task>
-    <task id="LOCAL-00128" summary="github:star: commit">
-      <created>1555055483573</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1555055483573</updated>
+      <workItem from="1653029597709" duration="249000" />
     </task>
     <task id="LOCAL-00129" summary="github:star: commit">
       <created>1555055534055</created>
@@ -664,7 +661,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631867273861</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary=":memo: 增加部分内容">
+      <created>1653029669766</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1653029669767</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TodoView">
@@ -677,7 +681,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -704,21 +708,8 @@
     <MESSAGE value="github:star: 编码" />
     <MESSAGE value="github:star: commit" />
     <MESSAGE value="github:star: commit 加入算法内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="github:star: commit 加入算法内容" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="263" y="108" key="CommitChangelistDialog2" timestamp="1631867315596">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state x="263" y="108" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1631867315596" />
-    <state x="206" y="74" key="SettingsEditor" timestamp="1631867796946">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state x="206" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1631867796946" />
-    <state x="304" y="175" key="Vcs.Push.Dialog.v2" timestamp="1631868427663">
-      <screen x="0" y="23" width="1440" height="825" />
-    </state>
-    <state x="304" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1631868427663" />
+    <MESSAGE value=":memo: 增加部分内容" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: 增加部分内容" />
   </component>
   <component name="masterDetails">
     <states>
