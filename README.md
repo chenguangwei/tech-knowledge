@@ -575,6 +575,7 @@
 - [coderxing从部落到帝国 - 后端技术栈的演进及开源实践](https://coderxing.gitbooks.io/architecture-evolution/chapter1.html)
 - [一个收集一些内容的github](https://github.com/mylxsw/growing-up/tree/master/doc)
 - [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes)
+- [大数据导航网站](https://bigdata.djbook.top/#term-6)
 
 优秀技术博客
 

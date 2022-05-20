@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d8922f8-e29b-4b4f-96b1-44099bab6685" name="Default" comment="github:star: commit 加入算法内容">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://github.com/CyC2018/CS-Notes</find>
+      <find>cl</find>
+      <find>锁</find>
+      <find>80</find>
+      <find>分布式</find>
+      <find>jvm</find>
+      <find>顺序</find>
+      <find>打印</find>
+      <find>awesome-design-cn</find>
+      <find>项目</find>
+      <find>tar</find>
+      <find>ice</find>
+      <find>English-level-up-tips-for-Chinese</find>
+      <find>githubd</find>
+      <find>interviews</find>
+      <find>图片</find>
+      <find>go</find>
+      <find>hellogithub</find>
+      <find>kubernetes-handbook</find>
+      <find>kubernetes</find>
+      <find>linux</find>
+      <find>nginx</find>
+      <find>python</find>
+      <find>vi</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pSNltVcDGeC9QGAprxgXFj8QlT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GO_FMT" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
+    <property name="options.lastSelected" value="configurable.group.appearance" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/数据库/mysql/summary" />
+      <recent name="$PROJECT_DIR$/数据库/mysql/mysql优秀案例/images" />
+      <recent name="$PROJECT_DIR$/中间件/MQ" />
+      <recent name="$PROJECT_DIR$/编码" />
+      <recent name="$PROJECT_DIR$/架构/book" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/操作系统/linux" />
+      <recent name="$PROJECT_DIR$/运维 &amp; 统计 &amp; 技术支持/git/images" />
+      <recent name="$PROJECT_DIR$/数据库/mysql/images" />
+      <recent name="$PROJECT_DIR$/数据库/mysql/mysql优秀案例/images" />
+      <recent name="$PROJECT_DIR$/基础知识/Java/jvm/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d8922f8-e29b-4b4f-96b1-44099bab6685" name="Default" comment="" />
+      <created>1533824836976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533824836976</updated>
+      <workItem from="1533824838288" duration="2035000" />
+      <workItem from="1533828500180" duration="831000" />
+      <workItem from="1533879351359" duration="12051000" />
+      <workItem from="1534150270326" duration="802000" />
+      <workItem from="1534342456030" duration="15858000" />
+      <workItem from="1534494823772" duration="3073000" />
+      <workItem from="1534727714404" duration="3153000" />
+      <workItem from="1534859500700" duration="71000" />
+      <workItem from="1534861718477" duration="302000" />
+      <workItem from="1534905299784" duration="900000" />
+      <workItem from="1534907096450" duration="2947000" />
+      <workItem from="1534993568748" duration="212000" />
+      <workItem from="1535004408575" duration="201000" />
+      <workItem from="1535005798615" duration="160000" />
+      <workItem from="1535012932961" duration="239000" />
+      <workItem from="1535078157758" duration="3675000" />
+      <workItem from="1535095581120" duration="1915000" />
+      <workItem from="1535330860488" duration="1000" />
+      <workItem from="1535342454837" duration="7426000" />
+      <workItem from="1535447052934" duration="5196000" />
+      <workItem from="1535615780555" duration="4062000" />
+      <workItem from="1535696564606" duration="323000" />
+      <workItem from="1535700445212" duration="59000" />
+      <workItem from="1535706459364" duration="4695000" />
+      <workItem from="1536069105029" duration="407000" />
+      <workItem from="1536110859484" duration="2784000" />
+      <workItem from="1536244527719" duration="133000" />
+      <workItem from="1536305542198" duration="394000" />
+      <workItem from="1536327774478" duration="152000" />
+      <workItem from="1536417460466" duration="328000" />
+      <workItem from="1536419210971" duration="556000" />
+      <workItem from="1536547894986" duration="259000" />
+      <workItem from="1536563497059" duration="2471000" />
+      <workItem from="1536648781554" duration="4372000" />
+      <workItem from="1536679409812" duration="10007000" />
+      <workItem from="1537153245854" duration="2327000" />
+      <workItem from="1537261186286" duration="429000" />
+      <workItem from="1537281342151" duration="292000" />
+      <workItem from="1537322161675" duration="206000" />
+      <workItem from="1537336761112" duration="3079000" />
+      <workItem from="1537369209322" duration="843000" />
+      <workItem from="1537499297757" duration="790000" />
+      <workItem from="1537513751975" duration="66000" />
+      <workItem from="1537514061641" duration="238000" />
+      <workItem from="1537519368729" duration="207000" />
+      <workItem from="1537843314186" duration="3574000" />
+      <workItem from="1537861461393" duration="1245000" />
+      <workItem from="1537970084199" duration="1544000" />
+      <workItem from="1538211746835" duration="4360000" />
+      <workItem from="1539001843022" duration="1498000" />
+      <workItem from="1539074413433" duration="4121000" />
+      <workItem from="1539330002390" duration="6244000" />
+      <workItem from="1539760491549" duration="15204000" />
+      <workItem from="1540430147508" duration="544000" />
+      <workItem from="1540438064667" duration="148000" />
+      <workItem from="1540439034049" duration="19221000" />
+      <workItem from="1540780438625" duration="2011000" />
+      <workItem from="1540875686249" duration="663000" />
+      <workItem from="1540911854087" duration="709000" />
+      <workItem from="1540970395974" duration="313000" />
+      <workItem from="1541051653418" duration="3936000" />
+      <workItem from="1541315293667" duration="1000" />
+      <workItem from="1541378404160" duration="235000" />
+      <workItem from="1541427867229" duration="257000" />
+      <workItem from="1541430402577" duration="1026000" />
+      <workItem from="1541472266238" duration="1612000" />
+      <workItem from="1541576056437" duration="4174000" />
+      <workItem from="1541735416895" duration="3320000" />
+      <workItem from="1542033887619" duration="1333000" />
+      <workItem from="1542070569922" duration="174000" />
+      <workItem from="1542074300668" duration="769000" />
+      <workItem from="1542104370687" duration="258000" />
+      <workItem from="1542202367322" duration="917000" />
+      <workItem from="1542247554466" duration="1538000" />
+      <workItem from="1542293546481" duration="7549000" />
+      <workItem from="1542598074110" duration="1978000" />
+      <workItem from="1542640773555" duration="900000" />
+      <workItem from="1542697707182" duration="984000" />
+      <workItem from="1543299627010" duration="60000" />
+      <workItem from="1543333016383" duration="1411000" />
+      <workItem from="1543415692391" duration="1110000" />
+      <workItem from="1544108913110" duration="208000" />
+      <workItem from="1544158769096" duration="182000" />
+      <workItem from="1544277323757" duration="279000" />
+      <workItem from="1544279726794" duration="576000" />
+      <workItem from="1544452208937" duration="373000" />
+      <workItem from="1544588691921" duration="500000" />
+      <workItem from="1544590576048" duration="154000" />
+      <workItem from="1544627336381" duration="1409000" />
+      <workItem from="1545059570569" duration="3114000" />
+      <workItem from="1545268228464" duration="38000" />
+      <workItem from="1545277470467" duration="904000" />
+      <workItem from="1545292451453" duration="631000" />
+      <workItem from="1545360162740" duration="947000" />
+      <workItem from="1545408096299" duration="1675000" />
+      <workItem from="1546570162113" duration="457000" />
+      <workItem from="1546698340982" duration="192000" />
+      <workItem from="1546873245648" duration="63000" />
+      <workItem from="1546960406871" duration="101000" />
+      <workItem from="1547177893224" duration="965000" />
+      <workItem from="1547221007640" duration="967000" />
+      <workItem from="1547391808672" duration="635000" />
+      <workItem from="1547435189093" duration="54000" />
+      <workItem from="1547435283942" duration="413000" />
+      <workItem from="1547439931720" duration="196000" />
+      <workItem from="1547455850731" duration="327000" />
+      <workItem from="1547479780780" duration="142000" />
+      <workItem from="1547480501397" duration="18000" />
+      <workItem from="1547653437455" duration="242000" />
+      <workItem from="1547653714994" duration="456000" />
+      <workItem from="1547703942119" duration="799000" />
+      <workItem from="1547782516625" duration="2794000" />
+      <workItem from="1548171127735" duration="1129000" />
+      <workItem from="1548346953375" duration="1649000" />
+      <workItem from="1548380722115" duration="422000" />
+      <workItem from="1548387843657" duration="1022000" />
+      <workItem from="1548408949028" duration="131000" />
+      <workItem from="1548834739543" duration="148000" />
+      <workItem from="1549695698002" duration="158000" />
+      <workItem from="1549938423262" duration="325000" />
+      <workItem from="1549953561332" duration="674000" />
+      <workItem from="1549963249857" duration="261000" />
+      <workItem from="1550030692432" duration="271000" />
+      <workItem from="1550038308232" duration="401000" />
+      <workItem from="1550126760406" duration="274000" />
+      <workItem from="1550224233549" duration="171000" />
+      <workItem from="1550678578451" duration="123000" />
+      <workItem from="1550739012483" duration="1316000" />
+      <workItem from="1550765984829" duration="659000" />
+      <workItem from="1551337205312" duration="125000" />
+      <workItem from="1551620280941" duration="1868000" />
+      <workItem from="1551710180349" duration="676000" />
+      <workItem from="1551795486355" duration="201000" />
+      <workItem from="1551800005691" duration="746000" />
+      <workItem from="1551969631087" duration="1231000" />
+      <workItem from="1552446198308" duration="166000" />
+      <workItem from="1552446576326" duration="20000" />
+      <workItem from="1553226247373" duration="95000" />
+      <workItem from="1553226371604" duration="26000" />
+      <workItem from="1553671339953" duration="910000" />
+      <workItem from="1553839076087" duration="181000" />
+      <workItem from="1554303368793" duration="98000" />
+      <workItem from="1554355395945" duration="1997000" />
+      <workItem from="1554787596456" duration="340000" />
+      <workItem from="1554787939781" duration="1204000" />
+      <workItem from="1554818969180" duration="530000" />
+      <workItem from="1554860037184" duration="662000" />
+      <workItem from="1555047740419" duration="16643000" />
+      <workItem from="1555296119845" duration="479000" />
+      <workItem from="1555425682465" duration="2451000" />
+      <workItem from="1555571116518" duration="362000" />
+      <workItem from="1555663577454" duration="20340000" />
+      <workItem from="1556030112995" duration="13348000" />
+      <workItem from="1556118999937" duration="192000" />
+      <workItem from="1556412721808" duration="1700000" />
+      <workItem from="1556447558297" duration="103000" />
+      <workItem from="1556608825182" duration="189000" />
+      <workItem from="1556615707527" duration="750000" />
+      <workItem from="1557021321786" duration="197000" />
+      <workItem from="1557036808726" duration="257000" />
+      <workItem from="1557139101019" duration="121000" />
+      <workItem from="1557241204274" duration="171000" />
+      <workItem from="1557242667621" duration="134000" />
+      <workItem from="1557590394520" duration="440000" />
+      <workItem from="1557676794678" duration="2000" />
+      <workItem from="1557712335643" duration="354000" />
+      <workItem from="1557716092765" duration="231000" />
+      <workItem from="1560237867224" duration="419000" />
+      <workItem from="1560403061766" duration="759000" />
+      <workItem from="1560508136381" duration="28000" />
+      <workItem from="1564487249437" duration="235000" />
+      <workItem from="1564487903358" duration="40000" />
+      <workItem from="1565792634251" duration="660000" />
+      <workItem from="1565795989512" duration="436000" />
+      <workItem from="1569683151831" duration="207000" />
+      <workItem from="1571029970734" duration="166000" />
+      <workItem from="1583305467956" duration="280000" />
+      <workItem from="1585703818255" duration="200000" />
+      <workItem from="1615172689693" duration="1000" />
+      <workItem from="1631867175362" duration="446000" />
+      <workItem from="1631867625443" duration="468000" />
+      <workItem from="1631868098468" duration="41000" />
+      <workItem from="1631868143227" duration="98000" />
+      <workItem from="1631868245292" duration="146000" />
+      <workItem from="1631868394606" duration="58000" />
+      <workItem from="1631868456483" duration="596000" />
+    </task>
+    <task id="LOCAL-00128" summary="github:star: commit">
+      <created>1555055483573</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1555055483573</updated>
+    </task>
+    <task id="LOCAL-00129" summary="github:star: commit">
+      <created>1555055534055</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1555055534056</updated>
+    </task>
+    <task id="LOCAL-00130" summary="github:star: commit">
+      <created>1555080125705</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1555080125705</updated>
+    </task>
+    <task id="LOCAL-00131" summary="github:star: commit">
+      <created>1555082536941</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1555082536941</updated>
+    </task>
+    <task id="LOCAL-00132" summary="github:star: commit">
+      <created>1555082604735</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1555082604735</updated>
+    </task>
+    <task id="LOCAL-00133" summary="github:star: commit">
+      <created>1555166616435</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1555166616435</updated>
+    </task>
+    <task id="LOCAL-00134" summary="github:star: commit">
+      <created>1555166708588</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1555166708589</updated>
+    </task>
+    <task id="LOCAL-00135" summary="github:star: commit">
+      <created>1555167171941</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1555167171942</updated>
+    </task>
+    <task id="LOCAL-00136" summary="github:star: commit">
+      <created>1555167242200</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1555167242201</updated>
+    </task>
+    <task id="LOCAL-00137" summary="github:star: commit">
+      <created>1555252224883</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1555252224883</updated>
+    </task>
+    <task id="LOCAL-00138" summary="github:star: commit">
+      <created>1555255388058</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1555255388058</updated>
+    </task>
+    <task id="LOCAL-00139" summary="github:star: commit">
+      <created>1555257010205</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1555257010205</updated>
+    </task>
+    <task id="LOCAL-00140" summary="github:star: commit">
+      <created>1555298593080</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1555298593080</updated>
+    </task>
+    <task id="LOCAL-00141" summary="github:star: commit">
+      <created>1555428219831</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1555428219831</updated>
+    </task>
+    <task id="LOCAL-00142" summary="github:star: commit">
+      <created>1555571164948</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1555571164949</updated>
+    </task>
+    <task id="LOCAL-00143" summary="github:star: commit">
+      <created>1555682898068</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1555682898068</updated>
+    </task>
+    <task id="LOCAL-00144" summary="github:star: commit">
+      <created>1555687458022</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1555687458022</updated>
+    </task>
+    <task id="LOCAL-00145" summary="github:star: commit">
+      <created>1555776098447</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1555776098447</updated>
+    </task>
+    <task id="LOCAL-00146" summary="github:star: commit">
+      <created>1555846292969</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846292970</updated>
+    </task>
+    <task id="LOCAL-00147" summary="github:star: commit">
+      <created>1555846373714</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846373714</updated>
+    </task>
+    <task id="LOCAL-00148" summary="github:star: commit">
+      <created>1555846424434</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846424434</updated>
+    </task>
+    <task id="LOCAL-00149" summary="github:star: commit">
+      <created>1555846467324</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846467324</updated>
+    </task>
+    <task id="LOCAL-00150" summary="github:star: commit">
+      <created>1555846493453</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846493453</updated>
+    </task>
+    <task id="LOCAL-00151" summary="github:star: commit">
+      <created>1555846589453</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846589454</updated>
+    </task>
+    <task id="LOCAL-00152" summary="github:star: commit">
+      <created>1555846669525</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1555846669525</updated>
+    </task>
+    <task id="LOCAL-00153" summary="github:star: commit">
+      <created>1555861436019</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1555861436019</updated>
+    </task>
+    <task id="LOCAL-00154" summary="github:star: commit">
+      <created>1555863135295</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1555863135295</updated>
+    </task>
+    <task id="LOCAL-00155" summary="github:star: commit">
+      <created>1556030757320</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1556030757320</updated>
+    </task>
+    <task id="LOCAL-00156" summary="github:star: commit">
+      <created>1556034834987</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1556034834987</updated>
+    </task>
+    <task id="LOCAL-00157" summary="github:star: commit">
+      <created>1556078728118</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1556078728118</updated>
+    </task>
+    <task id="LOCAL-00158" summary="github:star: commit">
+      <created>1556112759061</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1556112759062</updated>
+    </task>
+    <task id="LOCAL-00159" summary="github:star: commit">
+      <created>1556115975732</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1556115975732</updated>
+    </task>
+    <task id="LOCAL-00160" summary="github:star: commit">
+      <created>1556116321754</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1556116321754</updated>
+    </task>
+    <task id="LOCAL-00161" summary="github:star: commit">
+      <created>1556119056628</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1556119056628</updated>
+    </task>
+    <task id="LOCAL-00162" summary="github:star: commit">
+      <created>1556415571449</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1556415571449</updated>
+    </task>
+    <task id="LOCAL-00163" summary="github:star: commit">
+      <created>1556417357953</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1556417357953</updated>
+    </task>
+    <task id="LOCAL-00164" summary="github:star: commit">
+      <created>1556616316624</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1556616316624</updated>
+    </task>
+    <task id="LOCAL-00165" summary="github:star: commit">
+      <created>1557021524904</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1557021524905</updated>
+    </task>
+    <task id="LOCAL-00166" summary="github:star: commit">
+      <created>1557712574924</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1557712574924</updated>
+    </task>
+    <task id="LOCAL-00167" summary="github:star: commit">
+      <created>1560237879766</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1560237879767</updated>
+    </task>
+    <task id="LOCAL-00168" summary="github:star: commit">
+      <created>1560403217199</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1560403217199</updated>
+    </task>
+    <task id="LOCAL-00169" summary="github:star: commit">
+      <created>1564487266096</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1564487266098</updated>
+    </task>
+    <task id="LOCAL-00170" summary="github:star: commit">
+      <created>1564487925001</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1564487925001</updated>
+    </task>
+    <task id="LOCAL-00171" summary="github:star: commit">
+      <created>1565792677303</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1565792677304</updated>
+    </task>
+    <task id="LOCAL-00172" summary="github:star: commit">
+      <created>1569683179788</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1569683179790</updated>
+    </task>
+    <task id="LOCAL-00173" summary="github:star: commit">
+      <created>1571029985376</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1571029985377</updated>
+    </task>
+    <task id="LOCAL-00174" summary="github:star: commit">
+      <created>1583305500608</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1583305500608</updated>
+    </task>
+    <task id="LOCAL-00175" summary="github:star: commit">
+      <created>1585703849984</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1585703849986</updated>
+    </task>
+    <task id="LOCAL-00176" summary="github:star: commit 加入算法内容">
+      <created>1631867273860</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1631867273861</updated>
+    </task>
+    <option name="localTasksCounter" value="177" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="redis" />
+    <MESSAGE value="spring" />
+    <MESSAGE value="github-top" />
+    <MESSAGE value="github" />
+    <MESSAGE value="github:star:" />
+    <MESSAGE value="github:star: MQ" />
+    <MESSAGE value="github:star: spring" />
+    <MESSAGE value="github:star: 缓存" />
+    <MESSAGE value="github:star: 编码" />
+    <MESSAGE value="github:star: commit" />
+    <MESSAGE value="github:star: commit 加入算法内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="github:star: commit 加入算法内容" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="108" key="CommitChangelistDialog2" timestamp="1631867315596">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="263" y="108" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1631867315596" />
+    <state x="206" y="74" key="SettingsEditor" timestamp="1631867796946">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="206" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1631867796946" />
+    <state x="304" y="175" key="Vcs.Push.Dialog.v2" timestamp="1631868427663">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="304" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1631868427663" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
