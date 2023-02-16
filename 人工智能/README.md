@@ -6,8 +6,6 @@
 
 2、[Knowledge Base 归档 - 产品经理的人工智能学习库](https://easyai.tech/ai-definition/)
 
-
-
 二、 优秀开源项目
 
 https://github.com/PaddlePaddle/PaddleNLP

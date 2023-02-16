@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "db93b67950198d63",
+    "type": "split",
+    "children": [
+      {
+        "id": "72535645b3215bee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "管理/研发管理/开发工具/工具知识库.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55edd70aba4da44b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d5f8afc8a1b813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4271a5bf22d6da97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "527754b368182c6f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7eb396eb7d9b05d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "536d58c8af0f929c",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b0c5160aacfed4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64e03fff6e3f367b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "管理/研发管理/开发工具/工具知识库.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91e0a2e4961f6e09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "管理/研发管理/开发工具/工具知识库.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9024ab782fb18322",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f002b9f313920ef1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "管理/研发管理/开发工具/工具知识库.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "72535645b3215bee",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "2022-07-13.md",
+    "安全/加密.md",
+    "安全/会话.md"
+  ]
+}
