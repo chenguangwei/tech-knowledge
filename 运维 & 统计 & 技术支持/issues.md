@@ -6,6 +6,7 @@ issues
 解决办法是 修改 vm.Overcommit =1 
 
 为什么要这样改 参考资料
+
 - [linux下overcommit_memory的问题](https://blog.csdn.net/houjixin/article/details/46412557)
 
 注意理解 overcommit三个值的不同含义
@@ -26,17 +27,15 @@ issues
       （2）sysctl vm.overcommit_memory=1
     
       （3）echo 1 > /proc/sys/vm/overcommit_memory
-      
-      
-  
+
  如果出现这种情况 确认是不是需要改这个overcommit的值，可以通过下面方式确认
- 
+
      grep -i commit /proc/meminfo
-     
+    
      看到CommitLimit和Committed_As参数。
-     
+    
      CommitLimit是一个内存分配上限,CommitLimit = 物理内存 * overcommit_ratio(默认50，即50%) + swap大小
-     
+    
      Committed_As是已经分配的内存大小。
-     
+    
      如果 Committed_As-CommitLimit 没有值，两者数值差不多，没有剩余的值了，如果使用 free -m 还有物理内存的话，那就可以把值设为1 看下 

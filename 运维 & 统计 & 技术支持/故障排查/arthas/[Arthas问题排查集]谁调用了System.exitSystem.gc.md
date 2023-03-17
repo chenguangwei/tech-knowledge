@@ -1,9 +1,5 @@
 # 【Arthas问题排查集】谁调用了System.exit/System.gc?
 
-
-
-
-
 我们有时候可能会遇到这样的问题，进程莫名其妙的退出了，或者是发生了GC，通过日志或者是其他办法发现是有人调用了`System.gc/System.exit`，但是确不知道是谁干的。
 
 如何找出这个罪魁祸首呢？一般来说，可以通过一段Btrace脚本来解决
@@ -158,9 +154,5 @@ screen -r
 ```
 
 就可以恢复原来的session，并查看结果。
-
-
-
-
 
 PS:最新版本的Arthas已经支持通过管道把结果保存到文件当中。详细的文档可见：https://alibaba.github.io/arthas/async.html
