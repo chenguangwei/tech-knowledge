@@ -56,13 +56,14 @@
 
 ### 二、 prompt 资料
 
-| 名称                   | 地址                                           | 备注                                                                                         |
-| -------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| OpenAI 和 吴恩达的提示工程师课程 | https://www.bilibili.com/video/BV1qo4y1w7zV/ | OpenAI 和 吴恩达的提示工程师课程挺给力， prompt 原则和具体策略，脑图：![](/Users/zhangbo/Downloads/gpt-prompt教程.jpeg) |
-|                      |                                              |                                                                                            |
-|                      |                                              |                                                                                            |
+| 名称                   | 地址                                           | 备注                                                                                        |
+| -------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| OpenAI 和 吴恩达的提示工程师课程 | https://www.bilibili.com/video/BV1qo4y1w7zV/ | OpenAI 和 吴恩达的提示工程师课程挺给力， prompt 原则和具体策略，脑图：![loading-ag-5640](./images/gpt-prompt教程.jpeg) |
+| 提示工程指南               | https://www.promptingguide.ai/zh             |                                                                                           |
+| ChatGPT 提问艺术.pdf     | [](ChatGPT 提问艺术.pdf)                         |                                                                                           |
+| Prompt分享.png         | [](./images/Prompt分享.png)                    | ![](./images/Prompt分享.png)                                                                |
 
-### 三、工具资料整理
+
 
 | 名称     | 分类  | 地址                | 备注                                                                                                |
 | ------ | --- | ----------------- | ------------------------------------------------------------------------------------------------- |
@@ -92,8 +93,6 @@
 | 13  | pypdfium2 - 一个新的PDF加载器       | [链接](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/pdf.html#using-pypdfium2) |                                                                         |                                        |                       |
 | 14  | 从维基百科加载文档                    | [链接](https://python.langchain.com/en/latest/modules/indexes/document_loaders/examples/wikipedia.html)           |                                                                         |                                        |                       |
 
-   
-
 参考资料： 
 
 2. chatgpt插件收集： https://three-recorder-52a.notion.site/chatgpt-5-4-34551fe088b04e38888d44a275aa22aa
@@ -106,14 +105,8 @@
 
 [Pandas AI是一个Python库，为流行的数据分析和操作工具Pandas添加了生成式人工智能功能。它被设计为与Panda一起使用，而不是替代它](https://github.com/gventuri/pandas-ai.git)
 
-
-
 ### 六、模型训练
 
 [# 如何训练自己的“安全大模型”](https://mp.weixin.qq.com/s/801sV5a7-wOh_1EN3U64-Q)
 
 [# 使用fine tuning与LoRA技术从零训练自己的大模型](https://mp.weixin.qq.com/s/GQQxFX2r7rnS1hn1OCb3rg)
-
-
-
-
