@@ -63,8 +63,6 @@
 | ChatGPT 提问艺术.pdf     | [](ChatGPT 提问艺术.pdf)                         |                                                                                           |
 | Prompt分享.png         | [](./images/Prompt分享.png)                    | ![](./images/Prompt分享.png)                                                                |
 
-
-
 | 名称     | 分类  | 地址                | 备注                                                                                                |
 | ------ | --- | ----------------- | ------------------------------------------------------------------------------------------------- |
 | AI简历生成 | 工具  | https://easycv.cn | 简单简历，针对程序员的简历生成工具：1 多个美观的基于 Tailwind.css 的响应式模版 2 真实的不同技术栈的简历范本 3 支持 URL 分享及 PDF 下载 4 免费的技术简历书写指南 |
@@ -100,6 +98,8 @@
 3. 70款ChatGPT插件评测：惊艳的开发过程与宏大的商业化愿景: https://mp.weixin.qq.com/s/lj90Rg3wIRaalZn1PV-efA
 
 4. AI 智库 ： https://ki6j1b0d92h.feishu.cn/wiki/wikcnAFcEccJ5iXiU8MRntc2Vyb
+
+5. 使用 gpt4free-ts 完全免费白嫖 GPT-4 ([使用 gpt4free-ts 完全免费白嫖 GPT-4 ](https://icloudnative.io/posts/completely-free-to-use-gpt4/))
 
 ### 五、 开源资料
 

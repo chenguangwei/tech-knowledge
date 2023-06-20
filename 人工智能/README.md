@@ -13,3 +13,11 @@ https://github.com/PaddlePaddle/PaddleNLP
 https://github.com/Langboat/mengzi-zero-shot
 
 [GitHub - thunlp/OpenPrompt: An Open-Source Framework for Prompt-Learning.](https://github.com/thunlp/OpenPrompt)
+
+
+
+三、AI 变现
+
+16篇AI 变现实战案例教程下载
+
+https://ki6j1b0d92h.feishu.cn/wiki/wikcnBXS5BaZNe1CYkjNIry4dTc
