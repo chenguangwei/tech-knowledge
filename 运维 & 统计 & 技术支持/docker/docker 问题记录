@@ -1,0 +1,9 @@
+docker问题记录
+
+=======
+
+- docker暴漏端口正常、但是外部应该访问不了容器，可以ping 通docker容器，Telnet不同端口  ，
+  解决：`firewall-cmd --permanent --zone=public --add-rich-rule='rule family=ipv4 source address=172.19.0.0/16 accept'`
+       `firewall-cmd --reload`
+-  `Unable to enable SKIP DNAT rule:  (iptables failed: iptables --wait -t nat -I DOCKER -i br-bb12c41ff1a7 -j`
+   解决：service docker restart
